@@ -3,5 +3,5 @@
 
 Web page
 
-* Web site: http://taekwondo-strancice.cz
+* Web site: http://taekwondo-strancice.cz/
 
