@@ -1,6 +1,6 @@
 Taekwon-Do ITF Strančice
 ========================
 
-Web page
+Webové stránky školy
 
-* Web site: http://taekwondo-strancice.cz
+* Adresa: http://taekwondo-strancice.cz/
