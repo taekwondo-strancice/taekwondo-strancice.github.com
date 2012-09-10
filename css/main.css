@@ -1,11 +1,22 @@
 /* Add additional stylesheets below
 -------------------------------------------------- */
 /*
-  Bootstrap's documentation styles
-  Special styles for presenting Bootstrap's documentation and examples
+  Web styles
 */
 
-
+/* Fonts
+-------------------------------------------------- */
+@font-face {
+    font-family: 'tkd_strancice';
+    src: url('../fonts/tkdstrancice-regular-webfont.eot');
+    src: url('../fonts/tkdstrancice-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/tkdstrancice-regular-webfont.woff') format('woff'),
+    url('../fonts/tkdstrancice-regular-webfont.ttf') format('truetype'),
+    url('../fonts/tkdstrancice-regular-webfont.svg#tkd_stranciceregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.tkd { font-family: 'tkd_strancice'; font-size: 300px; }
 
 /* Body and structure
 -------------------------------------------------- */
@@ -20,8 +31,6 @@ h3 code {
   font-size: 14px;
   font-weight: normal;
 }
-
-
 
 /* Tweak navbar brand link to be super sleek
 -------------------------------------------------- */
