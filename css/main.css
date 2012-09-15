@@ -141,7 +141,8 @@ body > .navbar .navbar-inner {
 
 header {
 	/*background: transparent url(http://www.10yearsintype.com/images/stories-grid-bottom.png) repeat left 0px;*/
-	background: #E4E8E9 url('http://www.teixido.co/gfx/backs/background_opcion2.jpg') repeat left top;
+	/*background: #E4E8E9 url('http://www.teixido.co/gfx/backs/background_opcion2.jpg') repeat left top;*/
+	background: #E4E8E9 url('../img/bg-opcion2.jpg') repeat left top;
 	height: 166px;
 	position: relative;
 	-webkit-box-shadow: inset 0 -3px 4px rgba(0, 0, 0, .1), inset 0 -1px 0 rgba(255, 255, 255, .1);
