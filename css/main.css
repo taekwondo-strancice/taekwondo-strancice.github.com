@@ -287,7 +287,7 @@ hr.soften {
 
 .marketing {
   margin-top:50px;
-  text-align: center;
+  /*text-align: center;*/
   color: #5a5a5a;
 }
 .marketing h1 {
@@ -300,6 +300,7 @@ hr.soften {
 .marketing h2 {
   font-weight: 200;
   margin-bottom: 5px;
+  text-align: center;
 }
 .marketing p {
   font-size: 16px;
@@ -318,7 +319,12 @@ hr.soften {
   margin: 0 auto 30px;
 }
 
-
+.marketing .dl-horizontal dt {
+	width: 50px;
+}
+.marketing .dl-horizontal dd {
+	margin-left: 60px;
+}
 
 /* Footer
 -------------------------------------------------- */
