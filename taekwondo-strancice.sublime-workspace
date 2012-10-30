@@ -7,6 +7,38 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_includes/themes/twitter/default.html",
+			"settings":
+			{
+				"buffer_size": 3206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 4149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com (kopie)/index.html",
+			"settings":
+			{
+				"buffer_size": 8050,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/themes/twitter/css/main.css",
+			"settings":
+			{
+				"buffer_size": 24006,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -44,6 +76,10 @@
 	},
 	"file_history":
 	[
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/assets/themes/twitter/css/main.css",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com (kopie)/css/main.css",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/JB/analytics",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/JB/analytics-providers/google",
 		"/Users/jurby/Library/Application Support/Sublime Text 2/Packages/LiveReload/README.md",
 		"/Users/jurby/Dropbox/Projects/jurby.github.com/jurby.guthub.com.sublime-project",
 		"/Users/jurby/Dropbox/Projects/jurby.github.com/_includes/JB/setup",
@@ -95,6 +131,8 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes",
+			"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com",
 			"/Users/jurby/Dropbox/Projects/jurby.github.com"
 		]
 	},
@@ -103,6 +141,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"navbar-i",
+			"font-fami",
+			"carousel",
+			"jumbotron",
+			"header",
+			"tkd",
+			"site.safe",
+			"site.save",
 			"{% include JB/posts_collate %}",
 			"---",
 			"-/>",
@@ -124,8 +170,127 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_includes/themes/twitter/default.html",
+					"settings":
+					{
+						"buffer_size": 3206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1934,
+								1934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 4149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 55.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com (kopie)/index.html",
+					"settings":
+					{
+						"buffer_size": 8050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3195,
+								2685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 725.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/themes/twitter/css/main.css",
+					"settings":
+					{
+						"buffer_size": 24006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2544,
+								2544
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1112.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -146,11 +311,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.538595677525,
 			1.0
 		],
 		"rows":
@@ -198,9 +370,9 @@
 		"width": 380.0
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 285.0,
+	"side_bar_width": 213.0,
 	"status_bar_visible": true
 }

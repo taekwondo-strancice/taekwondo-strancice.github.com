@@ -25,7 +25,7 @@ body {
 }
 
 .container {
-	padding-left: 70px;
+	padding-left: 75px;
 }
 @media (max-width: 979px) {
 	.navbar .container {
@@ -73,8 +73,8 @@ body > .navbar .brand:hover {
 	color: #E2001A;
 	line-height: 1;
 	position: absolute;
-	left: -70px;
-	top: 0;
+	left: -75px;
+	top: 3px;
 	text-shadow: 0 1px 0 rgba(255,255,255,.1), 0 0 30px rgba(255,255,255,.125);
 }
 
@@ -101,8 +101,8 @@ body > .navbar .nav {
 }
 
 body > .navbar .navbar-inner {
-	padding-top: 16px;
-	min-height: 74px;
+	padding-top: 13px;
+	min-height: 77px;
 	background: #fff;
 	border-bottom: 1px solid #CCC;
 	filter: none;

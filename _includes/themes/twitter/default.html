@@ -42,11 +42,6 @@
 							<a class="brand tkd logo" href="{{ HOME_PATH }}">{{ site.title }} <small>{{ site.tagline }}</small></a>
 							<div class="nav-collapse collapse">
 									<ul class="nav nav-pills">
-										<!--<li class="active"><a href="/">Úvod</a></li>
-										<li class=""><a href="/">O škole</a></li>
-										<li class=""><a href="/">Taekwon-Do</a></li>
-										<li class=""><a href="/">Trenéři</a></li>
-										<li class=""><a href="/">Kontakt</a></li>-->
 										{% assign pages_list = site.pages %}
 										{% assign group = 'navigation' %}
 										{% include JB/pages_list %}
@@ -56,35 +51,19 @@
 			</div>
 	</div>
 
-	<section class="main-info">
-	  <div class="container">
-	  	<figure>
-		  <figcaption>Nábor</figcaption>
-		  <p>Protáhněte se, naučte se ovládat své tělo a bránit se</p>
-		<figure>
-	  </div>
-	</section>
+	{{ content }}
 
-	<section class="info">
-		<div class="container">
-			Probíhá nábor nových členů &mdash; uterý od 17:30 hodin a pátek od 18 hodin
-		</div>
-	</section>
-
-	<div class="container">
-
-		<div class="content">
-			{{ content }}
-		</div>
-
-		<footer>
-			<p>&copy; {{ site.title }} 2012 
-				with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-				and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-			</p>
-		</footer>
-
-	</div> <!-- /container -->
+	<footer class="footer">
+	    <div class="container">
+	        <p class="pull-right"><a href="#">Zpět na začátek</a></p>
+	        <p>&copy; {{ site.title }} 2012</p>
+	        <ul class="footer-links">
+	            <li><a href="http://www.taekwondounie.estranky.cz/" title="České národní unie Taekwon-Do ITF">ČNUT</a></li>
+	            <li><a href="http://www.itfeurope.org/" title="All Europe Taekwon-do Federation">AETF</a></li>
+	            <li><a href="http://tkd-itf.org/" title="International Taekwon-Do Federation">ITF</a></li>
+	        </ul>
+	    </div>
+	</footer>
 
 	{% include JB/analytics %}
 </body>
