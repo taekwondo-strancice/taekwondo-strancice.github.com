@@ -1,0 +1,52 @@
+---
+layout: page
+title: Kontakt
+group: navigation
+weight: 10
+permalink: /
+---
+{% include JB/setup %}
+
+<div class="row-fluid">
+	<div class="span6">
+		<h2>Škola</h2>
+
+		<address>
+			<strong>Taekwon-Do ITF Strančice</strong><br>
+			Dřevčická 2200/A<br>
+			25001 Brandýs nad Labem<br><br>
+			<abbr title="IČ">IČ:</abbr> 22709860<br>
+			<abbr title="Bankovní spojení">Bankovní spojení:</abbr> 2600317334/2010<br><br>
+			<a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a>
+		</address>
+	</div>
+
+	<div class="span6">
+		<h2>Rada</h2>
+
+		<address>
+		  <strong>Petra Výchopeň Bláhová</strong> (předseda)<br>
+		  <a href="mailto:blahova.petra@taekwondo-strancice.cz">blahova.petra@taekwondo-strancice.cz</a>
+		</address>
+
+		<address>
+		  <strong>Monika Dobíhalová</strong> (hospodář)<br>
+		  <a href="mailto:dobihalova.monika@taekwondo-strancice.cz">dobihalova.monika@taekwondo-strancice.cz</a>
+		</address>
+
+		<address>
+		  <strong>Jaroslav Urbánek</strong><br>
+		  <a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a>
+		</address>
+
+		<address>
+		  <strong>Josef Kubát</strong><br>
+		  <a href="mailto:kubat.josef@taekwondo-strancice.cz">kubat.josef@taekwondo-strancice.cz</a>
+		</address>
+
+		<address>
+		  <strong>Tomáš Mácha</strong><br>
+		  <a href="mailto:macha.tomas@taekwondo-strancice.cz">macha.tomas@taekwondo-strancice.cz</a>
+		</address>
+	</div>
+</div>

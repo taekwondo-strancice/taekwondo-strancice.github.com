@@ -2,7 +2,9 @@
 layout: page
 title: O škole
 tagline: Taekwon-Do ITF Strančice
-permalink: /skola/
+group: navigation
+weight: 3
+permalink: /
 ---
 {% include JB/setup %}
 

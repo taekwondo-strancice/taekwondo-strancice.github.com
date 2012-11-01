@@ -5,6 +5,7 @@ permalink: /:categories/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
+#safe: false
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -71,7 +72,7 @@ JB :
   # Some JB helpers refer to these paths; change theme here if needed.
   #
   archive_path: /novinky.html
-  categories_path : /kategorie.html
+  categories_path : /categories.html
   tags_path : /tags.html
 
   # Settings for comments helper
@@ -121,4 +122,6 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   posts_collate:
+    provider: "custom"
+  pages_list:
     provider: "custom"
