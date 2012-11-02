@@ -16,10 +16,10 @@
 			}
 		},
 		{
-			"file": "_config.yml",
+			"file": "_includes/custom/pages_list",
 			"settings":
 			{
-				"buffer_size": 4236,
+				"buffer_size": 743,
 				"line_ending": "Unix"
 			}
 		},
@@ -35,8 +35,8 @@
 			"file": "assets/themes/twitter/css/main.css",
 			"settings":
 			{
-				"buffer_size": 23987,
-				"line_ending": "Unix"
+				"buffer_size": 24011,
+				"line_ending": "CR"
 			}
 		}
 	],
@@ -76,6 +76,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_config.yml",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/assets/themes/twitter/css/main.css",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com (kopie)/css/main.css",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/JB/analytics",
@@ -170,7 +171,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -185,8 +186,8 @@
 						"selection":
 						[
 							[
-								2402,
-								2402
+								2341,
+								2341
 							]
 						],
 						"settings":
@@ -290,18 +291,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_config.yml",
+					"file": "_includes/custom/pages_list",
 					"settings":
 					{
-						"buffer_size": 4236,
+						"buffer_size": 743,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								63,
+								63
 							]
 						],
 						"settings":
@@ -393,12 +394,12 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 55.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -529,15 +530,15 @@
 					"file": "assets/themes/twitter/css/main.css",
 					"settings":
 					{
-						"buffer_size": 23987,
+						"buffer_size": 24011,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9012,
-								9012
+								768,
+								768
 							]
 						],
 						"settings":
@@ -634,7 +635,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4856.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

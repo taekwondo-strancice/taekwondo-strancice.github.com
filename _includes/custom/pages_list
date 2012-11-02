@@ -1,13 +1,14 @@
-<li>{{ "a~b" | split:'~' }}|{{ (page.url | split:'/' | first | prettyprint) }}</li>
+{% assign category = page.url | split:'/' %}
 {% for weight in (1..10) %}
   {% for node in pages_list %}
     {% if node.weight == weight %}
       {% if node.title != null %}
         {% if group == null or group == node.group %}
-          {% if page.url == node.url %}
-          <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}|{{ (node.url | split:'/' | prettyprint) }}</a></li>
+          {% assign nodeCategory = node.url | split:'/' %}
+          {% if page.url == node.url or category[1] == nodeCategory[1] %}
+          <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
           {% else %}
-          <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}|{{ (node.url | split:'/' | prettyprint) }}</a></li>
+          <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
           {% endif %}
         {% endif %}
       {% endif %}
