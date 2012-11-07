@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Taekwon-Do ITF
+title: Taekwon-Do
 tagline: Korejské umění sebeobrany
 group: navigation
 weight: 5

@@ -26,21 +26,25 @@ permalink: /
 
 		<address>
 		  <strong>Petra Výchopeň Bláhová</strong> (předseda)<br>
+		  +420604344604<br>
 		  <a href="mailto:blahova.petra@taekwondo-strancice.cz">blahova.petra@taekwondo-strancice.cz</a>
 		</address>
 
 		<address>
 		  <strong>Monika Dobíhalová</strong> (hospodář)<br>
+		  +420733690075<br>
 		  <a href="mailto:dobihalova.monika@taekwondo-strancice.cz">dobihalova.monika@taekwondo-strancice.cz</a>
 		</address>
 
 		<address>
 		  <strong>Jaroslav Urbánek</strong><br>
+		  +420777007070<br>
 		  <a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a>
 		</address>
 
 		<address>
 		  <strong>Josef Kubát</strong><br>
+		  +420607667343<br>
 		  <a href="mailto:kubat.josef@taekwondo-strancice.cz">kubat.josef@taekwondo-strancice.cz</a>
 		</address>
 

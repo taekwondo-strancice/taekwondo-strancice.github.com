@@ -10,8 +10,8 @@ permalink: /
 
 ## Historie
 
-Založení...
+Škola Taekwon-Do ITF strančice byla založena v roce 2002 trenérkou Petrou Bláhovou. V této době ve škole začal působit také trenér Josef Kubát.
 
 ## Současnost
 
-Současnost
+V současné době je škola vedena jako občanské sdružení.
