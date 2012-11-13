@@ -3,39 +3,31 @@
 	{
 		"selected_items":
 		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font-",
+				"font-weight"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "_config.yml",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4629,
-				"line_ending": "CR"
-			}
-		},
-		{
-			"file": "assets/themes/twitter/css/main.css",
-			"settings":
-			{
-				"buffer_size": 24553,
-				"line_ending": "CR"
-			}
-		},
-		{
-			"file": "index.md",
-			"settings":
-			{
-				"buffer_size": 1857,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/themes/twitter/default.html",
-			"settings":
-			{
-				"buffer_size": 3110,
+				"buffer_size": 3452,
 				"line_ending": "Unix"
 			}
 		}
@@ -47,19 +39,19 @@
 		"selected_items":
 		[
 			[
-				"pa",
-				"Package Control: List Packages"
-			],
-			[
 				"pac",
 				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
 			],
 			[
 				"packa",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 471.0
 	},
 	"console":
 	{
@@ -76,21 +68,56 @@
 	},
 	"file_history":
 	[
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/default.html",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/pages_list",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/posts_collate",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_posts/zavody/2012-11-01-vanocni-pohar-2012.md",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/treneri/index.md",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/skola/index.md",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/kontakt/index.md",
-		"/I/www2/vhost/test/www/Rest.inc.php",
-		"/I/www2/vhost/test/www/index.php",
-		"/C/Users/jaroslav.urbanek/Downloads/Rest.inc.php",
-		"/C/Users/jaroslav.urbanek/Downloads/api.php",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_posts/carousel/2012-11-01-vanocni-pohar-2012.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com (kopie)/index.html",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_config.yml",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/jaroslav-urbanek/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/posts_list",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/default.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_config.yml",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/assets/themes/twitter/css/main.css",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2012-10-29-zalozeni-uctu-v-bance.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/skola/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/page.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/README.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/CNAME",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/.gitignore",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-11-27-zkousky-na-zakovske-technicke-stupne.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/js/main.js",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/404.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_layouts/post.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/post-calendar.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/core-samples/-2011-12-29-jekyll-introduction.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2012-10-01-skola-taekwon-do-itf-strancice-se-stala-obcanskym-sdruzenim.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-11-01-vanocni-pohar-2012.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/clenove/2012-11-01-jaroslav-urbanek.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/kategorie.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/core-samples/2012-12-29-jekyll-introduction.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/page-landing.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/post.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_layouts/category_index.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/tags_list",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/zavody/2012-11-01-vanocni-pohar-2012.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/core-samples/2011-12-29-jekyll-introduction.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/categories.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/taekwon-do/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/kontakt/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/JB/tags_list",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/pages_list",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_plugins/navigation.rb",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/archive.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com (kopie)/index.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_site/novinky/index.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/posts_collate",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/99-kontakt.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/04-treneri.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/00-index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/01-archive.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/03-taekwon-do.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/02-o-skole.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/tags.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/pages.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/404.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_layouts/page-landing.html",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com (kopie)/css/main.css",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/JB/analytics",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/JB/analytics-providers/google",
@@ -155,8 +182,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"this_month",
-			"Bcrypt",
+			"pages_list",
+			"\n---",
+			"h3",
+			"Do",
 			"navbar-i",
 			"font-fami",
 			"carousel",
@@ -186,463 +215,32 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_config.yml",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 4629,
+						"buffer_size": 3452,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4533,
-								4390
+								721,
+								721
 							]
 						],
 						"settings":
 						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1260.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "assets/themes/twitter/css/main.css",
-					"settings":
-					{
-						"buffer_size": 24553,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "index.md",
-					"settings":
-					{
-						"buffer_size": 1857,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								509,
-								509
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_includes/themes/twitter/default.html",
-					"settings":
-					{
-						"buffer_size": 3110,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 330.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
