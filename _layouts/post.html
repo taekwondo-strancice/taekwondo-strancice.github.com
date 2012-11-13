@@ -2,4 +2,8 @@
 layout: default
 ---
 {% include JB/setup %}
-{% include themes/twitter/post.html %}
+{% if page.group == 'calendar' %}
+	{% include themes/twitter/post-calendar.html %}
+{% else %}
+	{% include themes/twitter/post.html %}
+{% endif %}

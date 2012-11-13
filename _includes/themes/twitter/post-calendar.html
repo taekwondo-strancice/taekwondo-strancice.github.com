@@ -25,8 +25,9 @@
     </div>
     
     <div class="span4">
-      <h4>Zveřejněno</h4>
-      <div class="date"><span>{{ page.date | date: "%d.%m.%Y" }}</span></div>
+      <h4>Datum konání</h4>
+      <div class="date">
+        <span>{{ page.dateFrom | date: "%d.%m.%Y" }}{% if page.dateFrom | date: "%H:%M" != "00:00" %} {{ page.dateFrom | date: "%H:%M" }}{% endif %}</span>{% if page.dateTo != null %}<span>&nbsp;&mdash;&nbsp;</span>{{ page.dateTo | date: "%d.%m.%Y" }}{% if page.dateTo | date: "%H:%M" != "00:00" %} {{ page.dateTo | date: "%H:%M" }}{% endif %}{% endif %}</div>
 
     {% unless page.tags == empty %}
       <h4>Štítky</h4>
