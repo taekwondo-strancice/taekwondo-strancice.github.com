@@ -1,0 +1,41 @@
+<div class="container">
+  <div class="page-header">
+    <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+  </div>
+
+  <div class="row">
+    <div class="span8">
+      {{ content }}
+      <hr>
+      <div class="pagination pagination-centered">
+        <ul>
+        {% if page.previous %}
+          <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Předchozí</a></li>
+        {% else %}
+          <li class="prev disabled"><a>&larr; Předchozí</a></li>
+        {% endif %}
+          <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Novinky</a></li>
+        {% if page.next %}
+          <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Následující &rarr;</a></li>
+        {% else %}
+          <li class="next disabled"><a>Následující &rarr;</a>
+        {% endif %}
+        </ul>
+      </div>
+    </div>
+    
+    <div class="span4">
+      <h4>Datum konání</h4>
+      <div class="date">
+        <span>{{ page.dateFrom | date: "%d.%m.%Y" }}{% if page.dateFrom | date: "%H:%M" != "00:00" %} {{ page.dateFrom | date: "%H:%M" }}{% endif %}</span>{% if page.dateTo != null %}<span>&nbsp;&mdash;&nbsp;</span>{{ page.dateTo | date: "%d.%m.%Y" }}{% if page.dateTo | date: "%H:%M" != "00:00" %} {{ page.dateTo | date: "%H:%M" }}{% endif %}{% endif %}</div>
+
+    {% unless page.tags == empty %}
+      <h4>Štítky</h4>
+      <ul class="tag_box">
+      {% assign tags_list = page.tags %}
+      {% include JB/tags_list %}
+      </ul>
+    {% endunless %}
+    </div>
+  </div>
+</div>
