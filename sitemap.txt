@@ -1,8 +1,19 @@
----
-# Remember to set production_url in your _config.yml file!
-title : Sitemap
----
-{% for page in site.pages %}
-{{site.production_url}}{{ page.url }}{% endfor %}
-{% for post in site.posts %}
-{{site.production_url}}{{ post.url }}{% endfor %}
+
+http://taekwondo-strancice.cz/404.html
+http://taekwondo-strancice.cz/novinky/
+http://taekwondo-strancice.cz/atom.xml
+http://taekwondo-strancice.cz/categories.html
+http://taekwondo-strancice.cz/
+http://taekwondo-strancice.cz/kategorie/
+http://taekwondo-strancice.cz/kontakt/
+http://taekwondo-strancice.cz/pages.html
+http://taekwondo-strancice.cz/sitemap.txt
+http://taekwondo-strancice.cz/skola/
+http://taekwondo-strancice.cz/taekwon-do/
+http://taekwondo-strancice.cz/tags.html
+http://taekwondo-strancice.cz/treneri/
+
+http://taekwondo-strancice.cz/novinky/zavody/vanocni-pohar-2012
+http://taekwondo-strancice.cz/novinky/zkousky/zkousky-na-zakovske-technicke-stupne
+http://taekwondo-strancice.cz/novinky/o skole/zalozeni-uctu-v-bance
+http://taekwondo-strancice.cz/novinky/o skole/skola-taekwon-do-itf-strancice-se-stala-obcanskym-sdruzenim
