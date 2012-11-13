@@ -1,0 +1,108 @@
+---
+layout: page-landing
+title: Úvod
+group: navigation
+weight: 1
+permalink: /
+
+thumbnails:
+  - type: img
+    name: Středočeský pohár - Říčany (3.3.2012)
+    url: https://plus.google.com/photos/104548895488231546703/albums/5809820314970098449
+    src: /files/img/2012-11-03-stredocesky-pohar.jpg
+  - type: img
+    name: Středočeský pohár - Říčany (3.3.2012)
+    url: https://plus.google.com/photos/104548895488231546703/albums/5719715771094544881
+    src: /files/img/2012-03-03-stredocesky-pohar.jpg
+  - type: img
+    name: Vánoční turnaj - Strančice (3.12.2011)
+    url: https://plus.google.com/photos/104548895488231546703/albums/5684989264882499217
+    src: /files/img/2011-vanocni-pohar.jpg
+---
+{% include JB/setup %}
+
+<div class="row-fluid">
+	<div class="span6">
+		<h2>Novinky</h2>
+		<div class="list lead">
+			<ul class="unstyled posts">
+				{% assign posts_list = site.posts %}
+				{% assign group = 'news' %}
+				{% include custom/posts_list %}
+			</ul>
+		</div>
+	</div>
+	<div class="span6">
+		<h2>Kalendář</h2>
+		<div class="list lead">
+			<ul class="unstyled posts">
+				{% assign posts_list = site.posts | sort:date %}
+				{% assign group = 'calendar' %}
+				{% include custom/posts_list %}
+			</ul>
+		</div>
+	</div>
+</div>
+
+<hr class="soften">
+
+<div class="row-fluid training-schedule">
+	<div class="span12">
+		<h2>Tréninky</h2>
+		<div class="row-fluid t">
+			<div class="r header">
+				<div class="day"></div>
+				<div class="day active"><div class="title">úterý</div></div>
+				<div class="day"></div>
+				<div class="day"></div>
+				<div class="day active"><div class="title">pátek</div></div>
+				<div class="day"></div>
+				<div class="day"></div>
+			</div>
+			<div class="r data">
+				<div class="well day"><div class="title">pondělí</div></div>
+				<div class="well day active">
+					<div class="hours">17:30 &mdash; 18:30</div>
+					<span>nábor</span>
+					<hr>
+					<div class="hours">18:30 &mdash; 19:30</div>
+					<span>pokročilý</span>
+				</div>
+				<div class="well day"><div class="title">středa</div></div>
+				<div class="well day"><div class="title">čtvrtek</div></div>
+				<div class="well day active">
+					<div class="hours">18:00 &mdash; 19:00</div>
+					<span>nábor</span>
+					<hr>
+					<div class="hours">19:00 &mdash; 20:00</div>
+					<span>pokročilý</span>
+				</div>
+				<div class="well day"><div class="title">sobota</div></div>
+				<div class="well day"><div class="title">neděle</div></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+{% if page.thumbnails.size > 0 %}
+	<hr class="soften">
+	<h2>Foto &amp; video</h2>
+	{% comment %}<!--<p class="lead"></p>-->{% endcomment %}
+	<ul class="thumbnails">
+	{% for item in page.thumbnails %}
+		{% if forloop.first or true %}
+		<li class="span4">
+		  <a class="thumbnail" href="{% if item.url %}{{ item.url }}{% else %}#{% endif %}" target="_blank" data-title="{% if item.name %}{{ item.name }}{% endif %}">
+		    <img alt="{% if item.name %}{{ item.name }}{% endif %}" src="{% if item.src %}{{ item.src }}{%else%}http://placehold.it/360x270{% endif %}">
+		  </a>
+		</li>
+		{% else %}
+		<li class="span4">
+		  <a class="thumbnail" href="{% if item.url %}{{ item.url }}{%else%}#{% endif %}" target="_blank" data-title="{% if item.name %}{{ item.name }}{% endif %}">
+		    <img alt="{% if item.name %}{{ item.name }}{% endif %}" src="{% if item.src %}{{ item.src }}{%else%}http://placehold.it/360x120{% endif %}">
+		  </a>
+		</li>
+		{% endif %}
+	{% endfor %}
+	</ul>
+{% endif %}
