@@ -4,7 +4,7 @@
  <title>Taekwon-Do ITF Strančice</title>
  <link href="http://taekwondo-strancice.cz/atom.xml" rel="self"/>
  <link href="http://taekwondo-strancice.cz"/>
- <updated>2012-11-13T04:30:53+01:00</updated>
+ <updated>2012-12-17T12:59:38+01:00</updated>
  <id>http://taekwondo-strancice.cz</id>
  <author>
    <name>Jaroslav Urbánek</name>
@@ -13,27 +13,56 @@
 
  
  <entry>
+   <title>Poslední trénink v roce 2012 a první trénink v roce 2013</title>
+   <link href="http://taekwondo-strancice.cz/novinky/treninky/posledni-trenink-v-tomto-roce-a-prvni-trenink-v-novem-roce"/>
+   <updated>2012-12-16T01:00:00+01:00</updated>
+   <id>http://taekwondo-strancice.cz/novinky/treninky/posledni-trenink-v-tomto-roce-a-prvni-trenink-v-novem-roce</id>
+   <content type="html">&lt;p&gt;Poslední trénink v roce 2012 je v úterý 18.12. Přejeme Všem krásné a pohodové Vánoce a mnoho úspěchů do roku 2013!&lt;/p&gt;
+
+&lt;p&gt;První trénink v novém roce bude v pátek 4.1.2013.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>Vánoční pohár a oslava výročí založení školy</title>
    <link href="http://taekwondo-strancice.cz/novinky/zavody/vanocni-pohar-2012"/>
    <updated>2012-12-01T09:00:00+01:00</updated>
    <id>http://taekwondo-strancice.cz/novinky/zavody/vanocni-pohar-2012</id>
-   <content type="html">&lt;p&gt;Rádi bychom Vás tímto pozvali na Vánoční pohár školy, který bude spojen s oslavou výročí založení naší školy.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Za školu Taekwon-do Strančice bychom Vás rádi pozvali na 2.ročník Vánočního poháru a zároveň na společné setkání u příležitosti 10. výročí založení školy.&lt;/p&gt;
 
-&lt;h2 id='zvodn_kategorie'&gt;Závodní kategorie&lt;/h2&gt;
+&lt;h2 id='kdy_a_kde'&gt;Kdy a kde&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;sestavy (tull)&lt;/li&gt;
+&lt;p&gt;Závody budou probíhat od 12 hod. Registrace a sraz bude již od 11 - 11:45 hod.&lt;/p&gt;
 
-&lt;li&gt;boj (matsogi)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Kde&lt;/strong&gt;&lt;br /&gt;Sokolovna Strančice&lt;/p&gt;
 
-&lt;h2 id='datum_a_as'&gt;Datum a čas&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Kdy&lt;/strong&gt;&lt;br /&gt;Sobota 1.12.2012&lt;/p&gt;
 
-&lt;p&gt;Závody budou probíhat od 10 hod. Registrace a sraz bude již od 9 - 9:30 hod.&lt;/p&gt;
+&lt;h2 id='program'&gt;Program&lt;/h2&gt;
+&lt;dl class='dl-horizontal'&gt;
+  &lt;dt&gt;11:00-11:45&lt;/dt&gt;
+  &lt;dd&gt;Registrace závodníků, poučení rozhodčích&lt;/dd&gt;
 
-&lt;h2 id='co_vzt_s_sebou'&gt;Co vzít s sebou&lt;/h2&gt;
+  &lt;dt&gt;12:00&lt;/dt&gt;
+  &lt;dd&gt;
+	ZAHÁJENÍ ZÁVODŮ
+	&lt;ul class='unstyled'&gt;
+	  &lt;li&gt;Soutěž - TUL (sestavy)&lt;/li&gt;
+	  &lt;li&gt;Soutěž - MATSOGI (volný boj)&lt;/li&gt;
+	&lt;/ul&gt;
+  &lt;/dd&gt;
 
-&lt;p&gt;&lt;strong&gt;Tobok&lt;/strong&gt; &lt;br /&gt;Kdo má, tak již čistý a vyžehlený úbor na cvičení společně s páskem. Jinak samozřejmě tepláky, obuv a mikinu nacvičení.&lt;/p&gt;
+  &lt;dt&gt;16:30&lt;/dt&gt;
+  &lt;dd&gt;Vyhlašování vítězů, společné foto&lt;/dd&gt;
+
+  &lt;dt&gt;17:00&lt;/dt&gt;
+  &lt;dd&gt;Promítání filmu a záznamů ukázek a závodů Taekwon-Do&lt;/dd&gt;
+
+  &lt;dt&gt;18:30&lt;/dt&gt;
+  &lt;dd&gt;Volná zábava, oslava 10.tého výročí školy&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id='informace_pro_zvodnky'&gt;Informace pro závodníky&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Dobok&lt;/strong&gt; &lt;br /&gt;Kdo má, tak již čistý a vyžehlený úbor na cvičení společně s páskem. Jinak samozřejmě tepláky, obuv a mikinu na cvičení.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Chrániče&lt;/strong&gt; &lt;br /&gt;Pokud máte některé z chráničů jako je:&lt;/p&gt;
 
@@ -55,7 +84,12 @@
 
 &lt;h2 id='zvrem'&gt;Závěrem&lt;/h2&gt;
 
-&lt;p&gt;Další informace budou přibývat v následujících několika dnech.&lt;/p&gt;</content>
+&lt;p&gt;Kdo se zatím ještě nepřihlásil na závody, učiňte tak prosím v PÁ 16.11. nebo v ÚT 20.11. (věk, výška, techn. stupeň). Děkujeme.&lt;/p&gt;
+
+&lt;p&gt;Na viděnou se těší Petra, Pepča, Jarda a spol.&lt;/p&gt;
+&lt;p style='margin:30px 0;'&gt;
+	&lt;a class='btn btn-large btn-block' href='https://docs.google.com/open?id=0B3nVMASu8XeFbkV4M1d0TGYwaFE' target='_blank' title='Pozvánka na Vánoční pohár 2012'&gt;&lt;i class='icon-download'&gt; &lt;/i&gt; Zobrazit pozvánku&lt;/a&gt;
+&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -83,7 +117,7 @@
 
 &lt;p&gt;Od tohoto dne je možné hradit členské příspěvky a ostatní platby na bankovní účet školy.&lt;/p&gt;
 
-&lt;p&gt;V rámci transkace je třeba uvést do &lt;em&gt;zprávy pro příjemce&lt;/em&gt; jméno a příjmení (za kterého se provádí platba), dále pak &lt;em&gt;období&lt;/em&gt; případně typ platby (Sokol, ČNUT).&lt;/p&gt;
+&lt;p&gt;V rámci transakce je třeba uvést do &lt;em&gt;zprávy pro příjemce&lt;/em&gt; jméno a příjmení (za kterého se provádí platba), dále pak &lt;em&gt;období&lt;/em&gt; případně typ platby (Sokol, ČNUT).&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Příklady:&lt;/strong&gt;&lt;/p&gt;
 
