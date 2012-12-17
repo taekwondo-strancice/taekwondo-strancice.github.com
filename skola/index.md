@@ -11,4 +11,4 @@ permalink: /
 
 ## Historie
 
-Škola Taekwon-Do ITF strančice byla založena v roce 2002 trenérkou Petrou Bláhovou.
+Škola Taekwon-Do ITF Strančice byla založena v roce 2002 trenérkou Petrou Bláhovou.

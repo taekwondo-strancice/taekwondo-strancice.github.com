@@ -18,7 +18,7 @@ Dnes byl zřízen transparentní bankovní účet školy ve FIO bance.
 
 Od tohoto dne je možné hradit členské příspěvky a ostatní platby na bankovní účet školy.
 
-V rámci transkace je třeba uvést do *zprávy pro příjemce* jméno a příjmení (za kterého se provádí platba), dále pak _období_ případně typ platby (Sokol, ČNUT).
+V rámci transakce je třeba uvést do *zprávy pro příjemce* jméno a příjmení (za kterého se provádí platba), dále pak _období_ případně typ platby (Sokol, ČNUT).
 
 **Příklady:** 
 
