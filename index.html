@@ -38,7 +38,7 @@ thumbnails:
 			<ul class="unstyled posts">
 				{% assign posts_list = site.posts | sort:date %}
 				{% assign group = 'calendar' %}
-				{% include custom/posts_list %}
+				{% include custom/calendar_list %}
 			</ul>
 		</div>
 	</div>
@@ -106,3 +106,15 @@ thumbnails:
 	{% endfor %}
 	</ul>
 {% endif %}
+
+	<hr class="soften">
+	<h2>Sponzoři</h2>
+	<div class="row-fluid">
+		<ul class="thumbnails">
+			<li class="span3">
+				<a href="http://www.seat.cz/" class="thumbnail">
+					<img src="http://www.seat.cz/images/my12/seat-logo-2012.png" alt="Seat ČR logo">
+				</a>
+			</li>
+		</ul>
+	</div>
