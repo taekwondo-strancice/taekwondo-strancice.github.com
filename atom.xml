@@ -4,13 +4,57 @@
  <title>Taekwon-Do ITF Strančice</title>
  <link href="http://taekwondo-strancice.cz/atom.xml" rel="self"/>
  <link href="http://taekwondo-strancice.cz"/>
- <updated>2012-12-17T12:59:38+01:00</updated>
+ <updated>2013-02-12T00:00:53+01:00</updated>
  <id>http://taekwondo-strancice.cz</id>
  <author>
    <name>Jaroslav Urbánek</name>
    <email>skola@taekwondo-strancice.cz</email>
  </author>
 
+ 
+ <entry>
+   <title>MČR 2013 Benátky nad Jizerou</title>
+   <link href="http://taekwondo-strancice.cz/novinky/zavody/mcr-2013"/>
+   <updated>2013-02-16T09:00:00+01:00</updated>
+   <id>http://taekwondo-strancice.cz/novinky/zavody/mcr-2013</id>
+   <content type="html">&lt;p&gt;Rádi bychom Vás všechny pozvali na závody, které se konají 16.02.2013 v Benátkách nad Jizerou.&lt;/p&gt;
+
+&lt;p&gt;Kompletní informace o závodech najdete v &lt;a href='http://goo.gl/KoKCH'&gt;propozicích&lt;/a&gt;. Dále je zde již finální &lt;a href='http://goo.gl/Qrm72'&gt;seznam přihlášených účastníků&lt;/a&gt; za naši školu.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Nové členské karty a jejich využití</title>
+   <link href="http://taekwondo-strancice.cz/novinky/nove-clenske-karty-a-jejich-vyuziti"/>
+   <updated>2013-01-20T00:00:00+01:00</updated>
+   <id>http://taekwondo-strancice.cz/novinky/nove-clenske-karty-a-jejich-vyuziti</id>
+   <content type="html">&lt;p&gt;Rádi bychom Vás touto cestou informovali o nových členských kartách. Každý dostane po odevzdání přihlášky svou &lt;em&gt;členskou kartu&lt;/em&gt;, která bude sloužit jako doklad o jeho členství ve škole &lt;em&gt;Taekwon-Do ITF Strančice&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Členská karta je oboustranná, kdy přední strana na sobě nese tyto údaje:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;jméno a příjmení&lt;/em&gt; člena&lt;/li&gt;
+
+&lt;li&gt;unikátní identifikátor &lt;em&gt;(ID)&lt;/em&gt; člena, který slouží jako variabilní symbol &lt;em&gt;(VS)&lt;/em&gt; pro placení prostřednictvím bankovního převodu&lt;/li&gt;
+
+&lt;li&gt;osobní heslo &lt;em&gt;(PIN)&lt;/em&gt;, které bude dobudoucna sloužit pro přihlášení na &lt;a href='http://www.taekwondo-strancice.cz/'&gt;stránkách školy&lt;/a&gt; a nebo k ověření člena v rámci elektronické komunikace (např. online přihlášení na závody či zkoušky apod.)&lt;/li&gt;
+
+&lt;li&gt;QR kód (v levém horním rohu), který slouží pro rýchlý přístup ke kontaktním údajům školy a všech jejich zástupců prostřednictvím mobilního telefonu.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;a zadní strana nese tyto údaje:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;období září až červen,&lt;/li&gt;
+
+&lt;li&gt;ČNUT a Sokol,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;které slouží k přehledu o stavu úhrad členských příspěvků ve škole, v &lt;a href='http://www.sokolstrancice.cz/oddily/taekwon-do/'&gt;Sokole&lt;/a&gt; a v &lt;a href='http://www.taekwondounie.estranky.cz/'&gt;ČNUT&lt;/a&gt;. Tento stav je vždy aktualizován &lt;em&gt;&lt;a href='/kontakt/#hospodar'&gt;hospodářem&lt;/a&gt;&lt;/em&gt; na tréninku. Tj. každý člen je povinen si průběžně nechat doplnit do své členské karty známky dle svých uhrazených plateb. Hospodář bude mít vždy aktuální přehled úhrad k danému dni. Tento krok slouží pro Vás jako zpětná kontrola stavu úhrad a pro nás k záloze informací o úhradách každého člena pro případ, kdyby došlo k odcizení či ztrátě dokladů o provedených hotovostních platbách. Pro platby bankovním převodem je záloha samotný výpis z bankovního účtu.&lt;/p&gt;
+
+&lt;p&gt;Období, než-li nový člen, případně člen, který kartu ztratil, může trvat i několik týdnů. Je to z důvodů, jelikož karty jsou zadávány do tisku externí firmě. Kdy větší objem karet je pro školu levnější a to i z pohledu poštovného. Proto vždy čekáme, až bude potřeba více karet, než-li dojde k odeslání objednávky.&lt;/p&gt;
+
+&lt;p&gt;Pevně doufáme, že tyto kroky povedou k rychlejšímu, pohodlnějšímu a kvalitnějšímu procesu řešení plateb v rámci školy.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Poslední trénink v roce 2012 a první trénink v roce 2013</title>
@@ -106,9 +150,9 @@
  
  <entry>
    <title>Založení bankovního účtu školy</title>
-   <link href="http://taekwondo-strancice.cz/novinky/o skole/zalozeni-uctu-v-bance"/>
+   <link href="http://taekwondo-strancice.cz/novinky/o-skole/zalozeni-uctu-v-bance"/>
    <updated>2012-10-29T00:00:00+01:00</updated>
-   <id>http://taekwondo-strancice.cz/novinky/o skole/zalozeni-uctu-v-bance</id>
+   <id>http://taekwondo-strancice.cz/novinky/o-skole/zalozeni-uctu-v-bance</id>
    <content type="html">&lt;p&gt;Dnes byl zřízen transparentní bankovní účet školy ve FIO bance.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Číslo účtu&lt;/strong&gt; &lt;br /&gt;2600317334/2010&lt;/p&gt;
@@ -138,9 +182,9 @@
  
  <entry>
    <title>Naše škola se stala občanským sdružením</title>
-   <link href="http://taekwondo-strancice.cz/novinky/o skole/skola-taekwon-do-itf-strancice-se-stala-obcanskym-sdruzenim"/>
+   <link href="http://taekwondo-strancice.cz/novinky/o-skole/skola-taekwon-do-itf-strancice-se-stala-obcanskym-sdruzenim"/>
    <updated>2012-10-01T00:00:00+02:00</updated>
-   <id>http://taekwondo-strancice.cz/novinky/o skole/skola-taekwon-do-itf-strancice-se-stala-obcanskym-sdruzenim</id>
+   <id>http://taekwondo-strancice.cz/novinky/o-skole/skola-taekwon-do-itf-strancice-se-stala-obcanskym-sdruzenim</id>
    <content type="html">&lt;p&gt;Rádi bychom Vás touto cestou informovali o změnách, ke kterým dochází pro nastávající školní rok 2012/2013. Nově se stáváme občanskýmm sdružením s názvem &lt;strong&gt;Taekwon-Do ITF Strančice&lt;/strong&gt;. S touto změnou statusu jsou spojeny úpravy členství.&lt;/p&gt;
 
 &lt;h2 id='registrace_u_mv'&gt;Registrace u MV&lt;/h2&gt;
