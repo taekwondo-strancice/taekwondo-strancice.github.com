@@ -36,7 +36,7 @@ thumbnails:
 		<h2>Kalendář</h2>
 		<div class="list lead">
 			<ul class="unstyled posts">
-				{% assign posts_list = site.posts | sort:date %}
+				{% assign calendar_list = site.posts %}
 				{% assign group = 'calendar' %}
 				{% include custom/calendar_list %}
 			</ul>

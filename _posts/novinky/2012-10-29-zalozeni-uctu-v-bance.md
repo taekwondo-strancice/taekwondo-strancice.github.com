@@ -3,8 +3,8 @@ layout: post
 title: Založení bankovního účtu školy
 tagline: ve FIO bance
 group : news
-category : [novinky, o skole]
-tags : [O škole, Taekwon-Do ITF Strančice]
+categories: [novinky, o-skole]
+tags : [O škole]
 comments: false
 ---
 {% include JB/setup %}

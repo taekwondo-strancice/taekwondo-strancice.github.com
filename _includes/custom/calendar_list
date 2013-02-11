@@ -1,9 +1,11 @@
-{% for node in site.posts limit:1 %}
+{% for node in calendar_list %}
   {% if node.title != null %}
     {% if group == node.group %}
-      <li><span class="date pull-left muted">{{ node.date | date: "%d.%m.%Y" }}&nbsp;</span><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+      {% if node.date >= site.time %}
+      	<li><span class="date pull-left muted">{{ node.date | date: "%d.%m.%Y" }}&nbsp;</span><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+      {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}
-{% assign posts_list = nil %}
+{% assign calendar_list = nil %}
 {% assign group = nil %}

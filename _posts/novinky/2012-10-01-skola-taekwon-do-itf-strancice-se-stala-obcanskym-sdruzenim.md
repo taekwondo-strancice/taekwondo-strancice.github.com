@@ -3,7 +3,7 @@ layout: post
 title: Naše škola se stala občanským sdružením
 tagline: s oficiálním názvem Taekwon-Do ITF Strančice
 group : news
-category : [novinky, o skole]
+categories: [novinky, o-skole]
 tags : [O škole, Taekwon-Do ITF Strančice]
 comments: false
 ---

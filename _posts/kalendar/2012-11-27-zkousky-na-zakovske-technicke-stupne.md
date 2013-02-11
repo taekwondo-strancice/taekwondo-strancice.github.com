@@ -3,7 +3,7 @@ layout: post
 title: Zkoušky na žákovské technické stupně
 tagline: 9. - 1. kup
 group : calendar
-category : [novinky, zkousky]
+categories: [novinky, zkousky]
 tags : [zkoušky, 9. - 1. kup]
 date: 2012-11-27 17:30:00 +01:00
 dateFrom: 2012-11-27 17:30:00 +01:00

@@ -3,7 +3,7 @@ layout: post
 title: Poslední trénink v roce 2012 a první trénink v roce 2013
 tagline: 
 group : calendar
-category : [novinky, treninky]
+categories: [novinky, treninky]
 tags : [trénink]
 date: 2012-12-16 01:00:00 +01:00
 comments: false
