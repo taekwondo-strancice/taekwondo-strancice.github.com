@@ -28,6 +28,7 @@ thumbnails:
 			<ul class="unstyled posts">
 				{% assign posts_list = site.posts %}
 				{% assign group = 'news' %}
+				{% assign limit = 3 %}
 				{% include custom/posts_list %}
 			</ul>
 		</div>
@@ -43,7 +44,12 @@ thumbnails:
 		</div>
 	</div>
 </div>
-
+{% comment %}<!--
+<br><br>
+{{ site.tags }}
+<br><br>
+{{ site.categories }}
+-->{% endcomment %}
 <hr class="soften">
 
 <div class="row-fluid training-schedule">

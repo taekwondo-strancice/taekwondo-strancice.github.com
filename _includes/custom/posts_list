@@ -1,9 +1,13 @@
+{% assign count = 0 %}
 {% for node in posts_list %}
   {% if node.title != null %}
-    {% if group == node.group %}
+    {% if group == node.group and count < limit %}
+      {% assign count = count | plus:1 %}
       <li><span class="date pull-left muted">{{ node.date | date: "%d.%m.%Y" }}&nbsp;</span><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
     {% endif %}
   {% endif %}
 {% endfor %}
 {% assign posts_list = nil %}
 {% assign group = nil %}
+{% assign limit = nil %}
+{% assign count = nil %}

@@ -1,24 +1,31 @@
 <div class="container">
 	<div class="row">
-	{% if page.menu == true %}
+	{% if page.menu != null %}
 		<div class="span3">
-			<ul class="nav nav-list bs-docs-sidenav affix-top">
-				<li class="active"><a href="#download-bootstrap"><i class="icon-chevron-right"></i> Download</a></li>
-				<li class=""><a href="#file-structure"><i class="icon-chevron-right"></i> File structure</a></li>
-				<li class=""><a href="#contents"><i class="icon-chevron-right"></i> What's included</a></li>
-				<li class=""><a href="#html-template"><i class="icon-chevron-right"></i> HTML template</a></li>
-				<li class=""><a href="#examples"><i class="icon-chevron-right"></i> Examples</a></li>
-				<li><a href="#what-next"><i class="icon-chevron-right"></i> What next?</a></li>
+			<ul class="nav nav-list ts-sidenav affix-top">
+				{% if page.menu.first == null %}
+					{% assign pages_list = site.pages %}
+					{% include custom/pages_left_menu %}
+				{% else %}
+					{% assign firstMenuItemByPage = page.url | split:'/' %}
+					<li class="active"><a href="{{ BASE_PATH }}{{page.url}}#{{firstMenuItemByPage.last}}"><i class="icon-chevron-right"></i> {{page.title}}</a></li>
+					{% for menuItem in page.menu %}
+						{% if menuItem.name != null %}
+							<li><a href="{{ BASE_PATH }}{{page.url}}{{menuItem.href}}"><i class="icon-chevron-right"></i> {{menuItem.name}}</a></li>
+						{% endif %}
+					{% endfor %}
+					{% assign firstMenuItemByPage = nil %}
+				{% endif %}
 			</ul>
 		</div>
-		<div class="span9">
+		<div class="span9 page">
 			<div class="page-header">
 				<h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
 			</div>	  	
 			{{ content }}
 		</div>		
 	{% else %}
-		<div class="span12">
+		<div class="span12 page">
 			<div class="page-header">
 				<h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
 			</div>	  	

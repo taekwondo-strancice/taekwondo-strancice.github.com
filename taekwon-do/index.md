@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Taekwon-Do
+title: Taekwon-Do ITF
 tagline: Korejské umění sebeobrany
 group: navigation
 weight: 5
+menu0 : taekwon-do
+menuParent: true
 permalink: /
 ---
 {% include JB/setup %}
 
-Taekwon-Do je jedno z nejmladších bojových umění beze zbraně.
+Taekwon-Do ITF je jedno z nejmladších bojových umění beze zbraně.
 Bylo založeno gen. Choi Hong Hi dne 11. dubna 1955 v Severní Koreji.
 Název Taekwon-Do je složen ze tří částí - "tae" znamená kop či práci nohou,
 "kwon" symbolizuje údery či bloky rukou a "do" skrývá opravdové umění, jakousi životní cestu.

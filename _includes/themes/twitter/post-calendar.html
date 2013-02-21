@@ -29,13 +29,13 @@
       <div class="date">
         <span>{{ page.dateFrom | date: "%d.%m.%Y" }}{% if page.dateFrom | date: "%H:%M" != "00:00" %} {{ page.dateFrom | date: "%H:%M" }}{% endif %}</span>{% if page.dateTo != null %}<span>&nbsp;&mdash;&nbsp;</span>{{ page.dateTo | date: "%d.%m.%Y" }}{% if page.dateTo | date: "%H:%M" != "00:00" %} {{ page.dateTo | date: "%H:%M" }}{% endif %}{% endif %}</div>
 
-    {% unless page.tags == empty %}
-      <h4>Štítky</h4>
-      <ul class="tag_box">
-      {% assign tags_list = page.tags %}
-      {% include JB/tags_list %}
-      </ul>
-    {% endunless %}
+      {% unless page.tags == empty %}
+        <h4>Štítky</h4>
+        <ul class="tag_box">
+        {% assign tags_list = page.tags %}
+        {% include JB/tags_list %}
+        </ul>
+      {% endunless %}
     </div>
   </div>
 </div>

@@ -7,6 +7,15 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "Příjmy z podnikání (za rok 2011)\nCelkový obrat za rok 2011 dosáhl 853 050,- Kč bez DPH. Náklady byly daněny formou odpisového paušálu ve výši 60% (511 830,- Kč bez DPH), tj. daňový základ bez odpočtů pro potřeby výpočtu zisku byl 341 220,- Kč bez DPH.\n\nPříjmy z podnikání (za rok 2012)\nCelkový obrat za rok 2011 dosáhl 753 000,- Kč bez DPH. Náklady mohou být daněny:\na) formou odpisového paušálu\n   - ve výši 60% (451 800,- Kč bez DPH), tj. daňový základ bez odpočtů pro potřeby výpočtu zisku bude 301 200,- Kč bez DPH\n   - rozdíl oproti předchozímu roku je v obratu 753000 / (853050) = 88,3 %\nb) formou reálných nákladů\n   - 753 000\n\n",
+			"settings":
+			{
+				"buffer_size": 635,
+				"line_ending": "Windows",
+				"name": "Příjmy z podnikání (za rok 2011)"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -171,8 +180,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								633,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Příjmy z podnikání (za rok 2011)",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

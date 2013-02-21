@@ -1,14 +1,37 @@
 ---
 layout: page
-menu : false
 title: O škole
 tagline: Taekwon-Do ITF Strančice
 group: navigation
 weight: 3
 permalink: /
+menu0:
+  - href: '#historie'
+    name: Historie
+  - href: '#obcanske-sdruzeni'
+    name: Občanské sdružení
 ---
 {% include JB/setup %}
 
-## Historie
+Škola Taekwon-Do ITF Strančice byla založena v roce 2002 trenérkou Petrou Bláhovou.
+
+{% comment %}<!--
+
+<a id="historie" class="shifted-anchor">&nbsp;</a>
+## Historie ##
 
 Škola Taekwon-Do ITF Strančice byla založena v roce 2002 trenérkou Petrou Bláhovou.
+
+<a id="obcanske-sdruzeni" class="shifted-anchor">&nbsp;</a>
+## Občanské sdružení
+
+....
+
+I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or [MSN] [3].
+
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
+-->{% endcomment %}
+
