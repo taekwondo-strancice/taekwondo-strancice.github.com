@@ -4,8 +4,10 @@ title: Taekwon-Do ITF
 tagline: Korejské umění sebeobrany
 group: navigation
 weight: 5
-menu0 : taekwon-do
-menuParent: true
+menu : 
+  name : taekwon-do
+  title : Úvodem
+  parent: true
 permalink: /
 ---
 {% include JB/setup %}

@@ -1,15 +1,19 @@
 ---
 layout: page
-title: O škole
-tagline: Taekwon-Do ITF Strančice
+title: Co s sebou
+tagline: na první hodinu, na trénink, na závody
 group: navigation
-weight: 3
+weight: 1
 permalink: /
 menu:
-  - href: '#historie'
-    name: Historie
-  - href: '#obcanske-sdruzeni'
-    name: Občanské sdružení
+  - href: '#prvni-hodina'
+    name: První hodina
+  - href: '#trenink'
+    name: Trénink
+  - href: '#zkousky'
+    name: Zkoušky
+  - href: '#trenink'
+    name: Závody
 ---
 {% include JB/setup %}
 

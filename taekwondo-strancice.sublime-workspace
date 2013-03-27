@@ -15,6 +15,86 @@
 				"line_ending": "Windows",
 				"name": "Příjmy z podnikání (za rok 2011)"
 			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 4741,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "taekwon-do/index.md",
+			"settings":
+			{
+				"buffer_size": 1712,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "taekwon-do/historie/index.md",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "taekwon-do/teorie/index.md",
+			"settings":
+			{
+				"buffer_size": 104,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/themes/twitter/page.html",
+			"settings":
+			{
+				"buffer_size": 1601,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/themes/twitter/page-landing.html",
+			"settings":
+			{
+				"buffer_size": 3017,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3923,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/themes/twitter/css/main.css",
+			"settings":
+			{
+				"buffer_size": 15351,
+				"line_ending": "CR"
+			}
+		},
+		{
+			"file": "co-s-sebou/index.md",
+			"settings":
+			{
+				"buffer_size": 907,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "archive.html",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -53,6 +133,19 @@
 	},
 	"file_history":
 	[
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/co-sebou/index.md",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/posts_collate",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/assets/themes/twitter/css/main.css",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/page.html",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/pages_left_menu",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-11-01-vanocni-pohar-2012.md",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/media/-2013-03-02-test.md",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-03-02-budweis-grand-prix-taekwon-do-itf-open.md",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-02-01-mcr-2013.md",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-12-16-posledni-trenink-v-tomto-roce-a-prvni-trenink-v-novem-roce.md",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-11-27-zkousky-na-zakovske-technicke-stupne.md",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/taekwon-do/teorie/index.md",
 		"/C/jurbanek/WORK/Repos/ezk/www/assets/detect-flash/google_flash_detect.js",
 		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
 		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_config.yml",
@@ -149,6 +242,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"nil",
+			"}}]\n",
+			"si",
 			"this_month",
 			"Bcrypt",
 			"navbar-i",
@@ -180,7 +276,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -202,6 +298,272 @@
 						{
 							"auto_name": "Příjmy z podnikání (za rok 2011)",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 4741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "taekwon-do/index.md",
+					"settings":
+					{
+						"buffer_size": 1712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "taekwon-do/historie/index.md",
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "taekwon-do/teorie/index.md",
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_includes/themes/twitter/page.html",
+					"settings":
+					{
+						"buffer_size": 1601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								781,
+								781
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_includes/themes/twitter/page-landing.html",
+					"settings":
+					{
+						"buffer_size": 3017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2383,
+								2383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "assets/themes/twitter/css/main.css",
+					"settings":
+					{
+						"buffer_size": 15351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5606,
+								5606
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3616.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "co-s-sebou/index.md",
+					"settings":
+					{
+						"buffer_size": 907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "archive.html",
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

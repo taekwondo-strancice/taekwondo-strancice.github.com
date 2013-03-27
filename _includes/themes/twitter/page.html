@@ -1,20 +1,29 @@
 <div class="container">
 	<div class="row">
-	{% if page.menu != null %}
+	{% assign menu = page.menu %}
+	{% if menu != nil %}
+		{% assign isArrayMenu = menu.first.href | size %}
 		<div class="span3">
 			<ul class="nav nav-list ts-sidenav affix-top">
-				{% if page.menu.first == null %}
+				{% if isArrayMenu == 0 %}
 					{% assign pages_list = site.pages %}
 					{% include custom/pages_left_menu %}
 				{% else %}
-					{% assign firstMenuItemByPage = page.url | split:'/' %}
-					<li class="active"><a href="{{ BASE_PATH }}{{page.url}}#{{firstMenuItemByPage.last}}"><i class="icon-chevron-right"></i> {{page.title}}</a></li>
-					{% for menuItem in page.menu %}
+					{% comment %}<!--
+					{% assign category = page.url | split:'/' %}
+					{% if category contains menu %}
+						<li class="active"><a href="{{ BASE_PATH }}{{page.url}}#{{category.last}}"><i class="icon-chevron-right"></i> {{page.title}}</a></li>
+					{% else %}
+						<li><a href="{{ BASE_PATH }}{{page.url}}#{{category.last}}"><i class="icon-chevron-right"></i> {{page.title}}</a></li>
+					{% endif %}
+					-->{% endcomment %}
+					{% for menuItem in menu %}
 						{% if menuItem.name != null %}
 							<li><a href="{{ BASE_PATH }}{{page.url}}{{menuItem.href}}"><i class="icon-chevron-right"></i> {{menuItem.name}}</a></li>
 						{% endif %}
 					{% endfor %}
-					{% assign firstMenuItemByPage = nil %}
+					{% assign menuItem = nil %}
+					{% assign category = nil %}
 				{% endif %}
 			</ul>
 		</div>
@@ -32,5 +41,7 @@
 			{{ content }}
 		</div>
 	{% endif %}
+	{% assign isArrayMenu = nil %}
+	{% assign menu = nil %}
 	</div>
 </div>
