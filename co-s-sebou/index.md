@@ -1,4 +1,5 @@
 ---
+published: false
 layout: page
 title: Co s sebou
 tagline: na první hodinu, na trénink, na závody

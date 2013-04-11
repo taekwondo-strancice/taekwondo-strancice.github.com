@@ -1,7 +1,7 @@
 {% assign category = page.url | split:'/' %}
 {% for weight in (1..10) %}
   {% for node in pages_list %}
-    {% if node.weight == weight %}
+    {% if node.published != false and node.weight == weight %}
       {% if node.title != null %}
         {% if group == null or group == node.group %}
           {% assign nodeCategory = node.url | split:'/' %}

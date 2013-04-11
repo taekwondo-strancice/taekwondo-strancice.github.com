@@ -1,9 +1,11 @@
 <section class="main-info">
   <div class="container">
+	{% for post in site.categories.promo %}
   	<figure>
-	  <figcaption>Protáhněte se, naučte se ovládat své tělo a také se bránit.</figcaption>
-	  <p class="lead"><span>První měsíc tréninků<br/>zdarma!</span></p>
+	  <figcaption>{{ post.title }}</figcaption>
+	  <p class="lead"><span>{{ post.tagline }}</span></p>
 	</figure>
+	{% endfor %}
   </div>
 </section>
 

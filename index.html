@@ -1,7 +1,7 @@
 ---
 layout: page-landing
 title: Úvod
-group: navigation0
+group: Nonavigation
 weight: 1
 permalink: /
 
@@ -11,7 +11,7 @@ thumbnails:
     url: //plus.google.com/photos/104548895488231546703/albums/5846059739332445009
     src: //lh6.googleusercontent.com/-xewwM1SdqpU/USHpXq5OqzI/AAAAAAAAAkM/YH8oy145HHU/w497-h373/photo.jpg
   - type: img
-    name: Středočeský pohár - Říčany (3.3.2012)
+    name: Středočeský pohár - Říčany (3.11.2012)
     url: https://plus.google.com/photos/104548895488231546703/albums/5809820314970098449
     src: /files/img/2012-11-03-stredocesky-pohar.jpg
   - type: img
@@ -44,12 +44,7 @@ thumbnails:
 		</div>
 	</div>
 </div>
-{% comment %}<!--
-<br><br>
-{{ site.tags }}
-<br><br>
-{{ site.categories }}
--->{% endcomment %}
+
 <hr class="soften">
 
 <div class="row-fluid training-schedule">
@@ -98,13 +93,13 @@ thumbnails:
 	{% for item in page.thumbnails %}
 		{% if forloop.first or true %}
 		<li class="span4">
-		  <a class="thumbnail" href="{% if item.url %}{{ item.url }}{% else %}#{% endif %}" target="_blank" data-title="{% if item.name %}{{ item.name }}{% endif %}">
+		  <a class="thumbnail" href="{% if item.url %}{{ item.url }}{% else %}#{% endif %}" target="_blank" data-toggle="tooltip" data-placement="top" title="{% if item.name %}{{ item.name }}{% endif %}">
 		    <img alt="{% if item.name %}{{ item.name }}{% endif %}" src="{% if item.src %}{{ item.src }}{%else%}http://placehold.it/360x270{% endif %}">
 		  </a>
 		</li>
 		{% else %}
 		<li class="span4">
-		  <a class="thumbnail" href="{% if item.url %}{{ item.url }}{%else%}#{% endif %}" target="_blank" data-title="{% if item.name %}{{ item.name }}{% endif %}">
+		  <a class="thumbnail" href="{% if item.url %}{{ item.url }}{%else%}#{% endif %}" target="_blank" data-toggle="tooltip" data-placement="top" title="{% if item.name %}{{ item.name }}{% endif %}">
 		    <img alt="{% if item.name %}{{ item.name }}{% endif %}" src="{% if item.src %}{{ item.src }}{%else%}http://placehold.it/360x120{% endif %}">
 		  </a>
 		</li>
@@ -118,7 +113,7 @@ thumbnails:
 	<div class="row-fluid">
 		<ul class="thumbnails">
 			<li class="span3">
-				<a href="http://www.seat.cz/" class="thumbnail">
+				<a href="http://www.seat.cz/" class="thumbnail" data-toggle="tooltip" data-placement="top" title="Seat">
 					<img src="http://www.seat.cz/images/my12/seat-logo-2012.png" alt="Seat ČR logo">
 				</a>
 			</li>

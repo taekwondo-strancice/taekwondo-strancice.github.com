@@ -2,7 +2,7 @@
 {% if page.menu != null %}
 
   {% for node in pages_list %}
-    {% if node.menu != null and ((node.menu.parent == true and node.menu.name == page.menu.name) or node.menu.name == page.menu) %}
+    {% if node.published != false and node.menu != null and ((node.menu.parent == true and node.menu.name == page.menu.name) or node.menu.name == page.menu) %}
       {% if node.title != n or node.menu.name == page.menu.nameull or node.menu.title != null %}
         {% assign nodeCategory = node.url | split:'/' %}
         {% assign nodeTitle = node.title %}
@@ -21,7 +21,7 @@
   {% endfor %}
 
   {% for node in pages_list %}
-    {% if node.menu != null and node.menu.parent != true and (node.menu == page.menu.name or node.menu == page.menu) %}
+    {% if node.published != false and node.menu != null and node.menu.parent != true and (node.menu == page.menu.name or node.menu == page.menu) %}
       {% if node.title != null or node.menu.title != null %}
         {% assign nodeCategory = node.url | split:'/' %}
         {% assign nodeTitle = node.title %}
