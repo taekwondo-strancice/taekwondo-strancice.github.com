@@ -36,6 +36,13 @@
         {% include JB/tags_list %}
         </ul>
       {% endunless %}
+
+      {% unless page.proposition == empty %}
+        <div style="margin:30px 0;">
+          <a class="btn btn-large btn-block" href="{{page.proposition}}" title="Zobrazit propozice" target="_blank"><i class="icon-download"> </i> Propozice</a>
+        </div>
+      {% endunless %}
+
     </div>
   </div>
 </div>
