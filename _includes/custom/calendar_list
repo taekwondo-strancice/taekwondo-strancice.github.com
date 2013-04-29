@@ -1,4 +1,4 @@
-{% for node in calendar_list %}
+{% for node in calendar_list reversed %}
   {% if node.title != null %}
     {% if group == node.group %}
       {% if node.date >= site.time %}

@@ -26,6 +26,7 @@ Parkhala – Barákova 1039, Pečky
 **Kdy**  
 Sobota {{page.date | date: "%d.%m.%Y"}}
 
-**Startovné** 
+**Startovné**  
 Za kategorie: zápasu, sestav, modelového sparingu, speciálních technik a silové přerážení **400,-** Kč.
+
 Start v každé vyšší kategorii navíc **100,-** Kč.
