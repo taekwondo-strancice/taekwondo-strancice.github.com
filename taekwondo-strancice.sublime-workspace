@@ -8,11 +8,11 @@
 	"buffers":
 	[
 		{
-			"file": "/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E03.Walk.of.Punishment.1080p.WEB-DL.DD5.1.AAC2.0.H.264-YFN.srt",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 49904,
-				"line_ending": "Windows"
+				"buffer_size": 4014,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -52,6 +52,12 @@
 	},
 	"file_history":
 	[
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-05-18-sonkal-open-2013.md",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-04-20-sonkal-open-2013.md",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/post-calendar.html",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-05-17-sportovni-soustredeni-straz-pod-ralskem.md",
+		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E03.Walk.of.Punishment.1080p.WEB-DL.DD5.1.AAC2.0.H.264-YFN.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E02.Dark.Wings.Dark.Words.1080p.WEB-DL.DD5.1.H.264-NTb.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game Of Thrones S03-E01 (2012)NLtoppers.2.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game Of Thrones S03-E01 (2012)NLtoppers.4.srt",
@@ -62,7 +68,6 @@
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E01.REPACK.720p.HDTV.x264-EVOLVE.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E01.720p.HDTV.x264-EVOLVE.srt",
 		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2013-02-23-ohlednuti-za-mistrovstvim-cr-2013.md",
-		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
 		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2013-04-07-uspesne-slozeni-zkousek-na-mistrovske-stupne-I-III-dan.md",
 		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/default.html",
 		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2013-02-23-ohlednuti-za-mistrovstvim-cr-2013",
@@ -234,23 +239,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E03.Walk.of.Punishment.1080p.WEB-DL.DD5.1.AAC2.0.H.264-YFN.srt",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 49904,
+						"buffer_size": 4014,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1,
-								1
+								248,
+								248
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

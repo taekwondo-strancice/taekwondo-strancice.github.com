@@ -43,6 +43,12 @@
         </div>
       {% endunless %}
 
+      {% unless page.registration == empty %}
+        <div style="margin:30px 0;">
+          <a class="btn btn-large btn-block" href="{{page.registration}}" title="Zobrazit přihlášku" target="_blank"><i class="icon-download"> </i> Přihláška</a>
+        </div>
+      {% endunless %}
+
     </div>
   </div>
 </div>
