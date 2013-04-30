@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zkoušky na žákovské technické stupně
+title: Zkoušky na žákovské technické stupně (teorie uvnitř)
 tagline: 9. - 1. kup
 group : calendar
 categories: [novinky, zkousky]
