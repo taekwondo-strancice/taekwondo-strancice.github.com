@@ -17,5 +17,3 @@ V tomto termínu se budou konat žákovské zkoušky na technické stupně 9. &m
 Na zkoušky se bude vybírat v termínech **26. a 30. dubna 2013**.
 
 _Zkoušky bude moci skládat pouze ten, který bude umět stanovený rozsah ke zkouškám na příslušný technický stupeň._
-
-<a href="{{ page.document }}" class="btn btn-success" parent="_blank" title="Teorie na 9. - 1. kup"><i class="icon-book icon-white"></i> Teorie na 9. &mdash; 1. kup</a>
