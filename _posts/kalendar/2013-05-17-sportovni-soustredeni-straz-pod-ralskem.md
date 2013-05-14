@@ -34,6 +34,7 @@ Odjezd bude ze Strančic od Sokolovny v pátek v *15:00 hod*. Pojedou dvě auta,
 V Brandýse nad Labem se kolem *15:30 hod* napojí třetí auto s řidičem Jaroslavem Urbánkem.
 
 **Účastníci** 
+- Vojtěch Fuka (dodatečně náhlášen)
 - Dominik Popelka
 - Samuel Pasler
 - Karin Goldmannová
@@ -43,6 +44,5 @@ V Brandýse nad Labem se kolem *15:30 hod* napojí třetí auto s řidičem Jaro
 - Monika Horáková (řidič - 2. auto - odjezd Strančice)
 - Monika Dobíhalová
 - Jaroslav Urbánek (řidič - 3. auto - odjezd Brandýs nad Labem)
-- Leona Maňáková (s malou)
 
 Pokud budete mít nějaké dotazy ohledně celé akce a nebo odjezdu/příjezdu, tak mne prosím kontaktujte na *urbanek.jaroslav@taekwondo-strancice.cz* a nebo telefonu *+420777007070*.
