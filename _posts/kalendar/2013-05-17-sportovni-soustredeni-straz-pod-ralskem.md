@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sportovní soustředění ve Stráži pod Ralskem
+title: Sportovní soustředění ve Stráži pod Ralskem (+ informace o odjezdu)
 tagline: 
 group : calendar
 categories: [novinky, soustredeni]
@@ -27,3 +27,20 @@ Hotel DIAMO, Stráž pod Ralskem
 **Cena** 
 Cena soustředění: 1000,- Kč (plná penze)
 Do 10.5. 2013, je třeba zaplatit 500,- Kč zálohy (nebo celé soustř.). Doplatek pak na místě.
+
+## Odjezd a seznam účástníků
+
+Odjezd bude ze Strančic od Sokolovny v pátek v *15:00 hod*. Pojedou dvě auta, kde řidiči budou Roman Pták a Monika Horáková.
+V Brandýse nad Labem se kolem *15:30 hod* napojí třetí auto s Řidičem Jaroslavem Urbánkem.
+
+**Účastníci** 
+- Dominik Popelka
+- Samuel Pasler
+- Karin Goldmannová
+- Mikuláš Horák
+- Jakub Jirků
+- Roman Pták (řidič - 1. auto - odjezd Strančice)
+- Monika Horáková (řidič - 2. auto - odjezd Strančice)
+- Monika Dobíhalová
+- Jaroslav Urbánek (řidič - 3. auto - odjezd Brandýs nad Labem)
+- Leona Maňáková (s malou)
