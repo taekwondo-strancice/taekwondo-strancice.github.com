@@ -25,8 +25,7 @@ Hotel DIAMO, Stráž pod Ralskem
 17.&mdash;19.5.2013
 
 **Cena** 
-Cena soustředění: 1000,- Kč (plná penze)
-Do 10.5. 2013, je třeba zaplatit 500,- Kč zálohy (nebo celé soustř.). Doplatek pak na místě.
+Cena soustředění: 1000,- Kč (plná penze). Poplatek za celé soustředění bude hrazen až na místě.
 
 ## Odjezd a seznam účástníků
 
