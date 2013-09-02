@@ -24,7 +24,8 @@ permalink: /
 
 		<address>
 			<strong>Taekwon-Do ITF Strančice</strong><br>
-			TJ Sokol Stránčice Sokolská 38<br>
+			TJ Sokol Stránčice<br>
+			Sokolská 38<br>
 			25163 Stránčice<br><br>
 			<a href="http://www.sokolstrancice.cz/" title="Sokol Stránčice">http://www.sokolstrancice.cz/</a>
 		</address>
