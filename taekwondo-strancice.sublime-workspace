@@ -8,10 +8,34 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "_posts/kalendar/2012-05-03-zkousky-na-zakovske-technicke-stupne.md",
 			"settings":
 			{
-				"buffer_size": 4014,
+				"buffer_size": 731,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/themes/twitter/post-calendar.html",
+			"settings":
+			{
+				"buffer_size": 2171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/themes/twitter/default.html",
+			"settings":
+			{
+				"buffer_size": 3231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/themes/twitter/page-landing.html",
+			"settings":
+			{
+				"buffer_size": 3217,
 				"line_ending": "Unix"
 			}
 		}
@@ -52,16 +76,29 @@
 	},
 	"file_history":
 	[
+		"/home/jurby/.gvfs/media na medea/video/Movies/Jack.the.Giant.Slayer.2013.1080p.BluRay.x264-SPARKS [PublicHD]/jack.the.giant.slayer.2013.1080p.bluray.x264-sparks.srt",
+		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E08.720p.HDTV.x264-EVOLVE.srt",
+		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game Of Thrones S03-E01 (2012)NLtoppers.srt",
+		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E08.Second.Sons.1080p.WEB-DL.DD5.1.H.264-NTb.srt",
+		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E08.720p.HDTV.x264.Dual.Audio.srt",
+		"/home/jurby/Stažené/307-cz/Game.of.Thrones.S03E07.The.Bear.and.the.Maiden.Fair.1080p.WEB-DL.DD5.1.H.264-NTb.srt",
+		"/home/jurby/Stažené/307-cz/Game.of.Thrones.S03E07.HDTV.x264-2HD.srt",
+		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E06.The.Climb.1080p.WEB-DL.DD5.1.AAC2.0.H.264-YFN.srt",
+		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E05.Kissed.by.Fire.1080p.WEB-DL.DD5.1.H.264-NTb.srt",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-05-25-III-kolo-ceske-narodni-ligy-pecky.md",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/calendar_list",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/post-calendar.html",
+		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E04.1080p.HDTV.x264-QCF.2.srt",
+		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E04.1080p.HDTV.x264-QCF.3.srt",
+		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E04.1080p.HDTV.x264-QCF.srt",
+		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
 		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-05-18-sonkal-open-2013.md",
 		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-04-20-sonkal-open-2013.md",
-		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/post-calendar.html",
-		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
 		"/home/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-05-17-sportovni-soustredeni-straz-pod-ralskem.md",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E03.Walk.of.Punishment.1080p.WEB-DL.DD5.1.AAC2.0.H.264-YFN.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E02.Dark.Wings.Dark.Words.1080p.WEB-DL.DD5.1.H.264-NTb.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game Of Thrones S03-E01 (2012)NLtoppers.2.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game Of Thrones S03-E01 (2012)NLtoppers.4.srt",
-		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game Of Thrones S03-E01 (2012)NLtoppers.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game Of Thrones S03-E01 (2012)NLtoppers.3.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E01.Valar.Dohaeris.1080p.WEB-DL.DD5.1.H.264-NTb.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E01.HDTV.x264-2HD.srt",
@@ -166,20 +203,7 @@
 		"/Users/jurby/Dropbox/Projects/jurby.github.com/_layouts/page.html",
 		"/Users/jurby/Dropbox/Projects/jurby.github.com/_posts/core-samples/2011-12-29-jekyll-introduction.md",
 		"/Users/jurby/Dropbox/Projects/jurby.github.com/taekwon-do/uvod.md",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/taekwon-do/historie.md",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_plugins/growl_generator.rb",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_plugins/debug.rb",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/jurby.guthub.com.sublime-workspace",
-		"/Volumes/Media/video/Movies/The.Avengers.2012.1080p.BluRay.DTS.x264-PublicHD/the.avengers.2012.1080p.bluray.dts.x264-publichd.srt",
-		"/Users/jurby/Dropbox/Projects/este/app.html",
-		"/Users/jurby/Dropbox/Projects/este/assets/js/dev/run.coffee",
-		"/Users/jurby/Dropbox/Projects/este/este.sublime-project",
-		"/Users/jurby/Dropbox/Projects/este/assets/js/este/app/app_test.coffee",
-		"/Users/jurby/Dropbox/Projects/este/assets/js/app/start.coffee",
-		"/Users/jurby/Dropbox/Projects/este/assets/js/este/app/app.coffee",
-		"/Users/jurby/Dropbox/Projects/este/assets/js/este/app/create.coffee",
-		"/Users/jurby/Dropbox/Projects/este/assets/js/dev/tests.coffee",
-		"/Users/jurby/Dropbox/Projects/este/assets/css/app.styl"
+		"/Users/jurby/Dropbox/Projects/jurby.github.com/taekwon-do/historie.md"
 	],
 	"find":
 	{
@@ -234,23 +258,77 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "_posts/kalendar/2012-05-03-zkousky-na-zakovske-technicke-stupne.md",
 					"settings":
 					{
-						"buffer_size": 4014,
+						"buffer_size": 731,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								248,
-								248
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/themes/twitter/post-calendar.html",
+					"settings":
+					{
+						"buffer_size": 2171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1790,
+								1790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/themes/twitter/default.html",
+					"settings":
+					{
+						"buffer_size": 3231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2929,
+								2929
 							]
 						],
 						"settings":
@@ -259,7 +337,34 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 798.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/themes/twitter/page-landing.html",
+					"settings":
+					{
+						"buffer_size": 3217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2112,
+								2112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 217.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

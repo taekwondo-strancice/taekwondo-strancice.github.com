@@ -9,7 +9,7 @@ permalink: /
 
 <div class="row-fluid">
 	<div class="span6">
-		<h2>Škola</h2>
+		<h2>Sídlo</h2>
 
 		<address>
 			<strong>Taekwon-Do ITF Strančice</strong><br>
@@ -18,6 +18,15 @@ permalink: /
 			<abbr title="IČ">IČ:</abbr> 22709860<br>
 			<abbr title="Bankovní spojení">Bankovní spojení:</abbr> 2600317334/2010<br><br>
 			<a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a>
+		</address>
+
+		<h2>Provozovna</h2>
+
+		<address>
+			<strong>Taekwon-Do ITF Strančice</strong><br>
+			TJ Sokol Stránčice Sokolská 38<br>
+			25163 Stránčice<br><br>
+			<a href="http://www.sokolstrancice.cz/" title="Sokol Stránčice">http://www.sokolstrancice.cz/</a>
 		</address>
 	</div>
 
