@@ -432,6 +432,16 @@ h2 + .row {
 	line-height: 40px;
 }
 
+.sponsors li > a {
+	line-height: 90px;
+	text-align: center;
+	height: 90px;
+}
+.sponsors li > a > img {
+	display: inline-block;
+	vertical-align: middle;
+}
+
 /* prevent column from collapsing when affixing */
 .span3 {
 	min-height: 1px;

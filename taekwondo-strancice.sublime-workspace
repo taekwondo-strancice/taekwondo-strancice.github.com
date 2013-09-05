@@ -8,34 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/kalendar/2012-05-03-zkousky-na-zakovske-technicke-stupne.md",
+			"file": "kontakt/index.md",
 			"settings":
 			{
-				"buffer_size": 731,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/themes/twitter/post-calendar.html",
-			"settings":
-			{
-				"buffer_size": 2171,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/themes/twitter/default.html",
-			"settings":
-			{
-				"buffer_size": 3231,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/themes/twitter/page-landing.html",
-			"settings":
-			{
-				"buffer_size": 3217,
+				"buffer_size": 1786,
 				"line_ending": "Unix"
 			}
 		}
@@ -76,6 +52,19 @@
 	},
 	"file_history":
 	[
+		"/Users/jurby/Dropbox/WORK/ElephantOrchestra/MailJob.cs",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2013-09-01-nabor-novych-clenu-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/kontakt/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/page-landing.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-01-zahajeni-sezony-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-03-sportovni-soustredeni-straz-pod-ralskem-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/post-calendar.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/promo/2012-10-01-mesic-zdarma.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/assets/themes/twitter/css/main.css",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/promo/2013-09-01-nabor-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/default.html",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-05-03-zkousky-na-zakovske-technicke-stupne.md",
 		"/home/jurby/.gvfs/media na medea/video/Movies/Jack.the.Giant.Slayer.2013.1080p.BluRay.x264-SPARKS [PublicHD]/jack.the.giant.slayer.2013.1080p.bluray.x264-sparks.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E08.720p.HDTV.x264-EVOLVE.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game Of Thrones S03-E01 (2012)NLtoppers.srt",
@@ -147,18 +136,14 @@
 		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/page-landing.html",
 		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/calendar_list",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-11-01-vanocni-pohar-2012.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-12-16-posledni-trenink-v-tomto-roce-a-prvni-trenink-v-novem-roce.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/calendar_list",
 		"/Users/jurby/.Trash/2012-12-16-posledni-trenink-v-tomto-roce-a-prvni-trenink-v-novem-roce.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/page-landing.html",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2012-10-29-zalozeni-uctu-v-bance.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/skola/index.md",
 		"/Users/jurby/Dropbox/Projects/cigcig/produktoveVarinaty.js",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/taekwondo-strancice.sublime-project",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/default.html",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/assets/themes/twitter/css/main.css",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_config.yml",
 		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/default.html",
 		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/pages_list",
@@ -194,16 +179,7 @@
 		"/Users/jurby/Dropbox/Projects/jurby.github.com/_includes/JB/posts_collate",
 		"/Users/jurby/Dropbox/Projects/jurby.github.com/_categories/zavody.md",
 		"/Users/jurby/Dropbox/Projects/jurby.github.com/haml-kategorie.haml",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_plugins/related_posts.rb",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_includes/themes/twitter/page.html",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/test.haml",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_layouts/default.html",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_layouts/home.haml",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_layouts/post.html",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_layouts/page.html",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_posts/core-samples/2011-12-29-jekyll-introduction.md",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/taekwon-do/uvod.md",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/taekwon-do/historie.md"
+		"/Users/jurby/Dropbox/Projects/jurby.github.com/_plugins/related_posts.rb"
 	],
 	"find":
 	{
@@ -258,113 +234,32 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/kalendar/2012-05-03-zkousky-na-zakovske-technicke-stupne.md",
+					"file": "kontakt/index.md",
 					"settings":
 					{
-						"buffer_size": 731,
+						"buffer_size": 1786,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								75,
-								75
+								621,
+								621
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/themes/twitter/post-calendar.html",
-					"settings":
-					{
-						"buffer_size": 2171,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1790,
-								1790
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 234.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/themes/twitter/default.html",
-					"settings":
-					{
-						"buffer_size": 3231,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2929,
-								2929
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 798.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_includes/themes/twitter/page-landing.html",
-					"settings":
-					{
-						"buffer_size": 3217,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2112,
-								2112
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 217.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
