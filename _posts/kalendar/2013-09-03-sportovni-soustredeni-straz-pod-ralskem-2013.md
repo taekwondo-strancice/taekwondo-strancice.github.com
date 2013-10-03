@@ -8,7 +8,7 @@ tags : [soustředění]
 date: 2013-10-11 16:30:00 UTC
 dateFrom: 2013-10-11 16:30:00 UTC
 dateTo: 2013-11-13 12:00:00 UTC
-#proposition: "http://goo.gl/htNDq"
+proposition: "http://goo.gl/QxVE2i"
 ---
 {% include JB/setup %}
 
@@ -17,7 +17,7 @@ Sportovní soustředění proběhne ve Stráži pod Ralskem. Soustředění bude
 
 ## Kdy a kde
 
-Sraz bude v pátek 11.10.2013 16.00&mdash;16.30 hod, Hotel DIAMO.
+Sraz bude v pátek 11.10.2013 16.00&mdash;16.30 hod, Hotel DIAMO. Začátek prvního tréninku je v 17 hod.
 
 **Kde**  
 Hotel DIAMO, Stráž pod Ralskem
@@ -26,8 +26,6 @@ Hotel DIAMO, Stráž pod Ralskem
 11.&mdash;13.10.2013
 
 **Cena**  
-Cena soustředění bude upřesněna
-{% comment %}
-Cena soustředění: 1000,- Kč (plná penze)
-Do 10.5. 2013, je třeba zaplatit 500,- Kč zálohy (nebo celé soustř.). Doplatek pak na místě.
-{% endcomment %}
+Cena soustředění: 1100,- Kč (plná penze). Hradit se bude až na místě.
+
+Do 4.10.2013 do 21 hod je nutné potvrdit účast na e-mail <a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a> a nebo formou sms na číslo *777007070*.

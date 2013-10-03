@@ -1,38 +1,63 @@
-# A simple way to inspect liquid template variables.
-# Usage:
-#  Can be used anywhere liquid syntax is parsed (templates, includes, posts/pages)
-#  {{ site | debug }}
-#  {{ site.posts | debug }}
-#
-require 'pp'
 module Jekyll
-  # Need to overwrite the inspect method here because the original
-  # uses < > to encapsulate the psuedo post/page objects in which case
-  # the output is taken for HTML tags and hidden from view.
-  #
-  class Post
-    def inspect
-      "#Jekyll:Post @id=#{self.id.inspect}"
+  module SortedForImpl
+    def render(context)
+      sorted_collection = collection_to_sort context
+      return if sorted_collection.empty?
+      sort_attr = @attributes['sort_by']
+      case_sensitive = @attributes['case_sensitive'] == 'true'
+      i = sorted_collection.first
+ 
+      if sort_attr != nil
+        if i.to_liquid[sort_attr].instance_of? String and not case_sensitive
+          sorted_collection.sort_by! { |i| i.to_liquid[sort_attr].downcase }
+        else
+          sorted_collection.sort_by! { |i| i.to_liquid[sort_attr] }
+        end
+      else
+        if i.instance_of? String and not case_sensitive
+          sorted_collection.sort_by! { |i| i.downcase }
+        else
+          sorted_collection.sort!
+        end
+      end
+ 
+      original_name = @collection_name
+      result = nil
+      context.stack do
+        sorted_collection_name = "#{@collection_name}_sorted".sub('.', '_')
+        context[sorted_collection_name] = sorted_collection
+        @collection_name = sorted_collection_name
+        result = super
+        @collection_name = original_name
+      end
+      result
     end
   end
-  
-  class Page
-    def inspect
-      "#Jekyll:Page @name=#{self.name.inspect}"
+ 
+  class SortedForTag < Liquid::For
+    include SortedForImpl
+ 
+    def collection_to_sort(context)
+      return context[@collection_name].dup
+    end
+ 
+    def end_tag
+      'endsorted_for'
     end
   end
-  
-end # Jekyll
-  
-module Jekyll
-  module DebugFilter
-    
-    def debug(obj, stdout=false)
-      puts obj.pretty_inspect if stdout
-      "<pre>#{obj.class}\n#{obj.pretty_inspect}</pre>"
+ 
+  class SortedKeysForTag < Liquid::For
+    include SortedForImpl
+ 
+    def collection_to_sort(context)
+      return context[@collection_name].keys
     end
-
-  end # DebugFilter
-end # Jekyll
-
-Liquid::Template.register_filter(Jekyll::DebugFilter)
+ 
+    def end_tag
+      'endsorted_keys_for'
+    end
+  end
+end
+ 
+Liquid::Template.register_tag('sorted_for', Jekyll::SortedForTag)
+Liquid::Template.register_tag('sorted_keys_for', Jekyll::SortedKeysForTag)

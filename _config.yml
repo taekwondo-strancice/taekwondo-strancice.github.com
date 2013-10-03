@@ -129,7 +129,7 @@ JB :
   pages_list :
     provider : "custom"
   tags_list :
-    provider : "no"
+    provider : "custom"
 
 # https://www.fio.cz/ib_api/rest/last/Ek1cZSqRmKUr71H8AYRDysJcuDM2ctZWDWfwg5OOVf5q37fo0TpUD48D9vEv7TyI/transactions.json
 # https://www.fio.cz/ib_api/rest/periods/Ek1cZSqRmKUr71H8AYRDysJcuDM2ctZWDWfwg5OOVf5q37fo0TpUD48D9vEv7TyI/2012-11-01/2012-11-07/transactions.json

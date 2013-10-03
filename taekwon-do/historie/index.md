@@ -4,7 +4,7 @@ title: Historie
 tagline: 
 menu : taekwon-do
 permalink: /
-published: false
+published: true
 ---
 {% include JB/setup %}
 

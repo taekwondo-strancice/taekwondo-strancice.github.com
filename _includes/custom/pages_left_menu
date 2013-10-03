@@ -1,42 +1,91 @@
 {% assign category = page.url | split:'/' %}
 {% if page.menu != null %}
 
-  {% for node in pages_list %}
-    {% if node.published != false and node.menu != null and ((node.menu.parent == true and node.menu.name == page.menu.name) or node.menu.name == page.menu) %}
-      {% if node.title != n or node.menu.name == page.menu.nameull or node.menu.title != null %}
-        {% assign nodeCategory = node.url | split:'/' %}
-        {% assign nodeTitle = node.title %}
-        {% if node.menu.title | size %}
-          {% assign nodeTitle = node.menu.title %}
-        {% endif %}
-        {% if nodeCategory.last != null %}
-          {% if page.url == node.url or (category.first == nodeCategory.first and category.first == nodeCategory.last) %}
-            <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
-          {% else %}
-            <li><a href="{{ BASE_PATH }}{{node.url}}"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+  {% for weight in (1..20) %}
+    {% assign last_weight = forloop.last %}
 
-  {% for node in pages_list %}
-    {% if node.published != false and node.menu != null and node.menu.parent != true and (node.menu == page.menu.name or node.menu == page.menu) %}
-      {% if node.title != null or node.menu.title != null %}
-        {% assign nodeCategory = node.url | split:'/' %}
-        {% assign nodeTitle = node.title %}
-        {% if node.menu.title | size %}
-          {% assign nodeTitle = node.menu.title %}
-        {% endif %}
-        {% if nodeCategory.last != null %}
-          {% if page.url == node.url or (category.first == nodeCategory.first and category.first == nodeCategory.last) %}
-            <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
-          {% else %}
-            <li><a href="{{ BASE_PATH }}{{node.url}}"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
+    {% for node in pages_list %}
+      {% if node.weight == weight %}
+        {% if node.published != false and node.menu != null and ((node.menu.parent == true and node.menu.name == page.menu.name) or node.menu.name == page.menu) %}
+          {% if node.title != null or node.menu.name == page.menu.name or node.menu.title != null %}
+            {% assign nodeCategory = node.url | split:'/' %}
+            {% assign nodeTitle = node.title %}
+            {% if node.menu.title | size %}
+              {% assign nodeTitle = node.menu.title %}
+            {% endif %}
+            {% if nodeCategory.last != null %}
+              {% if page.url == node.url or (category.first == nodeCategory.first and category.first == nodeCategory.last) %}
+                <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
+              {% else %}
+                <li><a href="{{ BASE_PATH }}{{node.url}}"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
+              {% endif %}
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endif %}
-    {% endif %}
+
+      {% if node.weight == null and last_weight == true %}
+        {% if node.published != false and node.menu != null and ((node.menu.parent == true and node.menu.name == page.menu.name) or node.menu.name == page.menu) %}
+          {% if node.title != null or node.menu.name == page.menu.name or node.menu.title != null %}
+            {% assign nodeCategory = node.url | split:'/' %}
+            {% assign nodeTitle = node.title %}
+            {% if node.menu.title | size %}
+              {% assign nodeTitle = node.menu.title %}
+            {% endif %}
+            {% if nodeCategory.last != null %}
+              {% if page.url == node.url or (category.first == nodeCategory.first and category.first == nodeCategory.last) %}
+                <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
+              {% else %}
+                <li><a href="{{ BASE_PATH }}{{node.url}}"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
+              {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+
+    {% endfor %}
+
+    {% for node in pages_list %}
+      {% if node.weight == weight %}
+        {% if node.published != false and node.menu != null and node.menu.parent != true and (node.menu == page.menu.name or node.menu == page.menu) %}
+          {% if node.title != null or node.menu.title != null %}
+            {% assign nodeCategory = node.url | split:'/' %}
+            {% assign nodeTitle = node.title %}
+            {% if node.menu.title | size %}
+              {% assign nodeTitle = node.menu.title %}
+            {% endif %}
+            {% if nodeCategory.last != null %}
+              {% if page.url == node.url or (category.first == nodeCategory.first and category.first == nodeCategory.last) %}
+                <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
+              {% else %}
+                <li><a href="{{ BASE_PATH }}{{node.url}}"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
+              {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+
+      {% if node.weight == null and last_weight == true %}
+        {% if node.published != false and node.menu != null and node.menu.parent != true and (node.menu == page.menu.name or node.menu == page.menu) %}
+          {% if node.title != null or node.menu.title != null %}
+            {% assign nodeCategory = node.url | split:'/' %}
+            {% assign nodeTitle = node.title %}
+            {% if node.menu.title | size %}
+              {% assign nodeTitle = node.menu.title %}
+            {% endif %}
+            {% if nodeCategory.last != null %}
+              {% if page.url == node.url or (category.first == nodeCategory.first and category.first == nodeCategory.last) %}
+                <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
+              {% else %}
+                <li><a href="{{ BASE_PATH }}{{node.url}}"><i class="icon-chevron-right"></i> {{nodeTitle}}</a></li>
+              {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+
+    {% endfor %}
+
   {% endfor %}
 
 {% endif %}

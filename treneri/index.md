@@ -19,8 +19,7 @@ permalink: /
 				<a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a>
 			</address>
 			{% comment %}<!--
-			<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-			<p><a href="jaroslav-urbanek/" class="btn">Více</a></p>
+			<a href="jaroslav-urbanek/" class="btn">Více informací</a>
 			-->{% endcomment %}
 		  </div>
 		</div>
@@ -34,8 +33,7 @@ permalink: /
 				<a href="mailto:blahova.petra@taekwondo-strancice.cz">blahova.petra@taekwondo-strancice.cz</a>
 			</address>
 			{% comment %}<!--
-			<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-			<p><a href="petra-vychopen-blahova/" class="btn">Více</a></p>
+			<a href="petra-vychopen-blahova/" class="btn">Více informací</a>
 			-->{% endcomment %}
 		  </div>
 		</div>
@@ -49,8 +47,7 @@ permalink: /
 				<a href="mailto:kubat.josef@taekwondo-strancice.cz">kubat.josef@taekwondo-strancice.cz</a>
 			</address>
 			{% comment %}<!--
-			<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-			<p><a href="josef-kubat/" class="btn">Více</a></p>
+			<a href="josef-kubat/" class="btn">Více informací</a>
 			-->{% endcomment %}
 		  </div>
 		</div>

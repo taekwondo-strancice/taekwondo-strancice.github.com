@@ -518,8 +518,9 @@ h2 + .row {
 
 /* Pages */
 .page h2,
-.page h2,
 .page h3 { margin-top: 30px;}
+
+.thumbnails h3 { margin-top: 3px;}
 
 /* Always */
 a.shifted-anchor {
