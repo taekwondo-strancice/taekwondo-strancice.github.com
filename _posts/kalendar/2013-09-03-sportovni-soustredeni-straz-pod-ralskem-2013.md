@@ -28,7 +28,8 @@ Hotel DIAMO, Stráž pod Ralskem
 **Cena**  
 Cena soustředění: 1100,- Kč (plná penze). Hradit se bude až na místě.
 
-Do 4.10.2013 do 21 hod je nutné potvrdit účast na e-mail <a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a> a nebo formou sms na číslo *777007070*.
+<s>Do 4.10.2013 do 21 hod je nutné potvrdit účast na e-mail <a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a> a nebo formou sms na číslo *777007070*.</s>
+
 
 Odjezd bude ze Strančic od Sokolovny v pátek v *15:00 hod*. Pojedou dvě auta, kde řidiči budou Roman Pták a Monika Horáková.
 V Brandýse nad Labem se kolem *15:30 hod* napojí třetí auto s řidičem Jaroslavem Urbánkem a Monikou Dobíhalovou.
