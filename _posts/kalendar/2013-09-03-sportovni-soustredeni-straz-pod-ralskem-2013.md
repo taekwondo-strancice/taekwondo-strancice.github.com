@@ -40,10 +40,11 @@ V Brandýse nad Labem se kolem *15:30 hod* napojí třetí auto s řidičem Jaro
 - Samuel Pasler
 - Mikuláš Horák
 - Jakub Jirků
+- Vojtěch Fuka
+- Barbora Horáková
 - Roman Pták (řidič - 1. auto - odjezd Strančice)
 - Monika Horáková (řidič - 2. auto - odjezd Strančice)
 - Monika Dobíhalová
 - Jaroslav Urbánek (řidič - 3. auto - odjezd Brandýs nad Labem)
-- Vojtěch Fuka (*nemám potvrzeno*)
 
 Pokud budete mít nějaké dotazy ohledně celé akce a nebo odjezdu/příjezdu, tak mne prosím kontaktujte na <a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a> a nebo na telefonu *+420777007070*.
