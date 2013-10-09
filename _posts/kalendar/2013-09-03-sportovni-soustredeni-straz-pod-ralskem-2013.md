@@ -42,6 +42,7 @@ V Brandýse nad Labem se kolem *15:30 hod* napojí třetí auto s řidičem Jaro
 - Jakub Jirků
 - Vojtěch Fuka
 - Barbora Horáková
+- Kamil Kolofík
 - Roman Pták (řidič - 1. auto - odjezd Strančice)
 - Monika Horáková (řidič - 2. auto - odjezd Strančice)
 - Monika Dobíhalová
