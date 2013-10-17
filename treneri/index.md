@@ -18,9 +18,7 @@ permalink: /
 				+420777007070<br>
 				<a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a>
 			</address>
-			{% comment %}<!--
 			<a href="jaroslav-urbanek/" class="btn">Více informací</a>
-			-->{% endcomment %}
 		  </div>
 		</div>
 	  </li>
@@ -32,9 +30,7 @@ permalink: /
 				+420604344604<br>
 				<a href="mailto:blahova.petra@taekwondo-strancice.cz">blahova.petra@taekwondo-strancice.cz</a>
 			</address>
-			{% comment %}<!--
 			<a href="petra-vychopen-blahova/" class="btn">Více informací</a>
-			-->{% endcomment %}
 		  </div>
 		</div>
 	  </li>
@@ -46,9 +42,7 @@ permalink: /
 				+420607667343<br>
 				<a href="mailto:kubat.josef@taekwondo-strancice.cz">kubat.josef@taekwondo-strancice.cz</a>
 			</address>
-			{% comment %}<!--
 			<a href="josef-kubat/" class="btn">Více informací</a>
-			-->{% endcomment %}
 		  </div>
 		</div>
 	  </li>

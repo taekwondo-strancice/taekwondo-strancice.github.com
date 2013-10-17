@@ -9,6 +9,7 @@ date: 2013-10-11 16:30:00 UTC
 dateFrom: 2013-10-11 16:30:00 UTC
 dateTo: 2013-11-13 12:00:00 UTC
 proposition: "http://goo.gl/QxVE2i"
+comments: false
 ---
 {% include JB/setup %}
 

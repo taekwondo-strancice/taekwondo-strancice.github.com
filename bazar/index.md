@@ -42,6 +42,7 @@ Zde jsou dostupné bazarové věci, které je možné koupit od ostatních člen
 			<td>777007070, <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a></td>
 			<td>800 Kč</td>
 		</tr>
+		{% comment %}<!--<
 		<tr>
 			<td>2</td>
 			<td>140 cm</td>
@@ -50,6 +51,7 @@ Zde jsou dostupné bazarové věci, které je možné koupit od ostatních člen
 			<td>777007070, <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a></td>
 			<td>350 Kč</td>
 		</tr>
+		-->{% endcomment %}
 		<tr>
 			<td>3</td>
 			<td>140 cm</td>

@@ -12,50 +12,18 @@
 	"buffers":
 	[
 		{
-			"file": "treneri/index.md",
-			"settings":
-			{
-				"buffer_size": 1279,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "treneri/jaroslav-urbanek/index.md",
-			"settings":
-			{
-				"buffer_size": 213,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "treneri/josef-kubat/index.md",
-			"settings":
-			{
-				"buffer_size": 125,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "\nZde jsou dostupné bazarové věci, které je možné koupit od ostatních členů.\n\n<a id=\"historie\" class=\"shifted-anchor\">&nbsp;</a>\n## Historie ##\n\nŠkola Taekwon-Do ITF Strančice byla založena v roce 2002 trenérkou Petrou Bláhovou.\n\n<a id=\"obcanske-sdruzeni\" class=\"shifted-anchor\">&nbsp;</a>\n## Občanské sdružení\n\n....\n\nI get 10 times more traffic from [Google] [1] than from\n[Yahoo] [2] or [MSN] [3].\n\n  [1]: http://google.com/        \"Google\"\n  [2]: http://search.yahoo.com/  \"Yahoo Search\"\n  [3]: http://search.msn.com/    \"MSN Search\"\n\n\n<a id=\"doboky\" class=\"shifted-anchor\">&nbsp;</a>\n## Doboky\n\nNic není v nabídce.\n\n<a id=\"pasky\" class=\"shifted-anchor\">&nbsp;</a>\n## Pásky\n\nNic není v nabídce.\n\n<a id=\"sport-zavody\" class=\"shifted-anchor\">&nbsp;</a>\n## Sport/Závody\n\nNic není v nabídce.\n\n<a id=\"ostatni\" class=\"shifted-anchor\">&nbsp;</a>\n## Ostatní\n\nNic není v nabídce.",
-			"settings":
-			{
-				"buffer_size": 872,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "bazar/index.md",
 			"settings":
 			{
-				"buffer_size": 689,
+				"buffer_size": 1641,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "obchod/index.md",
+			"file": "_posts/kalendar/2013-09-03-sportovni-soustredeni-straz-pod-ralskem-2013.md",
 			"settings":
 			{
-				"buffer_size": 679,
+				"buffer_size": 1802,
 				"line_ending": "Unix"
 			}
 		}
@@ -96,12 +64,17 @@
 	},
 	"file_history":
 	[
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-03-sportovni-soustredeni-straz-pod-ralskem-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/jaroslav-urbanek/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/josef-kubat/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/obchod/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/bazar/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/bazar/index.mb0",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/co-s-sebou/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/page.html",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_config.yml",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-22-vanocni-pohar-2013.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-03-sportovni-soustredeni-straz-pod-ralskem-2013.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/petra-vychopen-blahova/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/assets/themes/twitter/css/main.css",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/pages_left_menu",
@@ -111,8 +84,6 @@
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_plugins/categories_list.rb",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/taekwon-do/teorie/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/taekwon-do/historie/index.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/index.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/josef-kubat/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/kontakt/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
 		"/Users/jurby/Dropbox/WORK/ElephantOrchestra/MailJob.cs",
@@ -220,10 +191,7 @@
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/JB/analytics",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/JB/analytics-providers/google",
 		"/Users/jurby/Library/Application Support/Sublime Text 2/Packages/LiveReload/README.md",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/jurby.guthub.com.sublime-project",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_includes/JB/setup",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_config.yml",
-		"/Users/jurby/Dropbox/Projects/jurby.github.com/_includes/themes/twitter/post.html"
+		"/Users/jurby/Dropbox/Projects/jurby.github.com/jurby.guthub.com.sublime-project"
 	],
 	"find":
 	{
@@ -231,7 +199,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes",
@@ -244,6 +212,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"&",
+			"&\n",
+			">\n",
 			"h3",
 			"thumb",
 			"nil",
@@ -270,6 +241,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"&amp;"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -280,154 +252,49 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "treneri/index.md",
+					"file": "bazar/index.md",
 					"settings":
 					{
-						"buffer_size": 1279,
+						"buffer_size": 1641,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								618,
-								640
+								1122,
+								1122
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 264.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "treneri/jaroslav-urbanek/index.md",
+					"file": "_posts/kalendar/2013-09-03-sportovni-soustredeni-straz-pod-ralskem-2013.md",
 					"settings":
 					{
-						"buffer_size": 213,
+						"buffer_size": 1802,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								164,
-								164
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "treneri/josef-kubat/index.md",
-					"settings":
-					{
-						"buffer_size": 125,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								74,
-								74
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"settings":
-					{
-						"buffer_size": 872,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								872,
-								872
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "bazar/index.md",
-					"settings":
-					{
-						"buffer_size": 689,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67,
-								67
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "obchod/index.md",
-					"settings":
-					{
-						"buffer_size": 679,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								500,
-								500
+								1354,
+								1354
 							]
 						],
 						"settings":
@@ -476,7 +343,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
