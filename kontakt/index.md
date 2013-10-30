@@ -13,8 +13,8 @@ permalink: /
 
 		<address>
 			<strong>Taekwon-Do ITF Strančice</strong><br>
-			Dřevčická 2200/A<br>
-			25001 Brandýs nad Labem<br><br>
+			Všechromy 57<br>
+			251 63 Strančicebr><br>
 			<abbr title="IČ">IČ:</abbr> 22709860<br>
 			<abbr title="Bankovní spojení">Bankovní spojení:</abbr> 2600317334/2010<br><br>
 			<a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a>
