@@ -5,7 +5,7 @@ tagline: od 3. září
 group : news
 categories: [novinky]
 tags : [nábor]
-date: 2013-09-03 00:00:01 UTC
+date: 2013-09-03 00:00:01 CET
 ---
 {% include JB/setup %}
 

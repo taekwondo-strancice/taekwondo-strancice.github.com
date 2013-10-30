@@ -5,9 +5,9 @@ tagline: <br>1. kolo ČESKÉ NÁRODNÍ LIGY TAEKWON-DO
 group : calendar
 categories: [novinky, zavody]
 tags : [závody]
-date: 2013-03-02 09:00:00 UTC
-dateFrom: 2013-03-02 09:00:00 UTC
-dateTo: 2013-03-02 17:00:00 UTC
+date: 2013-03-02 09:00:00 CET
+dateFrom: 2013-03-02 09:00:00 CET
+dateTo: 2013-03-02 17:00:00 CET
 proposition: "http://goo.gl/V3Agy"
 registration: ""
 alias: /zavody

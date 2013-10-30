@@ -5,7 +5,7 @@ tagline: v Benátkách nad jizerou
 group : news
 categories: [novinky]
 tags : [závody]
-date: 2013-02-23 20:00:00 UTC
+date: 2013-02-23 20:00:00 CET
 ---
 {% include JB/setup %}
 

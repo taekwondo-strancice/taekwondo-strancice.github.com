@@ -5,7 +5,7 @@ tagline:
 group : news
 categories: [novinky]
 tags : [zkoušky]
-date: 2013-04-07 10:00:00 UTC
+date: 2013-04-07 10:00:00 CET
 ---
 {% include JB/setup %}
 

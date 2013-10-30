@@ -5,9 +5,9 @@ tagline: 2013
 group : calendar
 categories: [novinky, soustredeni]
 tags : [soustředění]
-date: 2013-10-11 16:30:00 UTC
-dateFrom: 2013-10-11 16:30:00 UTC
-dateTo: 2013-11-13 12:00:00 UTC
+date: 2013-10-11 16:30:00 CET
+dateFrom: 2013-10-11 16:30:00 CET
+dateTo: 2013-11-13 12:00:00 CET
 proposition: "http://goo.gl/QxVE2i"
 comments: false
 ---

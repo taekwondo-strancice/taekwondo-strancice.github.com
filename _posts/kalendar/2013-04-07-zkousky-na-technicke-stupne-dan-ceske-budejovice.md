@@ -5,8 +5,8 @@ tagline: I. &mdash; III. Dan
 group : calendar
 categories: [novinky, zkousky]
 tags : [zkoušky]
-date: 2013-04-07 09:00:00 UTC
-dateFrom: 2013-04-07 10:00:00 UTC
+date: 2013-04-07 09:00:00 CET
+dateFrom: 2013-04-07 10:00:00 CET
 ---
 {% include JB/setup %}
 

@@ -5,7 +5,7 @@ tagline: 2013
 group : calendar
 categories: [novinky, treninky]
 tags : [trénink]
-date: 2013-09-03 17:30:00 UTC
+date: 2013-09-03 17:30:00 CET
 comments: false
 ---
 {% include JB/setup %}

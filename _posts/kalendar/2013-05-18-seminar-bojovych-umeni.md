@@ -5,9 +5,9 @@ tagline:
 group : calendar
 categories: [novinky, seminar]
 tags : [seminář]
-date: 2013-05-18 10:00:00 UTC
-dateFrom: 2013-05-18 10:00:00 UTC
-dateTo: 2013-05-18 18:00:00 UTC
+date: 2013-05-18 10:00:00 CET
+dateFrom: 2013-05-18 10:00:00 CET
+dateTo: 2013-05-18 18:00:00 CET
 proposition: "http://goo.gl/heZnC"
 ---
 {% include JB/setup %}

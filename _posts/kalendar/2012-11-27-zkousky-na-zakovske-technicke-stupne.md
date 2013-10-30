@@ -5,8 +5,8 @@ tagline: 9. - 1. kup
 group : calendar
 categories: [novinky, zkousky]
 tags : [zkoušky, 9. - 1. kup]
-date: 2012-11-27 17:30:00 UTC
-dateFrom: 2012-11-27 17:30:00 UTC
+date: 2012-11-27 17:30:00 CET
+dateFrom: 2012-11-27 17:30:00 CET
 dateTo: 
 comments: false
 ---

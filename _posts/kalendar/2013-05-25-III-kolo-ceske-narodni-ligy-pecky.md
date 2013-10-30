@@ -5,9 +5,9 @@ tagline: Pečky
 group : calendar
 categories: [novinky, zavody]
 tags : [závody, Česká národní liga, Pečky]
-date: 2013-05-25 08:30:00 UTC
-dateFrom: 2013-05-25 08:30:00 UTC
-dateTo: 2013-05-25 16:00:00 UTC
+date: 2013-05-25 08:30:00 CET
+dateFrom: 2013-05-25 08:30:00 CET
+dateTo: 2013-05-25 16:00:00 CET
 proposition: "http://goo.gl/FlSq3"
 registration: "http://goo.gl/q7cyy"
 ---

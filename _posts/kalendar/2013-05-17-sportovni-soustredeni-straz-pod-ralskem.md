@@ -5,9 +5,9 @@ tagline:
 group : calendar
 categories: [novinky, soustredeni]
 tags : [soustředění]
-date: 2013-05-17 16:30:00 UTC
-dateFrom: 2013-05-17 16:30:00 UTC
-dateTo: 2013-05-19 12:00:00 UTC
+date: 2013-05-17 16:30:00 CET
+dateFrom: 2013-05-17 16:30:00 CET
+dateTo: 2013-05-19 12:00:00 CET
 proposition: "http://goo.gl/htNDq"
 ---
 {% include JB/setup %}
