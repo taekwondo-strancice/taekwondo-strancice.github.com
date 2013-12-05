@@ -11,31 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "bazar/index.md",
-			"settings":
-			{
-				"buffer_size": 1684,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "treneri/jaroslav-urbanek/index.md",
-			"settings":
-			{
-				"buffer_size": 5605,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "8199120001\n1133120002\n7261120003\n8696120004\n2245120005\n4299120006\n8115120007\n7144120008\n6378120009\n6603120010\n5174120011\n6886120012\n8251120013\n7765120014\n4074120015\n5138120016\n1646120017\n6421120018\n3482120019\n1707120020\n6772120021\n6607120022\n5624120023\n1009120024\n6685120025\n1453120026\n8750120027\n3192120028\n5322120029\n1958120030\n1740120031\n1302120032\n6946120033\n6627120034\n4312120035\n8248120036\n6032120037\n8841120038\n1167120039\n9514120040\n6871120041\n6447120042\n8670120043\n2566120044\n7244120045\n7407120046\n6032120047\n9814120048\n6945120049\n4100120050\n8982120051\n9402120052\n1774120053\n8357120054\n7606120055\n9703120056\n7827120057\n7862120058\n5975120059\n3049120060\n5037120061\n6131120062\n5744120063\n7888120064\n1376120065\n6442120066\n7723120067\n5020120068\n1063120069\n4258120070\n4326120071\n7011120072\n4563120073\n6273120074\n2313120075\n1993120076\n8501120077",
-			"settings":
-			{
-				"buffer_size": 846,
-				"line_ending": "Unix",
-				"name": "8199120001"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -73,21 +48,40 @@
 	},
 	"file_history":
 	[
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-10-30-stredocesky-pohar-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2013-09-01-nabor-novych-clenu-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2013-04-07-uspesne-slozeni-zkousek-na-mistrovske-stupne-I-III-dan.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2013-02-23-ohlednuti-za-mistrovstvim-cr-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/media/2013-03-02-test.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-10-17-sportovni-soustredeni-bela-pod-bezdezem-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-03-sportovni-soustredeni-straz-pod-ralskem-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-01-zahajeni-sezony-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-05-25-III-kolo-ceske-narodni-ligy-pecky.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-05-18-sonkal-open-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-05-18-seminar-bojovych-umeni.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-05-17-sportovni-soustredeni-straz-pod-ralskem.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-04-13-best-of-best-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-04-07-zkousky-na-technicke-stupne-dan-ceske-budejovice.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-03-02-budweis-grand-prix-taekwon-do-itf-open.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-02-01-mcr-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-12-16-posledni-trenink-v-tomto-roce-a-prvni-trenink-v-novem-roce.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-11-27-zkousky-na-zakovske-technicke-stupne.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-11-01-vanocni-pohar-2012.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-05-03-zkousky-na-zakovske-technicke-stupne.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-22-vanocni-pohar-2013.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/kontakt/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/jaroslav-urbanek/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/bazar/index.md",
+		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_config.yml",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/assets/themes/twitter/js/main.js",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/josef-kubat/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/petra-vychopen-blahova/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/index.md",
 		"/Users/jurby/Documents/test",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-10-17-sportovni-soustredeni-bela-pod-bezdezem-2013.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-22-vanocni-pohar-2013.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-03-sportovni-soustredeni-straz-pod-ralskem-2013.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/bazar/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/obchod/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/bazar/index.mb0",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/co-s-sebou/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/page.html",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_config.yml",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/assets/themes/twitter/css/main.css",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/pages_left_menu",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/treneri/petra-blahova/index.md",
@@ -96,17 +90,13 @@
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_plugins/categories_list.rb",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/taekwon-do/teorie/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/taekwon-do/historie/index.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/kontakt/index.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.html",
 		"/Users/jurby/Dropbox/WORK/ElephantOrchestra/MailJob.cs",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2013-09-01-nabor-novych-clenu-2013.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/page-landing.html",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2013-09-01-zahajeni-sezony-2013.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/post-calendar.html",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/promo/2012-10-01-mesic-zdarma.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/promo/2013-09-01-nabor-2013.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/default.html",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-05-03-zkousky-na-zakovske-technicke-stupne.md",
 		"/home/jurby/.gvfs/media na medea/video/Movies/Jack.the.Giant.Slayer.2013.1080p.BluRay.x264-SPARKS [PublicHD]/jack.the.giant.slayer.2013.1080p.bluray.x264-sparks.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game.of.Thrones.S03E08.720p.HDTV.x264-EVOLVE.srt",
 		"/home/jurby/.gvfs/media na medea/video/Serials/Game of Thrones/S03/Game Of Thrones S03-E01 (2012)NLtoppers.srt",
@@ -177,8 +167,6 @@
 		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_config.yml",
 		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/page-landing.html",
 		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/calendar_list",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-11-01-vanocni-pohar-2012.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/kalendar/2012-12-16-posledni-trenink-v-tomto-roce-a-prvni-trenink-v-novem-roce.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/calendar_list",
 		"/Users/jurby/.Trash/2012-12-16-posledni-trenink-v-tomto-roce-a-prvni-trenink-v-novem-roce.md",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_posts/novinky/2012-10-29-zalozeni-uctu-v-bance.md",
@@ -187,20 +175,7 @@
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/taekwondo-strancice.sublime-project",
 		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/index.md",
 		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/themes/twitter/default.html",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/pages_list",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/posts_collate",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_posts/zavody/2012-11-01-vanocni-pohar-2012.md",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/treneri/index.md",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/skola/index.md",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/kontakt/index.md",
-		"/I/www2/vhost/test/www/Rest.inc.php",
-		"/I/www2/vhost/test/www/index.php",
-		"/C/Users/jaroslav.urbanek/Downloads/Rest.inc.php",
-		"/C/Users/jaroslav.urbanek/Downloads/api.php",
-		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_posts/carousel/2012-11-01-vanocni-pohar-2012.md",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com (kopie)/index.html",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com (kopie)/css/main.css",
-		"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes/JB/analytics"
+		"/C/Users/jaroslav.urbanek/Dropbox/Projects/taekwondo-strancice.github.com/_includes/custom/pages_list"
 	],
 	"find":
 	{
@@ -208,9 +183,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/",
 			"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com/_includes",
 			"/Users/jurby/Dropbox/Projects/taekwondo-strancice.github.com",
 			"/Users/jurby/Dropbox/Projects/jurby.github.com"
@@ -221,6 +197,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"CET",
+			" UTC",
 			"xx",
 			"&",
 			"&\n",
@@ -251,6 +229,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			" CET",
 			"&amp;"
 		],
 		"reverse": false,
@@ -262,101 +241,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "bazar/index.md",
-					"settings":
-					{
-						"buffer_size": 1684,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1144,
-								1144
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "treneri/jaroslav-urbanek/index.md",
-					"settings":
-					{
-						"buffer_size": 5605,
-						"regions":
-						{
-							"mark":
-							{
-								"flags": 144,
-								"icon": "dot",
-								"regions":
-								[
-									[
-										691,
-										275
-									]
-								],
-								"scope": "mark"
-							}
-						},
-						"selection":
-						[
-							[
-								5294,
-								5294
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 774.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"settings":
-					{
-						"buffer_size": 846,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								846,
-								846
-							]
-						],
-						"settings":
-						{
-							"auto_name": "8199120001",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 264.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -432,6 +318,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 483.0,
+	"side_bar_width": 339.0,
 	"status_bar_visible": true
 }
