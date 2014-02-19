@@ -43,7 +43,7 @@ Doufáme, že toto přinese škole lepší možnost fungování jak z pohledu vn
 <a id="prehled-uhrad" class="shifted-anchor">&nbsp;</a>
 ## Přehled úhrad 
 
-<iframe width="870px" height="500px" frameborder="0" src="https://docs.google.com/spreadsheet/pub?key=0AnnVMASu8XeFdENwV2ZfM2tmQkZHUS1nYmhCanljbkE&single=true&gid=60&output=html&widget=true" allowfullscreen="allowfullscreen"> &nbsp </iframe>
+<iframe width="870" height="500" frameborder="0" src="https://docs.google.com/spreadsheet/pub?key=0AnnVMASu8XeFdENwV2ZfM2tmQkZHUS1nYmhCanljbkE&single=true&gid=60&output=html&widget=true" allowfullscreen="allowfullscreen"> &nbsp </iframe>
 
 {% comment %}<!--
 
