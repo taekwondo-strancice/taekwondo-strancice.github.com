@@ -22,6 +22,7 @@ Zde jsou dostupné bazarové věci, které je možné koupit od ostatních člen
 <a id="doboky" class="shifted-anchor">&nbsp;</a>
 ## Doboky
 
+{% comment %}<!--<
 <table class="table table-condensed table-striped table-bordered">
 	<thead>
 		<tr>
@@ -42,7 +43,6 @@ Zde jsou dostupné bazarové věci, které je možné koupit od ostatních člen
 			<td>777007070, <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a></td>
 			<td>800 Kč</td>
 		</tr>
-		{% comment %}<!--<
 		<tr>
 			<td>2</td>
 			<td>140 cm</td>
@@ -59,10 +59,11 @@ Zde jsou dostupné bazarové věci, které je možné koupit od ostatních člen
 			<td>777007070, <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a></td>
 			<td>300 Kč</td>
 		</tr>
-		-->{% endcomment %}
 	</tbody>
 </table>
-
+-->{% endcomment %}
+Nic není v nabídce.
+		
 <a id="pasky" class="shifted-anchor">&nbsp;</a>
 ## Pásky 
 
