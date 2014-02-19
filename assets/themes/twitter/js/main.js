@@ -6,7 +6,7 @@
 		}).attr('target', '_blank');
 		
 		$('.x-frame').each(function() {
-		  $(this).after('<iframe width="870" height="500" src="' + ($(this).attr('data-src')) + '" frameborder="0"></iframe>"');
+		  $(this).after('<iframe width="870" height="500" src="' + ($(this).attr('data-src')) + '" frameborder="0"></iframe>');
 		});
 	});
 })(window, document, jQuery)
