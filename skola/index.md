@@ -23,10 +23,6 @@ menu:
 ## Občanské sdružení 
 
 Na počátku října roku 2013 jsme se stali občanskýmm sdružením s názvem **Taekwon-Do ITF Strančice**. S touto změnou jsou spojeny úpravy členství všech členů.
-<a id="obcanske-sdruzeni" class="shifted-anchor">&nbsp;</a>
-## Občanské sdružení 
-
-Na počátku října roku 2013 jsme se stali občanskýmm sdružením s názvem **Taekwon-Do ITF Strančice**. S touto změnou jsou spojeny úpravy členství všech členů.
 
 ### Registrace u MV
 Škola byla úspěšně zaregistrována dne 1.10.2012 u Ministerstva vnitra jako _občanské sdružení_, tj. s právní formou _neziskové organizace_.
