@@ -12,7 +12,7 @@ proposition: ""
 ---
 {% include JB/setup %}
 
-Rádi bychom Vás pozvali dne  {{page.date | date: "%d.%m.%Y"}} na národní seminář, který se bude konat v Říčanech, Na Fialce.
+Rádi bychom Vás pozvali dne {{page.date | date: "%d.%m.%Y"}} na národní seminář, který se bude konat v Říčanech, Na Fialce.
 
 {% comment %}<!--<
 
