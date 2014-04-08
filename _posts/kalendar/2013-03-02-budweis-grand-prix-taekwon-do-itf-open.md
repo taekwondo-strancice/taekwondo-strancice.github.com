@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BUDWEIS GRAND PRIX TAEKWON-DO ITF OPEN
+title: BUDWEIS GRAND PRIX TAEKWON-DO ITF OPEN 2013
 tagline: <br>1. kolo ČESKÉ NÁRODNÍ LIGY TAEKWON-DO
 group : calendar
 categories: [novinky, zavody]
@@ -10,7 +10,6 @@ dateFrom: 2013-03-02 09:00:00 CET
 dateTo: 2013-03-02 17:00:00 CET
 proposition: "http://goo.gl/V3Agy"
 registration: ""
-alias: /zavody
 comments: false
 ---
 {% include JB/setup %}
