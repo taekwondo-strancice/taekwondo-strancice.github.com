@@ -12,7 +12,7 @@ comments: false
 ---
 {% include JB/setup %}
 
-V těchto dnech bude probíhat soustředění naší školy, které proběhne v Praze za podpory Střední průmyslová školy Na Třebešíně.
+V následujícím víkendu bude probíhat soustředění naší školy, které proběhne v Praze za podpory Střední průmyslové školy Třebešín.
 
 *Soustředění je určenu pro členy pokročilé skupiny (A) a závodníky.*
 
@@ -20,18 +20,19 @@ V těchto dnech bude probíhat soustředění naší školy, které proběhne v 
 
 Sraz bude v sobotu {{page.dateFrom | date: "%d.%m.%Y"}} v 9.30 hod v místě konání. Předpokládaný konec bude v neděli {{page.dateTo | date: "%d.%m.%Y"}} ve 13.00 hod.
 
-Místo konání: Střední průmyslová škola, Na třebešíně 2299, 108 00 Praha 10 &mdash; [www.trebesin.cz](http://www.trebesin.cz/)
+Místo konání: Střední průmyslová škola Třebešín, Na třebešíně 2299, 108 00 Praha 10 &mdash; [www.trebesin.cz](http://www.trebesin.cz/)
 
 ## Doprava
 
 Dopravu si každý účastník zajišťuje sám.
 
-Ze směru Stránčice pojede Dagmar Klečková s několika dalšími vlakem v sobotu ráno do Strašnic. Ve Strašnicích dále přestoupí na linku 188 směr Želivského. Na zastávce Hostýnská všichni vystoupí. A cca po 5 min chůze budou na místě.
+Ze směru Stránčice pojede Dagmar Klečková s několika dalšími vlakem v sobotu ráno do Strašnic. Ve Strašnicích dále přestoupí na linku autobusu 188 směr Želivského. Na zastávce Hostýnská všichni vystoupí. Cca po 5 min chůze budou na místě.
+
 Více o společném odjezdu případně příjezdu bude domlouváno v úterý a v pátek na tréninku.
 
 ## Ubytování
 
-Ubytování bude v areálu školy, kdy budeme ubytovaní všichni na jednom patře. Cena za ubytování je 150,- Kč za noc na osobu.
+Ubytování bude v areálu školy, kde budeme ubytovaní všichni na jednom patře. Cena za ubytování je 150,- Kč za noc na osobu.
 
 Pokoje jsou dvoulůžkové a vždy dva pokoje mají společné sociální zařízení.
 
@@ -59,7 +60,7 @@ Cena jídla předběžně 250,- Kč na osobu
 
 ## Cena
 
-Soustředění (hala), ubytování a stravování (sobotní oběd a večeřě, nedělní snidaně) bude kompletně hrazeno školou.
+Soustředění (hala, ubytování a stravování) bude kompletně hrazeno školou.
 
 **Příhlášení účastníci (všichni jsou ubytovaní)** 
 
