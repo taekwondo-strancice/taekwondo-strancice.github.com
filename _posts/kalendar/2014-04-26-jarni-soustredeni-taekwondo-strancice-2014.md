@@ -89,9 +89,9 @@ Pokud budete mít nějaké dotazy ohledně celé akce a nebo odjezdu/příjezdu,
 
 ## Mapa
 
-Ubytování s tělocvičnou a stravování - [Odkaz na mapu](https://goo.gl/maps/018pr).
+Ubytování s tělocvičnou a stravování - [Odkaz na mapu](http://goo.gl/maps/XWXw4).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d5120.080329676188!2d14.506157514077136!3d50.085534869558984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e2!4m5!1s0x470b933e5c50785b%3A0x859f780b093382ce!2zTmEgVMWZZWJlxaHDrW7EmyAyMjk5LzY5LCAxMDggMDAgUHJhaGE!3m2!1d50.0845051!2d14.492754099999999!4m5!1s0x470b9326d0898079%3A0xe0b49079f5052dd8!2sHotel+Baroko%2C+Tomsova+13%2F11%2C+108+00+Praha+10+-+Male%C5%A1ice!3m2!1d50.085639!2d14.513133!5e0!3m2!1scs!2scz!4v1398238130746" width="600" height="450" frameborder="0" style="border:0"> </iframe>
+<iframe width="650" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.cz/maps?q=Na+T%C5%99ebe%C5%A1%C3%ADn%C4%9B+2299%2F69,+108+00+Praha&amp;hl=cs&amp;ie=UTF8&amp;sll=49.803763,15.474913&amp;sspn=6.361316,16.907959&amp;brcurrent=5,0,0&amp;dirflg=w&amp;hnear=Na+T%C5%99ebe%C5%A1%C3%ADn%C4%9B+2299%2F69,+108+00+Praha&amp;t=m&amp;hq=&amp;z=14&amp;iwloc=A&amp;ll=50.084505,14.492754&amp;output=embed"></iframe><br /><small><a href="https://maps.google.cz/maps?q=Na+T%C5%99ebe%C5%A1%C3%ADn%C4%9B+2299%2F69,+108+00+Praha&amp;hl=cs&amp;ie=UTF8&amp;sll=49.803763,15.474913&amp;sspn=6.361316,16.907959&amp;brcurrent=5,0,0&amp;dirflg=w&amp;hnear=Na+T%C5%99ebe%C5%A1%C3%ADn%C4%9B+2299%2F69,+108+00+Praha&amp;t=m&amp;hq=&amp;z=14&amp;iwloc=A&amp;ll=50.084505,14.492754&amp;source=embed" style="color:#0000FF;text-align:left">Zvětšit mapu</a></small>
 
 {% comment %}<!--< 
 -->{% endcomment %}
