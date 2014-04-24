@@ -72,7 +72,6 @@ Soustředění (hala, ubytování a stravování) bude kompletně hrazeno školo
 - Klárka Klečková
 - Sam Pasler
 - Dominik Popelka
-- Tomáš Luka
 - Vojta Fuka
 - Miky Horák
 - Pavel Barhoň
