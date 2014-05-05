@@ -5,9 +5,9 @@ tagline: s mistrem F. Vanbergenem 8. Dan
 group : calendar
 categories: [novinky, seminar]
 tags : [seminář, "F. Vanbergenem 8. Dan"]
-date: 2014-05-10 09:00:00 CET
-dateFrom: 2014-05-10 09:00:00 CET
-dateTo: 2014-05-10 17:00:00 CET
+date: 2014-05-10 08:00:00 CET
+dateFrom: 2014-05-10 08:00:00 CET
+dateTo: 2014-05-10 16:00:00 CET
 proposition: "http://goo.gl/2jBKFS"
 ---
 {% include JB/setup %}
