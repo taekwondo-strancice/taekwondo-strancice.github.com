@@ -16,7 +16,7 @@ Rádi bychom Vás pozvali dne {{page.date | date: "%d.%m.%Y"}} na národní semi
 
 Kompletní informace v [propozicích]({{ page.proposition }}).
 
-*Seznam účastníků:*
+### Seznam účastníků
 
 - Karin Goldmannová
 - Eliška Soprová
