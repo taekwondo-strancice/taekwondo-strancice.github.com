@@ -27,6 +27,6 @@ Kompletní informace v [propozicích]({{ page.proposition }}).
 - Mikuláš Horák
 - Michal Šťastný
 - Petra Výchopeň Bláhová
-- Tomáš Mácha​ (nebude svičit)​
-- Josef Kubát​​
+- Tomáš Mácha
+- Josef Kubát
 - Jaroslav Urbánek
