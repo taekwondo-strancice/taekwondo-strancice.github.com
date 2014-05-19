@@ -8,7 +8,7 @@ permalink: /
 ---
 {% include JB/setup %}
 
-<div class="row-fluid">
+<div class="row-fluid0">
 	<ul class="thumbnails">
 	  <li class="span5">
 		<div class="thumbnail">
@@ -22,7 +22,7 @@ permalink: /
 		  </div>
 		</div>
 	  </li>
-	  <li class="span5 offset1">
+	  <li class="span5">
 		<div class="thumbnail">
 		  <div class="caption">
 			<h3>Josef Kubát <small>III. Dan</small></h3>
@@ -46,12 +46,14 @@ permalink: /
 		  </div>
 		</div>
 	  </li>
-	  <li class="span5 offset1">
+	  <li class="span5">
 		<div class="thumbnail">
 		  <div class="caption">
 			<h3>Tomáš Mácha <small>III. Dan</small></h3>
 			<address>
+				<br>
 				<a href="mailto:macha.tomas@taekwondo-strancice.cz">macha.tomas@taekwondo-strancice.cz</a>
+				<br>
 			</address>
 		  </div>
 		</div>
