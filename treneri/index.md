@@ -10,19 +10,7 @@ permalink: /
 
 <div class="row-fluid">
 	<ul class="thumbnails">
-	  <li class="span4">
-		<div class="thumbnail">
-		  <div class="caption">
-			<h3>Jaroslav Urbánek <small>III. Dan</small></h3>
-			<address>
-				+420777007070<br>
-				<a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a>
-			</address>
-			<a href="jaroslav-urbanek/" class="btn">Více informací</a>
-		  </div>
-		</div>
-	  </li>
-	  <li class="span4">
+	  <li class="span5">
 		<div class="thumbnail">
 		  <div class="caption">
 			<h3>Petra Výchopeň Bláhová <small>II. Dan</small></h3>
@@ -34,15 +22,37 @@ permalink: /
 		  </div>
 		</div>
 	  </li>
-	  <li class="span4">
+	  <li class="span5 offset1">
 		<div class="thumbnail">
 		  <div class="caption">
-			<h3>Josef Kubát <small>II. Dan</small></h3>
+			<h3>Josef Kubát <small>III. Dan</small></h3>
 			<address>
 				+420607667343<br>
 				<a href="mailto:kubat.josef@taekwondo-strancice.cz">kubat.josef@taekwondo-strancice.cz</a>
 			</address>
 			<a href="josef-kubat/" class="btn">Více informací</a>
+		  </div>
+		</div>
+	  </li>
+	  <li class="span5">
+		<div class="thumbnail">
+		  <div class="caption">
+			<h3>Jaroslav Urbánek <small>III. Dan</small></h3>
+			<address>
+				+420777007070<br>
+				<a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a>
+			</address>
+			<a href="jaroslav-urbanek/" class="btn">Více informací</a>
+		  </div>
+		</div>
+	  </li>
+	  <li class="span5 offset1">
+		<div class="thumbnail">
+		  <div class="caption">
+			<h3>Tomáš Mácha <small>III. Dan</small></h3>
+			<address>
+				<a href="mailto:macha.tomas@taekwondo-strancice.cz">macha.tomas@taekwondo-strancice.cz</a>
+			</address>
 		  </div>
 		</div>
 	  </li>
