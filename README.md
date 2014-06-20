@@ -1,6 +1,6 @@
 Taekwon-Do ITF Strančice
 ========================
-Škola bojového umění
+Škola bojového umění 
 
 Webové stránky školy
 
