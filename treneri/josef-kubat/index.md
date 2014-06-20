@@ -13,7 +13,7 @@ photos:
 
 ## Bojová umění
 
-- Taekwon-Do ITF, II. Dan
+- Taekwon-Do ITF, III. Dan
 - Kickbox, 1. kyu
 
 ## Certifikace
