@@ -3,7 +3,7 @@ layout: page
 title: Historie
 tagline: Taekwon-Do
 menu : taekwon-do
-permalink: /
+permalink: /taekwon-do/historie/
 ---
 {% include JB/setup %}
 
