@@ -8,9 +8,12 @@ auto: true
 pygments: true
 safe: true
 future: true
+markdown: kramdow
 #prod_build: true
 
 timezone: Europe/Prague
+
+excerpt_separator: "<!-- more -->"
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
