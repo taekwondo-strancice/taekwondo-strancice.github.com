@@ -4,7 +4,7 @@ title: Petra Výchopeň Bláhová
 tagline: II. Dan
 menu : treneri
 weight: 2
-permalink: /
+permalink: /treneri/petra-vychopen-blahova/
 ---
 {% include JB/setup %}
 
