@@ -8,7 +8,7 @@ menu :
   name : taekwon-do
   title : Úvodem
   parent: true
-permalink: /
+permalink: /taekwon-do/
 ---
 {% include JB/setup %}
 
