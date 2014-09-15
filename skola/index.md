@@ -4,7 +4,7 @@ title: O škole
 tagline: Taekwon-Do ITF Strančice
 group: navigation
 weight: 3
-permalink: /
+permalink: /skola/
 menu:
   - href: '#historie'
     name: Historie
