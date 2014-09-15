@@ -3,7 +3,7 @@ layout: page
 title: Teorie
 tagline: 
 menu : taekwon-do
-permalink: /
+permalink: /taekwon-do/teorie/
 ---
 {% include JB/setup %}
 
