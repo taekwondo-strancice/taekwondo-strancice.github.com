@@ -35,21 +35,9 @@ permalink: /kontakt/
 		<h2>Rada</h2>
 
 		<address>
-		  <strong>Petra Výchopeň Bláhová</strong> (předseda)<br>
+		  <strong>Petra Výchopeň Bláhová</strong> (předseda, hospodář)<br>
 		  +420604344604<br>
 		  <a href="mailto:blahova.petra@taekwondo-strancice.cz">blahova.petra@taekwondo-strancice.cz</a>
-		</address>
-
-		<address>
-		  <strong>Monika Dobíhalová</strong> (hospodář)<br>
-		  +420733690075<br>
-		  <a href="mailto:dobihalova.monika@taekwondo-strancice.cz">dobihalova.monika@taekwondo-strancice.cz</a>
-		</address>
-
-		<address>
-		  <strong>Jaroslav Urbánek</strong><br>
-		  +420777007070<br>
-		  <a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a>
 		</address>
 
 		<address>
@@ -61,6 +49,12 @@ permalink: /kontakt/
 		<address>
 		  <strong>Tomáš Mácha</strong><br>
 		  <a href="mailto:macha.tomas@taekwondo-strancice.cz">macha.tomas@taekwondo-strancice.cz</a>
+		</address>
+		
+		<address>
+		  <strong>Jaroslav Urbánek</strong><br>
+		  +420777007070<br>
+		  <a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a>
 		</address>
 	</div>
 </div>
