@@ -5,7 +5,7 @@ title: Co s sebou
 tagline: na první hodinu, na trénink, na závody
 group: navigation
 weight: 1
-permalink: /
+permalink: /co-s-sebou/
 menu:
   - href: '#prvni-hodina'
     name: První hodina
