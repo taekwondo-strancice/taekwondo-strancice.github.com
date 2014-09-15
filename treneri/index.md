@@ -4,7 +4,7 @@ title: Trenéři
 tagline: školy
 group: navigation
 weight: 4
-permalink: /
+permalink: /treneri/
 ---
 {% include JB/setup %}
 
