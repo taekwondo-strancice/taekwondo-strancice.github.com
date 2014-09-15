@@ -5,7 +5,7 @@ title: Obchod
 tagline: 
 group: navigation
 weight: 2
-permalink: /
+permalink: /obchod/
 menu:
   - href: '#doboky'
     name: Doboky
