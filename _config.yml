@@ -8,7 +8,7 @@ auto: true
 pygments: true
 safe: true
 future: true
-markdown: kramdow
+markdown: kramdown
 #prod_build: true
 
 timezone: Europe/Prague
