@@ -4,7 +4,7 @@ title: Bazar
 tagline: 
 group: navigation
 weight: 3
-permalink: /bazar
+permalink: /bazar/
 menu:
   - href: '#doboky'
     name: Doboky
