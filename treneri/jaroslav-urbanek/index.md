@@ -9,7 +9,7 @@ submenu:
     name: Úspěchy
   - href: '#test'
     name: Test
-permalink: /
+permalink: /treneri/jaroslav-urbanek/
 ---
 {% include JB/setup %}
 
