@@ -3,7 +3,7 @@ layout: page
 title: Kontakt
 group: navigation
 weight: 10
-permalink: /
+permalink: /kontakt/
 ---
 {% include JB/setup %}
 
