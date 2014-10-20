@@ -35,7 +35,7 @@ permalink: /kontakt/
 		<h2>Rada</h2>
 
 		<address>
-		  <strong>Petra Výchopeň Bláhová</strong> (předseda, hospodář)<br>
+		  <strong>Petra Výchopeň Bláhová</strong> (předseda)<br>
 		  +420604344604<br>
 		  <a href="mailto:blahova.petra@taekwondo-strancice.cz">blahova.petra@taekwondo-strancice.cz</a>
 		</address>
