@@ -8,7 +8,7 @@ permalink: /taekwon-do/historie/
 {% include JB/setup %}
 
 
-**Vznik a okolnosti:**
+### Vznik a okolnosti
 
 Zakladatelem dnešní podoby Taekwon-Do ITF je gen. Choi Hong Hi. Oficiální
 datum založení a přijetí názvu Taekwon-Do je 11. 4. 1955. Taekwon-Do vzniklo
@@ -22,9 +22,7 @@ která se stala špičkou armádního Taekwon-Do. Už v roce 1953 založil tělo
 Oh Do Kwan, kde rozvinul své bojové zkušenosti v nový bojový systém
 Taekwon-Do
 
- 
-
-**Zakladatel: **
+### Zakladatel
 
 Gen. Choi Hong Hi se narodil 19. listopadu 1918 v oblasti Hwa Dae Myong
 Chun v obci [Kilju]() v Koreji. Když mu bylo 12 let začal

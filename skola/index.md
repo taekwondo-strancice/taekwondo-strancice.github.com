@@ -16,28 +16,31 @@ menu:
 {% include JB/setup %}
 
 <a id="historie" class="shifted-anchor">&nbsp;</a>
-## Historie
+
+### Historie
 
 Škola Taekwon-Do ITF Strančice byla založena v roce 2002 trenérkou Petrou Bláhovou.
+
 <a id="obcanske-sdruzeni" class="shifted-anchor">&nbsp;</a>
-## Občanské sdružení 
+
+### Občanské sdružení 
 
 Na počátku října roku 2013 jsme se stali občanskýmm sdružením s názvem **Taekwon-Do ITF Strančice**. S touto změnou jsou spojeny úpravy členství všech členů.
 
-### Registrace u MV
+#### Registrace u MV
 Škola byla úspěšně zaregistrována dne 1.10.2012 u Ministerstva vnitra jako _občanské sdružení_, tj. s právní formou _neziskové organizace_.
 Registrace byla provedena pod číslem _VS/4-4/90288/12-R_.
 
-### Členství ve škole
+#### Členství ve škole
 Všichni noví i dosavadní členové školy jsou členy občanského sdružení. Každý člen má takto možnost se podílet na fungování a rozvoji školy.
 
-### Stanovy
+#### Stanovy
 Rozsah práv a povinností každého člena školy definují <a href="https://docs.google.com/open?id=0B3nVMASu8XeFY2ZhRGVnbzdtYW8" title="Stanovy Taekwon-Do ITF Strančice" target="_blank">stanovy Taekwon-Do ITF Strančice</a>.
 
 Doufáme, že toto přinese škole lepší možnost fungování jak z pohledu vnitřního řízení a chodu, tak i z pohledu dalšího rozvoje školy s možnou podporou obce Strančice a případně dalších subjektů, kteří budou naši školu ochotni podporovat.
 
 <a id="prehled-uhrad" class="shifted-anchor">&nbsp;</a>
-## Přehled úhrad 
+### Přehled úhrad 
 
 Přehled pro aktuální rok 2014/2015 bude dostupný v druhé polovině listopadu 2014.
 

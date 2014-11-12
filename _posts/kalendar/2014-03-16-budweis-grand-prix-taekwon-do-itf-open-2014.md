@@ -1,18 +1,18 @@
 ---
 layout: post
-title: BUDWEIS GRAND PRIX TAEKWON-DO ITF OPEN
+title: Mistrovství České republiky - Kickbox
 tagline: 2014
 group : calendar
 categories: [novinky, zavody]
-tags : [závody]
-date: 2014-03-16 08:00:00
-dateFrom: 2014-03-16 08:00:00
-dateTo: 2014-03-16 17:00:00
-proposition: "http://goo.gl/NbNQZq"
+tags : [závody, kickbox]
+date: 2014-11-15 08:00:00 CET
+dateFrom: 2014-11-15 08:00:00 CET
+dateTo: 2014-11-15 17:00:00 CET
+proposition: "http://goo.gl/Sz4oiT"
 comments: false
 ---
 {% include JB/setup %}
 
-Rrádi bychom Vás pozvali na tradiční Českobudějovickou soutěž v Taekwon-do ITF, která se koná {{page.date | date: "%d.%m.%Y"}}. Realizační team pro Vás opět připravil příjemné závody s rychlým průběhem a přátelskou atmosférou.
+Rrádi bychom Vás pozvali na Mistrovství České republiky - Kickbox / lightcontact & pointfighting, které se koná {{page.date | date: "%d.%m.%Y"}}.
 
 Kompletní informace o závodech najdete v [propozicích]({{ page.proposition }}).

@@ -20,6 +20,7 @@ menu:
 Zde jsou dostupné bazarové věci, které je možné koupit od ostatních členů.
 
 <a id="doboky" class="shifted-anchor">&nbsp;</a>
+
 ## Doboky
 
 {% comment %}<!--<
@@ -65,16 +66,19 @@ Zde jsou dostupné bazarové věci, které je možné koupit od ostatních člen
 Nic není v nabídce.
 		
 <a id="pasky" class="shifted-anchor">&nbsp;</a>
+
 ## Pásky 
 
 Nic není v nabídce.
 
 <a id="sport-zavody" class="shifted-anchor">&nbsp;</a>
+
 ## Sport a závody
 
 Nic není v nabídce.
 
 <a id="ostatni" class="shifted-anchor">&nbsp;</a>
+
 ## Ostatní 
 
 Nic není v nabídce.

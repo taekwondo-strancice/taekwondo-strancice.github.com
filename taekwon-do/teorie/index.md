@@ -7,7 +7,7 @@ permalink: /taekwon-do/teorie/
 ---
 {% include JB/setup %}
 
-**Skladba Taekwon-Do:**
+### Skladba Taekwon-Do
 
 1. Základní
      techniky (Kibon Ryonsup) – procvičování technik rukou a nohou
@@ -28,7 +28,7 @@ permalink: /taekwon-do/teorie/
      (Hosinsul) – je spojením předchozích bodů. V sebeobraně se využije
      všech naučených technik a bojových zkušeností ze sparringů. 
 
-**Sportovní disciplíny:**
+### Sportovní disciplíny
 
 Tuly (technické sestavy)
 
@@ -40,17 +40,15 @@ Wirok (silové přerážení - údery a kopy)
 
 Modelový sparing (domluvený souboj)
 
-** **
 
-**Vývoj Taekwon-Do:**
+### Vývoj Taekwon-Do
 
 Tento bojový systém byl zaveden v 50. letech, ale už tehdy byl gen.
 Choiem koncipován jako stále se vyvíjející způsob boje. Taekwon-Do se stále
 přizpůsobuje měnící se době a potřebám lidí dnešní společnosti.
 
-** **
 
-**Praktické využití:**
+### Praktické využití
 
 Taekwon-Do je především systém sebeobrany. Je ale možné ho praktikovat i
 jako bojový sport na vrcholové úrovni (probíhají světové, evropské a národní
