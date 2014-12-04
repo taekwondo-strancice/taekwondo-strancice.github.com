@@ -5,7 +5,7 @@ tagline: úterý
 group : news
 categories: [novinky]
 tags : [trénink]
-date: 2014-10-28 08:00:0
+date: 2014-10-28 08:00:00 CET
 ---
 {% include JB/setup %}
 
