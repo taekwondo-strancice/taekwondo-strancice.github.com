@@ -6,8 +6,8 @@ group : calendar
 categories: [novinky, trenink]
 tags : [trénink]
 date: 2014-11-16 15:00:00
-dateFrom: 2014-03-16 15:00:00
-dateTo: 2014-03-16 17:00:00
+dateFrom: 2014-11-16 15:00:00
+dateTo: 2014-11-16 17:00:00
 proposition: ""
 comments: false
 ---
