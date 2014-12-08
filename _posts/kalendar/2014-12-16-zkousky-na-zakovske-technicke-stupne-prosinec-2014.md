@@ -5,9 +5,9 @@ tagline: 9. - 1. kup
 group : calendar
 categories: [novinky, zkousky]
 tags : [zkoušky, 9. - 1. kup]
-date: 2014-12-16 17:30:00 CEST
-dateFrom: 2014-12-16 17:30:00 CEST
-dateTo: 2014-12-16 18:30:00 CEST
+date: 2014-12-16 17:30:00+01:00 CEST
+dateFrom: 2014-12-16 17:30:00+01:00 CEST
+dateTo: 2014-12-16 18:30:00+01:00 CEST
 document: "http://goo.gl/Syh60"
 ---
 {% include JB/setup %}
