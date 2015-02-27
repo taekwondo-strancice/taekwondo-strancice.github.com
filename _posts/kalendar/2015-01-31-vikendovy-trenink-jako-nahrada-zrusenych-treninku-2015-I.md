@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Společný trénink
-tagline: náhraza
+title: Společný sobotní trénink
+tagline: náhrada zrušených prosincových tréninků
 group : calendar
 categories: [novinky, trenink]
 tags : [trénink]
