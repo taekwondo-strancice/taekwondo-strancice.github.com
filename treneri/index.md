@@ -37,7 +37,7 @@ permalink: /treneri/
 	  <li class="span5">
 		<div class="thumbnail">
 		  <div class="caption">
-			<h3>Jaroslav Urbánek <small>III. Dan</small></h3>
+			<h3>Jaroslav Urbánek <small>IV. Dan</small></h3>
 			<address>
 				+420777007070<br>
 				<a href="mailto:urbanek.jaroslav@taekwondo-strancice.cz">urbanek.jaroslav@taekwondo-strancice.cz</a>
@@ -49,7 +49,7 @@ permalink: /treneri/
 	  <li class="span5">
 		<div class="thumbnail">
 		  <div class="caption">
-			<h3>Tomáš Mácha <small>III. Dan</small></h3>
+			<h3>Tomáš Mácha <small>IV. Dan</small></h3>
 			<address>
 				<br>
 				<a href="mailto:macha.tomas@taekwondo-strancice.cz">macha.tomas@taekwondo-strancice.cz</a>
