@@ -20,7 +20,7 @@ permalink: /kontakt/
 			<a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a>
 		</address>
 
-		<h2>Provozovna</h2>
+		<h2>Kde probíhají tréninky</h2>
 
 		<address>
 			<strong>Taekwon-Do ITF Strančice</strong><br>
