@@ -6,8 +6,8 @@ group : calendar
 categories: [novinky, zkousky]
 tags : [zkoušky, 9. - 1. kup]
 date: 2015-03-03 17:00:00+01:00 CEST
-dateFrom: 2015-03-03 17:15:00+01:00 CEST
-dateTo: 2015-03-03 18:00:00+01:00 CEST
+dateFrom: 2015-03-03 17:30:00+01:00 CEST
+dateTo: 2015-03-03 19:00:00+01:00 CEST
 document: "http://goo.gl/Syh60"
 ---
 {% include JB/setup %}
@@ -16,7 +16,7 @@ V tomto termínu se budou konat žákovské zkoušky na technické stupně 9. &m
 
 **KDY:**
 
-úterý 3.3.2015, sraz v 17:00, zkoušky probíhat od 17:30 &mdash; 18:30 hod
+úterý 3.3.2015, sraz v 17:15 hod, zkoušky probíhat od 17:30 &mdash; 18:30 hod
 
 **KDE:**
 
