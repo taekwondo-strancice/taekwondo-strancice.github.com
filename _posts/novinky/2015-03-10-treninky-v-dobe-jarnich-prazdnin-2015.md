@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tréninky v úterý 10.3. a v pátek 13.3.
+title: Tréninky v úterý 10.3. a v pátek 13.3. se konají
 tagline: úterý, pátek
 group : news
 categories: [novinky]
