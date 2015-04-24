@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zrušení tréninků 1.5. a 8.5. 2015 (svátky)
+title: Zrušení tréninků 1.5. a 8.5.2015 (svátky)
 tagline: pátky
 group : news
 categories: [novinky]
