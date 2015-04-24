@@ -92,7 +92,7 @@ http://www.halaborotin.cz/fotogalerie.php
 
 Ty nejdůležitější informace naleznete v propozicích]({{ page.proposition }}).
 
-Případné dotazy a možnosti s námi prosím konzultujte během tréninků nebo na emailu <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz /a>.
+Případné dotazy a možnosti s námi prosím konzultujte během tréninků nebo na emailu <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a>.
 
 Děkujeme!
 
