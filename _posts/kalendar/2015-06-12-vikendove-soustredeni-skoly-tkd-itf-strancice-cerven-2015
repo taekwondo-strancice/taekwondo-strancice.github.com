@@ -3,13 +3,13 @@ layout: post
 title: Víkendové soustředění školy Taekwon-Do ITF Strančice
 tagline: 2.víkend v červnu
 group : calendar
-categories: [novinky, zavody]
-tags : [závody]
+categories: [novinky, soustredeni]
+tags : [soustředění]
 date: 2015-06-12 09:00:00 CET
 dateFrom: 2015-06-12 08:30:00 CET
 dateTo:  2015-06-14 18:00:00 CET
-proposition: "http://goo.gl/qcbHzG"
-registration: "http://goo.gl/xtQLtf"
+proposition: "http://goo.gl/7SjBAw"
+registration: "http://goo.gl/42RsZj"
 ---
 {% include JB/setup %}
 
