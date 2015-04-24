@@ -9,7 +9,7 @@ date: 2015-05-16 09:00:00 CET
 dateFrom: 2015-05-16 08:30:00 CET
 dateTo:  2015-05-16 18:00:00 CET
 proposition: "http://goo.gl/qcbHzG"
-registration: "http://goo.gl/Qrm72"
+registration: "http://goo.gl/xtQLtf"
 ---
 {% include JB/setup %}
 
