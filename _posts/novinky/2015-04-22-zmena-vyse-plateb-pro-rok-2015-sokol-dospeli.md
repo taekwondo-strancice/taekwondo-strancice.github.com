@@ -5,7 +5,7 @@ tagline: navýšení
 group : news
 categories: [novinky]
 tags : [trénink, zrušení]
-date: 2015-03-24 00:00:00 CET
+date: 2015-04-23 09:00:00 CET
 ---
 {% include JB/setup %}
 
