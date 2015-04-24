@@ -90,7 +90,7 @@ Je možné domluvit saunu pro 6 lidí za 400 Kč/hod.
 
 Zde je konkrétní místo, kde budeme bydlet a cvičit - [fotografie](http://www.halaborotin.cz/fotogalerie.php)
 
-Ty nejdůležitější informace naleznete v propozicích]({{ page.proposition }}).
+Ty nejdůležitější informace naleznete v [propozicích]({{ page.proposition }}).
 
 Případné dotazy a možnosti s námi prosím konzultujte během tréninků nebo na emailu <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a>.
 
