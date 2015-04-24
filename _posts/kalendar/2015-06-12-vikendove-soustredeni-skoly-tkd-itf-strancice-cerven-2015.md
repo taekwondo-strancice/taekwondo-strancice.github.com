@@ -18,11 +18,11 @@ Kompletní informace o závodech najdete v [propozicích]({{ page.proposition }}
 
 ## Odjezd a příjezd
 
-**Odjezd**
+**Odjezd**  
 Odjezd od sokolovny Strančice - pátek 12. 6. 2015 (hromadný odjezd dle možností viz. [přihláška]({{ page.registration }}), příp. 2. sk. nejpozději tak, aby se stihl
 podvečerní trénink a večeře).
 
-**Příjezd**
+**Příjezd**  
 Příjezd k sokolovně Strančice - neděle 14. 6. 2015 večer (předpokládaný
 příjezd cca 20hod)
 
@@ -65,26 +65,26 @@ sobotního extra dopoledne v sokolovně.
 Pokud byste si s námi chtěli udělat výlet, podpořit Vaše nejmenší, není
 problém domluvit ubytování.
 
-**Jídlo**
+**Jídlo**  
 - Možné domluvit společně s námi.
 - Další možnosti:
   - [Borotín](http://www.borotin.cz/hostinec-u-kostela/)
   - okolní vesnice
   - nedaleký Tábor
 
-**Doporučujeme výlety po okolí**
+**Doporučujeme výlety po okolí**  
 
 - [hrad Borotín](http://www.borotin.cz/hrad-borotin-a-barokni-hospodarsky-dvur/),
 - lesní procházky, výlety na kolech, návštěvu krásného města Tábor.
 
-**Cena pro ostatní**
+**Cena pro ostatní**  
 - Cena za ubytování 250 Kč/os/noc.
 - Jídlo plná penze 240 Kč/os/den.
 
 Pokud by byl zájem, rádi pro Vás připravíme např. lekci sebeobrany, nebo
 kondiční trénink.
 
-**Sauna**
+**Sauna**  
 Je možné domluvit saunu pro 6 lidí za 400 Kč/hod.
 
 Zde je konkrétní místo:
