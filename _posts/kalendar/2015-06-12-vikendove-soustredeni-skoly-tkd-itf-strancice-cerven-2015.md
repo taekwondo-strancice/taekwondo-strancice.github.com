@@ -78,6 +78,7 @@ problém domluvit ubytování.
 - lesní procházky, výlety na kolech, návštěvu krásného města Tábor.
 
 **Cena pro ostatní**  
+
 - Cena za ubytování 250 Kč/os/noc.
 - Jídlo plná penze 240 Kč/os/den.
 
@@ -87,8 +88,7 @@ kondiční trénink.
 **Sauna**  
 Je možné domluvit saunu pro 6 lidí za 400 Kč/hod.
 
-Zde je konkrétní místo:
-http://www.halaborotin.cz/fotogalerie.php
+Zde je konkrétní místo, kde budeme bydlet a cvičit - [fotografie](http://www.halaborotin.cz/fotogalerie.php)
 
 Ty nejdůležitější informace naleznete v propozicích]({{ page.proposition }}).
 
