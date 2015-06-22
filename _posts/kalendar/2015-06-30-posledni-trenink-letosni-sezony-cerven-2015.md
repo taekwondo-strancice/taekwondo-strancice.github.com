@@ -2,12 +2,10 @@
 layout: post
 title: Poslední trénink letošní sezóny
 tagline: úterý
-group : calendar
+group : news
 categories: [novinky, trenink]
 tags : [trénink]
 date: 2015-06-30 17:30:00+01:00 CEST
-dateFrom: 2015-06-30 17:30:00+01:00 CEST
-dateTo: 2015-06-30 19:30:00+01:00 CEST
 ---
 {% include JB/setup %}
 
