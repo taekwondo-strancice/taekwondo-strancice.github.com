@@ -5,7 +5,7 @@ tagline: 2015/2016
 group : calendar
 categories: [novinky, trenink]
 tags : [trénink]
-date: 2015-09-05 06:00:00+01:00 CEST
+date: 2015-09-01 06:00:00+01:00 CEST
 ---
 {% include JB/setup %}
 
