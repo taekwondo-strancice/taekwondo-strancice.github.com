@@ -5,7 +5,7 @@ tagline: úterý
 group : news
 categories: [novinky, trenink, prazdniny]
 tags : [trénink]
-date: 2015-09-01 06:00:00+01:00 CEST
+date: 2015-07-01 06:00:00+01:00 CEST
 ---
 {% include JB/setup %}
 
