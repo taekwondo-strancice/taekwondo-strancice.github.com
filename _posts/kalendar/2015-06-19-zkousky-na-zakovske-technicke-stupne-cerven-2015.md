@@ -17,7 +17,7 @@ V tomto termínu se budou konat žákovské zkoušky na technické stupně 9. &m
 **KDY:**
 
 - pátek 19.6.2015 (sraz v 17:45 hod)
-- zkoušky jsou od 18:30 &mdash; 18:30 hod (po zkouškách **nebude** již trénink)
+- zkoušky jsou od 18:00 &mdash; 19:30 hod (po zkouškách **nebude** již trénink)
 
 **KDE:**
 
