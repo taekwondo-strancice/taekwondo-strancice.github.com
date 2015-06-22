@@ -2,7 +2,7 @@
 layout: post
 title: Tréninky o prázdninách
 tagline: úterý
-group : news
+group : calendar
 categories: [novinky, trenink, prazdniny]
 tags : [trénink]
 date: 2015-07-01 06:00:00+01:00 CEST
