@@ -47,7 +47,7 @@ permalink: /kontakt/
 		</address>
 
 		<address>
-		  <strong>MgA. Tomáš Mácha</strong><br>
+		  <strong>MgA. Tomáš Mácha</strong><br>
 		  +420723173591<br>
 		  <a href="mailto:macha.tomas@taekwondo-strancice.cz">macha.tomas@taekwondo-strancice.cz</a>
 		</address>
