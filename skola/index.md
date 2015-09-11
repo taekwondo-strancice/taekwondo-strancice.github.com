@@ -42,7 +42,7 @@ Doufáme, že toto přinese škole lepší možnost fungování jak z pohledu vn
 <a id="prehled-uhrad" class="shifted-anchor">&nbsp;</a>
 ### Přehled úhrad 
 
-Přehled pro aktuální rok 2014/2015 bude dostupný v druhé polovině listopadu 2014.
+Přehled pro aktuální rok 2015/2016 bude dostupný na začátku listopadu 2015.
 
 {% comment %}<!--
 <div class="x-frame" data-src="https://docs.google.com/spreadsheet/pub?key=0AnnVMASu8XeFdENwV2ZfM2tmQkZHUS1nYmhCanljbkE&amp;single=true&amp;gid=60&amp;output=html&amp;widget=true">&nbsp;</div>
