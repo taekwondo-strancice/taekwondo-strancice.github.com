@@ -15,7 +15,7 @@ permalink: /treneri/jaroslav-urbanek/
 
 ## Bojová umění
 
-- Taekwon-Do ITF, III. Dan
+- Taekwon-Do ITF, IV. Dan
 
 ## Úspěchy
 
