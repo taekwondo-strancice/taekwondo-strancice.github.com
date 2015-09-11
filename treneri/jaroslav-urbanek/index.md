@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jaroslav Urbánek
-tagline: III. Dan
+tagline: IV. Dan
 menu : treneri
 weight: 1
 submenu:
