@@ -51,7 +51,7 @@ permalink: /treneri/
 		  <div class="caption">
 			<h3>Tomáš Mácha <small>IV. Dan</small></h3>
 			<address>
-				<br>
+				+420723173591<br>
 				<a href="mailto:macha.tomas@taekwondo-strancice.cz">macha.tomas@taekwondo-strancice.cz</a>
 				<br>
 			</address>
