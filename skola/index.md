@@ -50,14 +50,6 @@ Přehled pro aktuální rok 2015/2016 bude dostupný na začátku listopadu 2015
 
 {% comment %}<!--
 
-<a id="historie" class="shifted-anchor">&nbsp;</a>
-## Historie ##
-
-Škola Taekwon-Do ITF Strančice byla založena v roce 2002 trenérkou Petrou Bláhovou.
-
-<a id="obcanske-sdruzeni" class="shifted-anchor">&nbsp;</a>
-## Občanské sdružení
-
 ....
 
 I get 10 times more traffic from [Google] [1] than from
