@@ -40,6 +40,7 @@ Rozsah práv a povinností každého člena školy definují <a href="https://do
 Doufáme, že toto přinese škole lepší možnost fungování jak z pohledu vnitřního řízení a chodu, tak i z pohledu dalšího rozvoje školy s možnou podporou obce Strančice a případně dalších subjektů, kteří budou naši školu ochotni podporovat.
 
 <a id="prehled-uhrad" class="shifted-anchor">&nbsp;</a>
+
 ### Přehled úhrad 
 
 Přehled pro aktuální rok 2015/2016 bude dostupný na začátku listopadu 2015.
