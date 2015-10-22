@@ -8,10 +8,10 @@ tags : [závody, "TOP TEN ITALIAN OPEN", 2015]
 date: 2015-11-29 08:00:00+01:00 CEST
 dateFrom: 2015-11-29 08:00:00+01:00 CEST
 dateTo: 2015-11-29 08:00:00+01:00 CEST
-proposition: "http://goo.gl/k6GZIh"
+proposition: "https://goo.gl/L56mgS"
 ---
 {% include JB/setup %}
 
-Rádi bychom Vás pozvali na otevřené závody {{ page.title }} do Italského města města Legnano, nedaleko Milána, která se konají dne {{page.date | date: "%d.%m.%Y"}}. 
+Rádi bychom Vás pozvali na otevřené závody {{ page.title }} do italského města města Legnano, nedaleko Milána, která se konají dne {{page.date | date: "%d.%m.%Y"}}. 
 
 Kompletní informace o závodech najdete v [propozicích]({{ page.proposition }}).
