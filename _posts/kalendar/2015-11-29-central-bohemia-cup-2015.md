@@ -5,9 +5,9 @@ tagline: 5. ročník
 group : calendar
 categories: [novinky, zavody]
 tags : [závody, "CENTRAL BOHEMIA CUP", 2015]
-date: 2015-11-07 08:00:00+01:00 CEST
-dateFrom: 2015-11-07 08:00:00+01:00 CEST
-dateTo: 2015-11-07 18:00:00+01:00 CEST
+date: 2015-11-07 09:00:00+01:00 CEST
+dateFrom: 2015-11-07 09:00:00+01:00 CEST
+dateTo: 2015-11-07 16:00:00+01:00 CEST
 proposition: "https://goo.gl/foor96"
 ---
 {% include JB/setup %}
