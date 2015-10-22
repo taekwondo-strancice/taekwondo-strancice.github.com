@@ -7,7 +7,7 @@ categories: [novinky, zavody]
 tags : [závody, "Pohár školy Ge-Baek", 2015]
 date: 2015-12-05 08:00:00+01:00 CEST
 dateFrom: 2015-12-05 08:00:00+01:00 CEST
-dateTo: 2015-11-07 18:00:00+01:00 CEST
+dateTo: 2015-12-05 18:00:00+01:00 CEST
 proposition: "https://goo.gl/uw2Uiz"
 ---
 {% include JB/setup %}
