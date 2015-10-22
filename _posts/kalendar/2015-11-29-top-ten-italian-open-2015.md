@@ -12,6 +12,6 @@ proposition: "https://goo.gl/L56mgS"
 ---
 {% include JB/setup %}
 
-Rádi bychom Vás pozvali na otevřené závody {{ page.title }} do italského města města Legnano, nedaleko Milána, která se konají dne {{page.date | date: "%d.%m.%Y"}}. 
+Rádi bychom Vás pozvali na otevřené závody {{ page.title }} do italského města města Legnano, nedaleko Milána, která se konají dne {{page.date | date: "%d.%m.%Y"}}.
 
 Kompletní informace o závodech najdete v [propozicích]({{ page.proposition }}).
