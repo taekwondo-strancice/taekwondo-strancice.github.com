@@ -1,6 +1,6 @@
 ---
 layout: post
-title: POZOR Změna tréninků 22.9.2015
+title: Změna tréninků 22.9.2015
 tagline: úterý
 group : news
 categories: [novinky]
