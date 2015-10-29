@@ -2,7 +2,7 @@
 layout: post
 title: Tréninky 30.10. jsou v běžných časech
 tagline: 30.10.2015
-group : calendar
+group : news
 categories: [novinky, trenink]
 tags : [trénink]
 date: 2015-10-30 18:00:00+01:00 CET
