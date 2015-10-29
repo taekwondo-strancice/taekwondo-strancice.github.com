@@ -8,7 +8,7 @@ tags : [závody, "CENTRAL BOHEMIA CUP", 2015]
 date: 2015-11-07 09:00:00+01:00 CEST
 dateFrom: 2015-11-07 09:00:00+01:00 CEST
 dateTo: 2015-11-07 16:00:00+01:00 CEST
-proposition: "https://goo.gl/foor96"
+proposition: "https://goo.gl/f6Rj3O"
 ---
 {% include JB/setup %}
 
