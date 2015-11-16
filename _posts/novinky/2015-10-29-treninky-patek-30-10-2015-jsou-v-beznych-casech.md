@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <b>Tréninky 30.10. jsou v běžných časech</b>
+title: Tréninky 30.10. jsou v běžných časech
 tagline: 30.10.2015
 group : news
 categories: [novinky, trenink]
