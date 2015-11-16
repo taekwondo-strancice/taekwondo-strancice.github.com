@@ -5,7 +5,7 @@ tagline: 17.11.2015
 group : news
 categories: [novinky, trenink]
 tags : [trénink]
-date: 2015-11-17 18:00:00+01:00 CET
+date: 2015-11-27 18:00:00+01:00 CET
 ---
 {% include JB/setup %}
 
