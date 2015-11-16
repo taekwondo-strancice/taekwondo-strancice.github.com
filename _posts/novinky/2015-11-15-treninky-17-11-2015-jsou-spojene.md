@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tréninky 17.11. jsou spojené
+title: <b>Tréninky 17.11. jsou spojené</b>
 tagline: 17.11.2015
 group : news
 categories: [novinky, trenink]
