@@ -17,7 +17,7 @@ V tomto termínu se budou konat žákovské zkoušky na technické stupně 9. &m
 **KDY:**
 
 - úterý 22.12.2015 (sraz v 17:00 hod)
-- zkoušky jsou od 17:30 &mdash; 19:30 hod (po zkouškách **nebude** již trénink)
+- zkoušky jsou od 17:30 &mdash; 19:30 hod (pokud zbyde po ZK čas, **bude** společný trénink) 
 
 **KDE:**
 
