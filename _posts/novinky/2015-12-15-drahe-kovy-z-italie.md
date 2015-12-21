@@ -5,7 +5,7 @@ tagline: 2015
 group : news
 categories: [novinky, závody]
 tags : [Top Ten, Italian Open, 2015]
-date: 2015-11-29 08:00:00+01:00 CET
+date: 2015-12-15 08:00:00+01:00 CET
 ---
 {% include JB/setup %}
 
