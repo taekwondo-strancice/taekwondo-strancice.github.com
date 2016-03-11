@@ -433,9 +433,9 @@ h2 + .row {
 }
 
 .sponsors li > a {
-	line-height: 90px;
+	line-height: 150px;
 	text-align: center;
-	height: 90px;
+	min-height: 150px;
 }
 .sponsors li > a > img {
 	display: inline-block;
