@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tréninky 25.03.
+title: Tréninky 25.03. probíhají
 tagline: velký pátek
 group : news
 categories: [novinky, trenink]
