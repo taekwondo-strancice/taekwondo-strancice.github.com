@@ -5,9 +5,9 @@ tagline: sobota
 group : calendar
 categories: [novinky, trenink]
 tags : [trénink]
-date: 2016-04-09 09:00:00+01:00 CEST
-dateFrom: 2016-04-09 09:00:00+01:00 CEST
-dateTo: 2016-04-09 12:00:00+01:00 CEST
+date: 2016-04-09 09:00:00 CEST
+dateFrom: 2016-04-09 09:00:00 CEST
+dateTo: 2016-04-09 12:00:00 CEST
 ---
 {% include JB/setup %}
 
