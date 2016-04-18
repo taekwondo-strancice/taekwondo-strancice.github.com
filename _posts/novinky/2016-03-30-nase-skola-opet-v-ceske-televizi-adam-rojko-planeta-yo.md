@@ -5,7 +5,7 @@ tagline: Adam Rojko
 group : news
 categories: [novinky, televize]
 tags : [televize, úspěchy, Česká televize, Planeta Yó]
-date: 2016-04-18 10:00:00 CEST
+date: 2016-04-18 17:40:00 CEST
 ---
 {% include JB/setup %}
 
