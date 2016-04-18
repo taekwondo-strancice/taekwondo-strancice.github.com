@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Únorové soustředění
+title:  Únorové soustředění naší školy
 tagline: 2016
 group : news
 categories: [novinky, soustredeni]
@@ -8,10 +8,6 @@ tags : [soustředění, škola]
 date: 2016-03-26 08:00:00 CEST
 ---
 {% include JB/setup %}
-
-Ve Strančicích 20. 3. 2016
-
-Únorové soustředění školy Taekwon-Do ITF Strančice
 
 Škola Taekwon-Do ITF Strančice pořádala ve dnech 27. – 28. 2. 2016 další víkendové soustředění.
 Stejně jako loni v červnu jsme vyjeli do jižních Čech, na Táborsko. Čekala nás tam známá tělocvična, příjemná jídelna a okolní příroda v zimním kabátě. Vše, co k podání sportovních výkonů potřebujeme. V počtu 30 lidí jsme vyrazili v sobotu ráno od naší sokolovny, abychom po rychlém rozřazení do pokojů mohli být v 10:00 vzorně nastoupeni na 1.trénink. Věkový rozsah sportovců byl široký, od šestiletých dětí po čtyřicátníky. Soustředění bylo zaměřeno na základní techniky, výuku nových sestav (tulů), nácvik technik pro sportovní zápas, silové přerážení (wirok). Nesměla chybět sebeobrana, kterou pro ty nejstarší trenéři okořenili praktickým nácvikem, kdy se nic netušící taekwondista procházející budovou musel vypořádat s přichystanými nástrahami a zápletkami. 
