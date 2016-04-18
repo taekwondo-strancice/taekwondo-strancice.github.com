@@ -5,7 +5,7 @@ tagline: 2016
 group : news
 categories: [novinky, soustredeni]
 tags : [soustředění, škola]
-date: 2016-03-20 08:00:00 CEST
+date: 2016-03-26 08:00:00 CEST
 ---
 {% include JB/setup %}
 
