@@ -9,7 +9,7 @@ date: 2016-03-26 08:00:00 CEST
 ---
 {% include JB/setup %}
 
-Ve Strančicích 20. 3.2016
+Ve Strančicích 20. 3. 2016
 
 Únorové soustředění školy Taekwon-Do ITF Strančice
 
