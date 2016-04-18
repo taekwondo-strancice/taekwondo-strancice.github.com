@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Únorové soustředění
-tagline: 2015
+tagline: 2016
 group : news
 categories: [novinky, soustredeni]
 tags : [soustředění, škola]
