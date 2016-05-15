@@ -15,7 +15,7 @@ Jedenáct závodníků, v doprovodu všech čtyř trenérů, statečně bojovalo
 
 Pár dnů před závody skolila nemoc jednoho z pětice závodníků, kteří ladili týmový tul, na poslední chvíli se však povedlo najít za něj plnohodnotnou náhradu a během pátečního večera potrénovat tak kvalitně, že se našemu týmu nakonec podařilo obhájit v této kategorii zlato z minulého ročníku.
 
-Nejúspěšnějším závodníkem naší školy byl junior Samuel Pasler, který získal 4 medaile (1. místo sestavy, 1. místo speciální techniky, 1. místo týmové sestavy, 2. místo boj). Sestřih jeho vystoupení v jednotlivých kategoriích můžete vidět zde: https://youtu.be/G-Cs-tzU9S8
+Nejúspěšnějším závodníkem naší školy byl junior Samuel Pasler, který získal 4 medaile (1. místo sestavy, 1. místo speciální techniky, 1. místo týmové sestavy, 2. místo boj). Sestřih jeho vystoupení v jednotlivých kategoriích můžete vidět [zde](https://youtu.be/G-Cs-tzU9S8).
 
 Gratulace k zisku medailí patří ale i ostatním závodníkům, jimiž byli Karin Goldmannová, Ivana Klečková, Lucie Trejbalová, Adam Rojko, David Pačes, Kryštof Ostertag, Tomáš Bruckner, Rozálie Pačesová, Jan Fojtík a Daniel Chvojka.
 
