@@ -1,0 +1,19 @@
+---
+layout: post
+title: Holland Cup 2016
+tagline: Delft, Nizozemí
+group : calendar
+categories: [novinky, zavody]
+tags : [závody, "Holland Cup", 2016]
+date: 2016-06-17 08:00:00+01:00 CEST
+dateFrom: 2016-06-17 08:00:00+01:00 CEST
+dateTo: 2016-06-19 23:00:00+01:00 CEST
+proposition: ""
+---
+{% include JB/setup %}
+
+Rádi bychom Vás pozvali na prestižní mezinárodní soutěž {{ page.title }} v nizozemském Delftu (http://www.hollandcup.net/en), která se konají dne {{page.date | date: "%d.%m.%Y"}}.
+
+Případné dotazy a možnosti s námi prosím konzultujte během tréninků nebo na emailu <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a>.
+
+Vaši [trenéři](/treneri)
