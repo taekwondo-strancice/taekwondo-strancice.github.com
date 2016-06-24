@@ -2,7 +2,7 @@
 layout: post
 title: Poslední trénink letošní sezóny
 tagline: úterý
-group : calendar
+group : news
 categories: [novinky, trenink]
 tags : [trénink]
 date: 2016-06-28 17:30:00+01:00 CEST
