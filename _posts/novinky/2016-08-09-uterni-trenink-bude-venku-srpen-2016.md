@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Úternítrénink bude venku (9.8.)
+title: Úterní trénink bude venku (9.8.)
 tagline: úterý
 group : news
 categories: [novinky, trenink]
