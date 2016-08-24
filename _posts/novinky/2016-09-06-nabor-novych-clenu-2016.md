@@ -1,11 +1,11 @@
 ---
 layout: post
-title: První trénink sezóny
-tagline: 2016/2017
+title: Nábor nových členů
+tagline: od 6. září
 group : news
-categories: [novinky, trenink]
-tags : [trénink]
-date: 2016-09-02 18:00:00+01:00 CEST
+categories: [novinky]
+tags : [nábor]
+date: 2016-09-06 17:30:00+01:00 CEST
 ---
 {% include JB/setup %}
 
