@@ -28,3 +28,7 @@ Místo: [ZŠ Světice](/kontakt)
 
 - ÚT:
   - 15:00&mdash;16:00 hod (nábor, začátečníci)
+
+Vaši [trenéři][1]
+
+[1]: http://taekwondo-strancice.cz/treneri/
