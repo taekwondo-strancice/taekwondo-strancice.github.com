@@ -9,7 +9,7 @@ date: 2016-09-06 17:30:00+01:00 CEST
 ---
 {% include JB/setup %}
 
-Od úterý 6. září 2016 začíná nábor nových členů do školy Taekwon-do ITF Strančice.
+Od úterý 6. září 2016 začíná nábor nových členů do školy Taekwon-do ITF Strančice ([leták][2])
 Nábor se koná v sokolovně ve Strančicích, kde probíhají také pravidelné tréninky ([adresa](/kontakt/#provozovna)).
 
 Tréninky probíhají 1 až 2-krát týdně.
@@ -37,4 +37,4 @@ Místo: [ZŠ Světice](/kontakt)
 Vaši [trenéři][1]
 
 [1]: http://taekwondo-strancice.cz/treneri/
-[adresa]: /kontakt/#provozovna
+[2]: http://goo.gl/Hsorv7
