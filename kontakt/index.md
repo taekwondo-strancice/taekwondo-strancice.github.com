@@ -29,6 +29,14 @@ permalink: /kontakt/
 			25163 Stránčice<br><br>
 			<a href="http://www.sokolstrancice.cz/" title="Sokol Stránčice">http://www.sokolstrancice.cz/</a>
 		</address>
+		
+		<address>
+			<strong>ZŠ Světice</strong><br>
+			Základní škola Světice<br>
+			U Hřiště 151<br>
+			251 01 Světice<br><br>
+			<a href="http://www.skolasvetice.cz/" title="ZŠ Světice">http://www.skolasvetice.cz/</a>
+		</address>
 	</div>
 
 	<div class="span6">
