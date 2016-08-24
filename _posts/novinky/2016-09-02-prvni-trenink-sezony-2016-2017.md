@@ -2,7 +2,7 @@
 layout: post
 title: První trénink sezóny
 tagline: 2016/2017
-group : calendar
+group : news
 categories: [novinky, trenink]
 tags : [trénink]
 date: 2016-09-02 18:00:00+01:00 CEST
