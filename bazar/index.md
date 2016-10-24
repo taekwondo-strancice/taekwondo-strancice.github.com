@@ -38,10 +38,8 @@ Zde jsou dostupné bazarové věci, které je možné koupit od ostatních člen
 			<td>1</td>
 			<td>140 cm</td>
 			<td>použitý</td>
-			<td>Nošený, opraný, nápisy-znaky natištěné (, )
+			<td>Nošený, opraný, nápisy-znaky natištěné (<a href="{{ site.url }}/files/img/bazar-dobok-fj-1.jpg">foto 1</a>, <a href="{{ site.url }}/files/img/bazar-dobok-fj-2.jpg">foto 2</a>)
 			
-			![foto 1]({% link {{ site.url }}/files/img/bazar-dobok-fj-1.jpg %})
-			![foto 2]({% link {{ site.url }}/files/img/bazar-dobok-fj-2.jpg %})
 			</td>
 			<td><a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a></td>
 			<td>150 Kč</td>
