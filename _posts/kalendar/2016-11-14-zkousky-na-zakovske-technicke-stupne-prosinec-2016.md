@@ -5,7 +5,7 @@ tagline: 9. - 1. kup
 group : calendar
 categories: [novinky, zkousky]
 tags : [zkoušky, 9. - 1. kup]
-date: 2016-11-16 18:00:00+02:00 CEST
+date: 2016-12-20 17:30:00+01:00 CET
 dateFrom: 2016-12-20 17:30:00+01:00 CET
 dateTo: 2016-12-20 19:30:00+01:00 CET
 document: "http://goo.gl/Syh60"
