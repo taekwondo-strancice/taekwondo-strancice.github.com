@@ -5,7 +5,7 @@ tagline: spojené hodiny
 group : news
 categories: [novinky]
 tags : [trénink]
-date: 2016-11-18 18:00:00 CET
+date: 2016-11-14 18:00:00 CET
 ---
 {% include JB/setup %}
 
