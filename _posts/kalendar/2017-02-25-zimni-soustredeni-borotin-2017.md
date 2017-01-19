@@ -8,8 +8,8 @@ tags : [soustředění]
 date: 2017-02-25 07:30:00 CET
 dateFrom: 2017-02-25 07:30:00 CET
 dateTo:  2017-02-26 18:00:00 CET
-proposition: "https://goo.gl/x8IjPv"
-registration: "https://goo.gl/au0iDl"
+proposition: "https://goo.gl/0xloUs"
+registration: "https://goo.gl/dcr7eM"
 ---
 {% include JB/setup %}
 
