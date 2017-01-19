@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Víkendové soustředění školy Taekwon-Do ITF Strančice
+title: Víkendové soustředění školy
 tagline: 2017
 group : calendar
 categories: [novinky, soustredeni]
@@ -19,11 +19,10 @@ Kompletní informace o soustředění najdete v [propozicích]({{ page.propositi
 ## Odjezd a příjezd
 
 **Odjezd**  
-Odjezd od sokolovny Strančice - sobota 25.2.2017 (hromadný odjezd dle možností viz. [přihláška]({{ page.registration }}).
+Odjezd od sokolovny Strančice - sobota 25. 2. 2017 čas 7:30 (hromadný odjezd dle možností viz. [přihláška]({{ page.registration }}).
 
 **Příjezd**  
-Příjezd k sokolovně Strančice - neděle 26.2.2017 večer (předpokládaný
-příjezd cca v 18 hod)
+Příjezd k sokolovně Strančice - neděle 26. 2. 2017 večer (předpokládaný příjezd cca v 18 hod).
 
 **Doprava**  
 Doprava bude zajištěna (os. auta trenérů, dospělí cvičenci + příp. rodiče dle přihlášky).
@@ -44,26 +43,27 @@ Pitný režim bude zajištěn školou TKD Strančice. Láhve na vodu a hrníček
 
 ## Cena
 
-Celková cena je 2000 Kč/osobu. Celou částku budeme vybírat **do 16. února 2016 společně s přihláškou** na trénincích.
+Celková cena je 2000 Kč/osobu. Celou částku budeme vybírat v hotovosti **do 14. února 2016 společně s přihláškou** na trénincích.
 Pro shrnutí cena zahrnuje ubytování, stravování - plnou penzi (včetně pití), dopravu sokolovna-Borotín a zpět, pronájem tělocvičen a tréninky.
 
 ## Tréniky
 
 - SO - 3 bloky, večerní blok - teorie, metodika
-- NE - rozcvička před snídaní, 2 tréninkové bloky, teoretická příprava
-závodníků, analýza loňských závodů (především Italian Open 2015 vč. videí).
+- NE - rozcvička před snídaní, 2 tréninkové bloky, teoretická příprava závodníků... 
+
+**První trénink je v sobotu dopoledne.**
 
 O děti bude postaráno samozřejmě i v pauzách mezi tréninky (plánujeme
 tréninky venku i v hale, video trénink, procvičování teorie, ale bude
 postaráno určitě i o zábavu).
 
-Na soustředění odjíždějí všichni 4 trenéři. Pro ty, co nemohou jet na soustředění, páteční trénink odpadá! Hodina bude nahrazena v rámci některého
-sobotního extra dopoledne v sokolovně.
-
 ## Informace pro rodiče
 
-Pokud byste si s námi chtěli udělat výlet, podpořit Vaše nejmenší, není
-problém domluvit ubytování.
+V případě zájmu rodičů o pobyt a například kondiční trénink nebo kurz sebeobrany, prosíme předem
+nahlásit do přihlášky. Rádi pro Vás připravíme program. Nebo si můžete užít příjemné okolí
+Borotína.
+
+Zdravotní dozor zajištěn (MUDr. Monika Horáková).
 
 **Jídlo**  
 - Možné domluvit společně s námi.
@@ -82,17 +82,20 @@ problém domluvit ubytování.
 - Cena za ubytování 250 Kč/os/noc.
 - Jídlo plná penze 240 Kč/os/den.
 
-Pokud by byl zájem, rádi pro Vás připravíme např. lekci sebeobrany, nebo
-kondiční trénink.
-
 **Sauna**  
 Je možné domluvit saunu pro 6 lidí za 400 Kč/hod.
 
-Zde je konkrétní místo, kde budeme bydlet a cvičit - [fotografie](http://www.halaborotin.cz/fotogalerie.php)
+**Ostatní**  
+Zde je konkrétní místo, kde budeme bydlet a cvičit - [fotografie](http://www.halaborotin.cz/fotogalerie.php).
+Fotografie z minuleho roku [zde](https://goo.gl/YXLl4L).
 
 Ty nejdůležitější informace naleznete v [propozicích]({{ page.proposition }}).
 
-Případné dotazy a možnosti s námi prosím konzultujte během tréninků nebo na emailu <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a>.
+**Dotazy**  
+Případné dotazy a možnosti s námi prosím konzultujte během tréninků, telefonicky a nebo na emailu <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a>.
+
+- telefon: 604 344 604 (Petra), 723 173 591 (Tomáš), 777 007 070 (Jarda)
+- e-mail: skola@taekwondo-strancice.cz nebo na tréninku
 
 Děkujeme!
 
