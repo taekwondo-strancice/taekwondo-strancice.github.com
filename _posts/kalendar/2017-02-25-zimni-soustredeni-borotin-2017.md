@@ -43,7 +43,7 @@ Pitný režim bude zajištěn školou TKD Strančice. Láhve na vodu a hrníček
 
 ## Cena
 
-Celková cena je 2000 Kč/osobu. Celou částku budeme vybírat v hotovosti **do 14. února 2016 společně s přihláškou** na trénincích.
+Celková cena je 2000 Kč/osobu. Celou částku budeme vybírat v hotovosti **do 14. února 2017 společně s přihláškou** na trénincích.
 Pro shrnutí cena zahrnuje ubytování, stravování - plnou penzi (včetně pití), dopravu sokolovna-Borotín a zpět, pronájem tělocvičen a tréninky.
 
 ## Tréniky
