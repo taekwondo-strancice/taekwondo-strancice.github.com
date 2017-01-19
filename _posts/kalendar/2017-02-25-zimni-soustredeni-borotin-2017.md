@@ -85,18 +85,17 @@ Zdravotní dozor zajištěn (MUDr. Monika Horáková).
 **Sauna**  
 Je možné domluvit saunu pro 6 lidí za 400 Kč/hod.
 
-**Ostatní**  
+## Ostatní  
 Zde je konkrétní místo, kde budeme bydlet a cvičit - [fotografie](http://www.halaborotin.cz/fotogalerie.php).
 Fotografie z minuleho roku [zde](https://goo.gl/YXLl4L).
 
 Ty nejdůležitější informace naleznete v [propozicích]({{ page.proposition }}).
 
-**Dotazy**  
+## Dotazy
+
 Případné dotazy a možnosti s námi prosím konzultujte během tréninků, telefonicky a nebo na emailu <a href="mailto:skola@taekwondo-strancice.cz">skola@taekwondo-strancice.cz</a>.
 
 - telefon: 604 344 604 (Petra), 723 173 591 (Tomáš), 777 007 070 (Jarda)
 - e-mail: skola@taekwondo-strancice.cz nebo na tréninku
 
-Děkujeme!
-
-Trenéři školy TKD Strančice
+Těšíme se na Vás, [Vaši trenéři](/treneri)
