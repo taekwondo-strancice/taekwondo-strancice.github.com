@@ -4,7 +4,7 @@ title: Páteční trénink 3.2.
 tagline: jarní prázdniny
 group : news
 categories: [novinky]
-tags : [trénink]
+tags : [trénink, 2017]
 date: 2017-02-03 18:00:00 CET
 ---
 {% include JB/setup %}
