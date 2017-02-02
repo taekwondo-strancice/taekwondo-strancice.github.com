@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Páteční trénink 3.2.
+title: Páteční trénink 3.2. v běžných časech
 tagline: jarní prázdniny
 group : news
 categories: [novinky]
