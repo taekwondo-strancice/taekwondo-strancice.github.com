@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 14.2. a 17.2 jsou tréninky v běžných časech
+title: Tréninky 14.2. a 17.2. jsou v běžných časech
 tagline: jarní prázdniny
 group : news
 categories: [novinky]
