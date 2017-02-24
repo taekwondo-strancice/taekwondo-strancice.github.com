@@ -9,7 +9,6 @@ date: 2017-03-11 09:00:00 CET
 dateFrom: 2017-03-11 09:00:00 CET
 dateTo: 2017-03-11 18:00:00 CET
 proposition: "https://goo.gl/wgHPGn"
-registration: ""
 ---
 {% include JB/setup %}
 
