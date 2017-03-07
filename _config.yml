@@ -5,7 +5,8 @@ permalink: /:categories/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "taekwondo-strancice.sublime-project", "taekwondo-strancice.sublime-workspace", "run.sh"]
 destination: _site
 auto: true
-pygments: true
+#pygments: true
+rouge: true
 safe: true
 future: true
 markdown: kramdown
