@@ -8,6 +8,9 @@ permalink: /novinky
 ---
 {% include JB/setup %}
 
+{% assign posts_collate = site.posts %}
+{% include custom/posts_collate %}
+
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
