@@ -8,6 +8,17 @@ permalink: /novinky/
 ---
 {% include JB/setup %}
 
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="{{ site.production_url }}{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>{{ site.production_url }}{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+{% comment %}
 {% for post in site.posts %}
     <div>{{ post.date | date_to_html_string }}</div>
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -15,8 +26,8 @@ permalink: /novinky/
 {% endfor %}
 
 {{ site.posts | jsonify }}
-{% comment %}
-{% for post in site.posts %}
+
 {% assign posts_collate = site.posts %}
 {% include custom/posts_collate %}
+
 {% endcomment %}
