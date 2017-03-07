@@ -8,8 +8,8 @@ permalink: /novinky/
 ---
 {% include JB/setup %}
 
-{% assign posts_collate = site.posts %}
-{{ site.posts | jsonify }}
+{{ site | jsonify }}
 {% comment %}
+{% assign posts_collate = site.posts %}
 {% include custom/posts_collate %}
 {% endcomment %}
