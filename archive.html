@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: page
 title : Novinky
 header : Novinky
 group: navigation
@@ -10,27 +10,3 @@ permalink: /novinky
 
 {% assign posts_collate = site.posts %}
 {% include custom/posts_collate %}
-
- {% for post in site.posts %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.production_url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.production_url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
- {% endfor %}
-
-{% comment %}
-{% for post in site.posts %}
-    <div>{{ post.date | date_to_html_string }}</div>
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <div class="categories">Filed under {{ post.categories | category_links }}</div>
-{% endfor %}
-
-{{ site.posts | jsonify }}
-
-{% assign posts_collate = site.posts %}
-{% include custom/posts_collate %}
-
-{% endcomment %}
