@@ -8,8 +8,15 @@ permalink: /novinky/
 ---
 {% include JB/setup %}
 
-{{ site | jsonify }}
+{% for post in site.posts %}
+    <div>{{ post.date | date_to_html_string }}</div>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="categories">Filed under {{ post.categories | category_links }}</div>
+{% endfor %}
+
+{{ site.posts | jsonify }}
 {% comment %}
+{% for post in site.posts %}
 {% assign posts_collate = site.posts %}
 {% include custom/posts_collate %}
 {% endcomment %}
