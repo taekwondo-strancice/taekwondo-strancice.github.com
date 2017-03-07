@@ -9,5 +9,7 @@ permalink: /novinky/
 {% include JB/setup %}
 
 {% assign posts_collate = site.posts %}
-{{ site | jsonify }}
+{{ site.posts | jsonify }}
+{% comment %}
 {% include custom/posts_collate %}
+{% endcomment %}
