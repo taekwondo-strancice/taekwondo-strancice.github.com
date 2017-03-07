@@ -22,6 +22,10 @@ Zde jsou dostupné bazarové věci, které je možné koupit od ostatních člen
 <a id="doboky" class="shifted-anchor">&nbsp;</a>
 
 ## Doboky
+
+Nic není v nabídce.
+
+{% comment %}<!--<
 <table class="table table-condensed table-striped table-bordered">
 	<thead>
 		<tr>
@@ -46,7 +50,7 @@ Zde jsou dostupné bazarové věci, které je možné koupit od ostatních člen
 		</tr>
 	</tbody>
 </table>
-{% comment %}<!--<
+
 <table class="table table-condensed table-striped table-bordered">
 	<thead>
 		<tr>
