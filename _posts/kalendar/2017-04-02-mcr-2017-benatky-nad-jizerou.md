@@ -9,7 +9,6 @@ date: 2017-05-13 08:30:00 CEST
 dateFrom: 2017-05-13 08:30:00 CEST
 dateTo:  2017-05-13 18:00:00 CEST
 proposition: "https://goo.gl/AaYYE1"
-registration: ""
 ---
 {% include JB/setup %}
 
