@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Náhrada tréninku 22.4. (za 17.3)
+title: Náhrada tréninku 22.4. (za 17.3.)
 tagline: sobota
 group : news
 categories: [novinky]
