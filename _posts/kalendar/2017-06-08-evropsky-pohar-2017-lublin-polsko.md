@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8. Evropský pohár Taekwon-Do
+title: 8. Evropský pohár Taekwon-Do (Lublin, Polsko)
 tagline: 2017
 group : calendar
 categories: [novinky, zavody]
