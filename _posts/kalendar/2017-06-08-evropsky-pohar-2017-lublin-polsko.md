@@ -16,4 +16,4 @@ proposition: ""
 
 Vaši [trenéři](/treneri)
 
-![8. Evropský pohár Taekwon-Do (Lublin, Polsko) - plakát]({{ site.url }}/files/img/europen-cup-2017.png)
+![8. Evropský pohár Taekwon-Do (Lublin, Polsko) - plakát](/files/img/europen-cup-2017.png)
