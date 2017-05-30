@@ -15,3 +15,5 @@ proposition: ""
 Škola Taekwon-Do ITF Strančice se zúčastní 8. Evropského poháru Taekwon-Do 2017 a žákovského Mezinárodního poháru Taekwon-Do, který se bude konat 9. - 11.6.2017 v polském Lublinu.
 
 Vaši [trenéři](/treneri)
+
+![8. Evropský pohár Taekwon-Do (Lublin, Polsko) - plakát]({{ site.url }}/files/img/europen-cup-2017.png)
