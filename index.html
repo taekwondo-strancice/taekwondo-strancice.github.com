@@ -6,7 +6,6 @@ weight: 1
 permalink: /
 
 thumbnails:
-
   - type: img
     name: 2017 European Cup (Lublin, Poland)
     url: https://photos.app.goo.gl/3fNyfG4EiEDxcQht2
@@ -15,11 +14,14 @@ thumbnails:
     name: MČR 2017 (Benátky n/J)
     url: https://photos.app.goo.gl/hxCSFHoRnQXuiiOu1
     src: https://lh4.googleusercontent.com/IjQnQZsNpcy2AhnEQ_4NQaXGZWtiN2aWyXZClQy1OVm4XcZNSGsVswUmMophoy8rwileBMDGRJmcPOs=w1920-h1031-rw
+---
+{% comment %}<!--
   - type: img
     name: Zimní víkendové soustředění (Borotín)
     url: https://goo.gl/photos/PGN57vd9qYWLzrQi9
     src: https://lh4.googleusercontent.com/dvfwBkiwlU4ayw4UiGG7bTLsGmrHXIHxprR45RwHCdOhOzWTRwuJzqBK9UKAY4Lb8EcrRJZqSLtpkYo=w1920-h1031-rw
----
+-->{% endcomment %}
+
 {% include JB/setup %}
 
 <div class="row-fluid">
@@ -106,13 +108,13 @@ thumbnails:
 	<ul class="thumbnails">
 	{% for item in page.thumbnails %}
 		{% if forloop.first or true %}
-		<li class="span4">
+		<li class="span6">
 		  <a class="thumbnail" href="{% if item.url %}{{ item.url }}{% else %}#{% endif %}" target="_blank" data-toggle="tooltip" data-placement="top" title="{% if item.name %}{{ item.name }}{% endif %}">
 		    <img alt="{% if item.name %}{{ item.name }}{% endif %}" src="{% if item.src %}{{ item.src }}{%else%}http://placehold.it/360x270{% endif %}">
 		  </a>
 		</li>
 		{% else %}
-		<li class="span4">
+		<li class="span6">
 		  <a class="thumbnail" href="{% if item.url %}{{ item.url }}{%else%}#{% endif %}" target="_blank" data-toggle="tooltip" data-placement="top" title="{% if item.name %}{{ item.name }}{% endif %}">
 		    <img alt="{% if item.name %}{{ item.name }}{% endif %}" src="{% if item.src %}{{ item.src }}{%else%}http://placehold.it/360x120{% endif %}">
 		  </a>
