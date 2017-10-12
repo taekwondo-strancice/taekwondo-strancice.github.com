@@ -30,6 +30,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="chrome=1" />
 	<meta name="google-site-verification" content="9AW23B7o3Y_yYhfbYbrmtf_M93Ks_W8MhJjsy82W6mw" />
+	
+	<meta property="og:url"           content="http://taekwondo-strancice.cz/" />
+	<meta property="og:type"          content="website" />
+	<meta property="og:title"         content="Taekwon-Do ITF Strančice" />
+	<meta property="og:description"   content="Škola bojového umění Taekwon-Do ITF" />
+	<meta property="og:image"         content="http://www.your-domain.com/files/img/taekwon-do-strancice-logo.jpg" />
 </head>
 <body data-spy="scroll" data-target=".ts-sidenav">
 	<div id="wrap">
@@ -79,5 +85,14 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/js/bootstrap.min.js"></script>
 	<script src="{{ ASSET_PATH }}/js/main.js"></script>
+		
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v2.10&appId=91147307301";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
 </body>
 </html>
