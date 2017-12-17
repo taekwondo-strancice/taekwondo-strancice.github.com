@@ -5,9 +5,9 @@ tagline: 2018
 group : calendar
 categories: [novinky, soustredeni]
 tags : [soustředění]
-date: 2017-02-03 08:30:00 CET
-dateFrom: 2017-02-03 08:30:00 CET
-dateTo:  2017-02-04 18:30:00 CET
+date: 2018-02-03 08:30:00 CET
+dateFrom: 2018-02-03 08:30:00 CET
+dateTo:  2018-02-04 18:30:00 CET
 proposition: "https://www.dropbox.com/s/clyrki2e1f48eqh/PROPOZICEunor18.pdf?dl=0"
 registration: "https://www.dropbox.com/s/c2499gwk2dvewhe/prihlaska2_2018.pdf?dl=0"
 ---
