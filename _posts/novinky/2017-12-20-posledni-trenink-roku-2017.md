@@ -9,7 +9,7 @@ date: 2017-12-20 18:00:00 CET
 ---
 {% include JB/setup %}
 
-Poslední tréninkz v tomto roce budou v pátek 20.12.2017 v běžných časech.
+Poslední tréninky v tomto roce budou v pátek 22.12.2017 v běžných časech.
 [Kdy bude první trénink v novém roce?](/novinky/prvni-trenink-2018)
 
 Vaši [trenéři](/treneri)
