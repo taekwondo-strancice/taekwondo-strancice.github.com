@@ -29,8 +29,7 @@ Kompletní informace o soustředění najdete v [propozicích]({{ page.propositi
     391 35 Borotín
 - [Přihlášku]({{ page.registration }}) je nutné odevzdat na některém z tréninků nejpozději do 31. května 2018
 
-**V termínu (PÁ-NE) 27. - 29. 7. je nabídka rozšířena pro dospělé o lekce sebeobrany a kru-
-hových tréninků CrossFight.**
+**V termínu (PÁ-NE) 27. - 29. 7. je nabídka rozšířena pro dospělé o lekce sebeobrany a kruhových tréninků CrossFight.**
 
 V případě zájmu rodičů o víkendový sportovní pobyt, prosíme předem nahlásit do přihlášky.
 **Cena sportovního víkendu 2100 Kč** zahrnuje ubytování 2 noci, plná penze vč. pití, 5 tréninko-
