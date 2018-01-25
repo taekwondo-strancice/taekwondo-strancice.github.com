@@ -22,7 +22,7 @@ Kompletní informace o soustředění najdete v [propozicích]({{ page.propositi
 - **Platba bankovním převodem** - do 24. června 2018 na základě vystavené faktury (č.ú.: 2600317334/2010)
 - **Zdravotní dozor:** zajištěn (MUDr. Monika Horáková).
 - **Odjezd:** od sokolovny Strančice - pondělí {{page.dateFrom | date: "%d.%m."}} čas 8:30 (hromadný odjezd)
-- **Příjezd:** k sokolovně Strančice - neděle {{page.dateTo | date: "%d.%m.%Y"} večer (předpokládaný příjezd cca 18 hod)
+- **Příjezd:** k sokolovně Strančice - neděle {{page.dateTo | date: "%d.%m.%Y"}} večer (předpokládaný příjezd cca 18 hod)
 - **Adresa sportovní haly a ubytování:**
     ZŠ a MŠ Borotín
     Borotín 146
