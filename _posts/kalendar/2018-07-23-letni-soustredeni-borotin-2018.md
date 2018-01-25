@@ -5,9 +5,9 @@ tagline: 2018
 group : calendar
 categories: [novinky, soustredeni, letni]
 tags : [soustředění, letní, 2018]
-date: 2017-07-23 08:30:00 CEST
-dateFrom: 2017-07-23 08:30:00 CEST
-dateTo: 2017-07-29 18:00:00 CEST
+date: 2018-07-23 08:30:00 CEST
+dateFrom: 2018-07-23 08:30:00 CEST
+dateTo: 2018-07-29 18:00:00 CEST
 proposition: "https://goo.gl/BssKW7"
 registration: "https://goo.gl/urPiLu"
 ---
