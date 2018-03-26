@@ -9,7 +9,7 @@ date: 2018-05-19 08:30:00 CEST
 dateFrom: 2018-05-19 08:30:00 CEST
 dateTo:  2018-05-19 18:00:00 CEST
 proposition: "https://goo.gl/dZLY8Q"
-registration: ""
+registration: "http://bit.ly/tkds-mcr-2018"
 ---
 {% include JB/setup %}
 
