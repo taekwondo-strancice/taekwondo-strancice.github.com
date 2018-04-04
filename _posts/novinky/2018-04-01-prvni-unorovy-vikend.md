@@ -4,7 +4,7 @@ title: První únorový víkend jsme strávili na soustředění
 tagline: Borotín
 group : news
 categories: [novinky]
-tags : ["z dění čkoly", Borotín]
+tags : ["z dění školy", Borotín]
 date: 2018-04-01 20:00:00 CEST
 ---
 {% include JB/setup %}
