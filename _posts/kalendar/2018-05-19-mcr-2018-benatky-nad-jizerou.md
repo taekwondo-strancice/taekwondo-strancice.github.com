@@ -32,3 +32,5 @@ Dále je zde již finální [seznam přihlášených účastníků]({{ page.regi
 -->{% endcomment %}
 
 Vaši [trenéři](/treneri)
+
+![](/files/img/mcr-tkd-cnut-2018.jpeg)
