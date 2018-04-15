@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zrušení pátečního tréninku 11.5.
-tagline: svátek
+tagline: 
 group : news
 categories: [novinky]
 tags : [trénink, zrušení]
