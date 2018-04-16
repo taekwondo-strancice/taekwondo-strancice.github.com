@@ -11,7 +11,7 @@ dateTo: 2018-05-27 16:00:00+01:00 CEST
 ---
 {% include JB/setup %}
 
-Rádi bychom Vás pozvali na školení trenérů a rozhodčích, které pořádá ČNUT dne {{page.date | date: "%d.%m.%Y"}}.
+Dne {{page.date | date: "%d.%m.%Y"}} probíhá školení trenérů a rozhodčích, které pořádá ČNUT.
 
 - **KDE:**
    
