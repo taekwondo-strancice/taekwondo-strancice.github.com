@@ -3,7 +3,7 @@ layout: post
 title: Školení trenérů a rozhodčích
 tagline: ČNUT
 group : calendar
-categories: [novinky, školení]
+categories: [skoleni]
 tags : [školení, ČNUT, trenéři, rozhodčí, 2018]
 date: 2018-05-06 09:00:00+01:00 CEST
 dateFrom: 2018-05-06 09:00:00+01:00 CEST
