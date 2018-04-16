@@ -26,7 +26,8 @@ Rádi bychom Vás pozvali na školení trenérů a rozhodčích, které pořád�
   - dopoledne: školení trenérů
   - odpoledne: školení rozhodčích
 
-Více informací na webu [ČNUT][skoleni].
+Kandidáti na 4.trenérskou třídu a na rozhodčí byli vybráni a informováni trenéry individuálně. Více u Vašich trenérů.
+Více informací o akci na webu [ČNUT][skoleni].
 
 Vaši [trenéři][treneri]
 
