@@ -8,16 +8,14 @@ tags : [závody, MČR, 2018]
 date: 2018-05-19 08:30:00 CEST
 dateFrom: 2018-05-19 08:30:00 CEST
 dateTo:  2018-05-19 18:00:00 CEST
-proposition: "https://goo.gl/dZLY8Q"
+proposition: "http://bit.ly/mcr-2018-propozice"
 registration: "http://bit.ly/tkds-mcr-2018"
 ---
 {% include JB/setup %}
 
 Škola Taekwon-Do ITF Strančice ani letos nebude chybět na otevřeném mistrovství České republiky, kterou pořádá naše národní organizace - Česká národní unie Taekwon-Do ITF. Šampionát se koná v Benátkách nad Jizerou. 
-{% comment %}<!--
+
 Více na webech organizátora - [ČNUT](https://www.taekwondocz.com/index.php/194-mistrovstvi-cr-taekwon-do-itf-2017) a nebo v [propozicích]({{ page.proposition }}).
--->{% endcomment %}
-Více na webech organizátora - [ČNUT](https://www.taekwondocz.com/index.php/194-mistrovstvi-cr-taekwon-do-itf-2017) a nebo v [pozvánce]({{ page.proposition }}). Propozice budou dostupné zanedlouho.
 
 - **KDY:** Sobota 19.května 2018, 8:30 hod
 - **KDE:** Sportovní hala ZŠ Benátky n/J, 5.května 746 (GPS: 50°17´12.733 N, 14°49´45.082 E)
