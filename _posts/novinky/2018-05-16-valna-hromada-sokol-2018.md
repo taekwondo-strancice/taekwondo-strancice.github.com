@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Valná hromada TJ Sokol Strančice
-tagline:
+tagline: přesunuto z 17.4.2018
 group : news
 categories: [novinky]
 tags : [valná hromada, Sokol]
-date: 2018-04-17 20:00:00 CEST
+date: 2018-05-16 20:00:00 CEST
 ---
 {% include JB/setup %}
 
-V úterý 17.4.2018 od 20 hod bude probíhat Valná hromada TJ Sokol Strančice.
+Ve středu 16.5.2018 od 20 hod bude probíhat Valná hromada TJ Sokol Strančice.
 
 Více informací na [stránkách TJ Sokol Strančice](https://sokol-strancice.webnode.cz/news/valna-hromada-tj-sokol-strancice-2018/).
 
