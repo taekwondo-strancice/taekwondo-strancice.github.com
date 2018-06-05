@@ -5,9 +5,9 @@ tagline: červen 2018
 group : calendar
 categories: [novinky, zkousky]
 tags : [zkoušky, 9. - 1. kup]
-date: 2018-06-26 17:30:00+01:00 CET
-dateFrom: 2018-06-26 17:30:00+01:00 CET
-dateTo: 2018-06-26 19:30:00+01:00 CET
+date: 2018-06-26 17:15:00 CEST
+dateFrom: 2018-06-26 17:15:00 CEST
+dateTo: 2018-06-26 19:30:00 CEST
 document: "http://goo.gl/Syh60"
 ---
 {% include JB/setup %}
