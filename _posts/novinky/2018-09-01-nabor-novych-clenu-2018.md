@@ -23,6 +23,6 @@ Těšíme se na Vás!
 [trenéři][1] školy Taekwon-Do ITF Strančice
 Petra, Pepa, Tomáš a Jarda
 
-<img "/files/img/tkds-nabor-2018.jpg" alt="" />
+<img src="/files/img/tkds-nabor-2018.jpg" alt="" />
 
 [1]: http://taekwondo-strancice.cz/treneri/
