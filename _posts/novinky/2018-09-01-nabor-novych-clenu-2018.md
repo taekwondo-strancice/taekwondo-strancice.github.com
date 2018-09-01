@@ -6,7 +6,7 @@ group : news
 categories: [novinky]
 tags : [nábor]
 date: 2018-09-01 18:00:00+01:00 CEST
-document: "/files/img/"
+document: "/files/img/tkds-nabor-2018.pdf"
 ---
 {% include JB/setup %}
 
