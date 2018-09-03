@@ -4,7 +4,7 @@ title: 9. Evropský pohár Taekwon-Do ITF (Sibiu, Rumunsko)
 tagline: 2018
 group : calendar
 categories: [novinky, zavody]
-tags : [závody, Taekwon-Do European Cup, 2017]
+tags : [závody, Taekwon-Do European Cup, 2018]
 date: 2018-10-25 08:00:00 CEST
 dateFrom: 2018-10-25 08:00:00 CEST
 dateTo:  2018-10-28 18:00:00 CEST
