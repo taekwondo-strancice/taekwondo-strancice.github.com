@@ -9,6 +9,6 @@ date: 2018-09-21 18:00:00 CEST
 ---
 {% include JB/setup %}
 
-Pátěční tréninky dne 21.9.2018 budou zrušeny. Všichni trenéři odjíždějí na [Eagles Cup]({{ site.baseurl }}{% post_url /kalendar/2018-09-22-mightyfist-eagles-cup-2018 %}) do Maďarska.
+Pátěční tréninky dne 21.9.2018 budou zrušeny. Všichni trenéři odjíždějí na závody [Eagles Cup]({{ site.baseurl }}{% post_url /kalendar/2018-09-22-mightyfist-eagles-cup-2018 %}) do Maďarska.
 
 Vaši [trenéři](/treneri)
