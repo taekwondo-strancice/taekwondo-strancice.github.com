@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Sobotní příprava závodníků 15.9.
 tagline: 
