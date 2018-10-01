@@ -1,0 +1,17 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: jekyll-posts
+  label: Posts
+  create: all
+- type: jekyll-pages
+  label: Pages
+  create: all
+upload_dir: forestryio/images
+public_path: "{{ site.baseurl }}/forestryio/images"
+front_matter_path: "/forestryio/images"
+use_front_matter_path: true
+file_template: ":filename:"
