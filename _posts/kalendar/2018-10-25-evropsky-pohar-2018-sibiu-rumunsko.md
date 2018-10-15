@@ -8,7 +8,7 @@ tags : [závody, Taekwon-Do European Cup, 2018]
 date: 2018-10-25 08:00:00 CEST
 dateFrom: 2018-10-25 08:00:00 CEST
 dateTo:  2018-10-28 18:00:00 CEST
-proposition: "http://www.itfeurope.org/download/Invitation%20Taekwondo%20ITF%20European%20%20Cup%20Sibiu-Romania%202018.pdf"
+proposition: "http://www.itfeurope.org/download/Invitation%20Taekwondo%20ITF%20European%20Cup%20Sibiu-Romania%202018%202.0%20v2.pdf"
 ---
 {% include JB/setup %}
 
