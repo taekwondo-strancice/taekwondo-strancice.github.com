@@ -62,6 +62,8 @@ Držte nám palce!
 
 Vaši [trenéři](/treneri)
 
-![my photo]({{ site.url }}/files/img/tkds-nabor-2018.jpg 'foo text description')
+![Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - hromadná fotografie]({{ site.url }}/files/img/Eagles-Cup-2018_01.jpg 'Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - hromadná fotografie')
+
+![Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - speciální techniky]({{ site.url }}/files/img/Eagles-Cup-2018_02.jpg 'Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - speciální techniky')
 
 [1]: http://taekwondo-strancice.cz/treneri/
