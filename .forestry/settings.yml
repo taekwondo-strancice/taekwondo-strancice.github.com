@@ -11,7 +11,7 @@ sections:
   label: Pages
   create: all
 upload_dir: files/img
-public_path: "{{ site.baseurl }}/src/img"
+public_path: "{{ site.baseurl }}/files/img"
 front_matter_path: "/files/img"
 use_front_matter_path: true
 file_template: ":filename:"
