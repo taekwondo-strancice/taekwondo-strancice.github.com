@@ -64,6 +64,10 @@ Vaši [trenéři](/treneri)
 
 ![Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - hromadná fotografie]({{ site.url }}/files/img/Eagles-Cup-2018_01.jpg 'Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - hromadná fotografie')
 
-![Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - speciální techniky]({{ site.url }}/files/img/Eagles-Cup-2018_02.jpg 'Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - speciální techniky')
+![Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - medailisté]({{ site.url }}/files/img/Eagles-Cup-2018_02.jpg 'Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - medailisté')
+
+![Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - boj]({{ site.url }}/files/img/Eagles-Cup-2018_03.jpg 'Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - boj')
+
+![Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - hromadná fotografie]({{ site.url }}/files/img/Eagles-Cup-2018_04.jpg 'Mightyfist Eagles Cup 2018 - Škola Taekwon-Do ITF Strančice - hromadná fotografie')
 
 [1]: http://taekwondo-strancice.cz/treneri/
