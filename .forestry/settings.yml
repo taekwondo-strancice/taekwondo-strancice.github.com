@@ -10,8 +10,8 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: forestryio/images
-public_path: "{{ site.baseurl }}/forestryio/images"
-front_matter_path: "/forestryio/images"
+upload_dir: src/img
+public_path: "{{ site.baseurl }}/src/img"
+front_matter_path: "/src/img"
 use_front_matter_path: true
 file_template: ":filename:"
