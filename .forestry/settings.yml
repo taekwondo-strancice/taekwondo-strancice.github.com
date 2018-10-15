@@ -10,8 +10,8 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: src/img
+upload_dir: files/img
 public_path: "{{ site.baseurl }}/src/img"
-front_matter_path: "/src/img"
+front_matter_path: "/files/img"
 use_front_matter_path: true
 file_template: ":filename:"
