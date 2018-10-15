@@ -33,7 +33,7 @@ bronzový Adam, který mohl jako přelomový ročník soutěžit i v této vyš�
 Na tatami se vzápětí postavili i nositelé černých pásů. Trenér Pepa Kubát změřil síly
 s několika evropskými šampióny a získal v kategorii tul IV.-VI. dan cenný bronz.
 Elegantní a soustředěné tuly pak v sobotní odpoledne vystřídalo dynamické a adrenalinové
-matsugi. Naši přišli na řadu až navečer a do ringu šli hodně unavení. Přesto Rózka vybojovala
+matsugi. Naši přišli na řadu až na večer a do ringu šli hodně unavení. Přesto Rózka vybojovala
 dvě stříbra, bronz pak přidal ještě Dan Škvor.
 
 Druhý den soutěže začal stejně radostně jako ten první. Samuel Pasler a Dan Chvojka se po
