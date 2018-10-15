@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ohlédnutí za EAGLES CUP 2018 - 19 medailí
-tagline: 19 MEDAILÍ PRO TAEKWON-DO STRANČICE
+tagline: 
 group : news
 categories: [novinky, zavody]
 tags : [závody, Taekwon-Do, Cup, 2018]
