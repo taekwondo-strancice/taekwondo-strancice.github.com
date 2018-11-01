@@ -31,19 +31,19 @@ Seminář je oficiálně schválen technickou komisí ITF.
 První den bude zaměřen na technické stupně 10. - 1. Kup
 Náplň – základní techniky a jejich aplikace, sestavy, sparringy, rozcvičování zábavnou formou a hry.
  
-  8:30 - 9:00        - registrace
-  9:00 - 11:30       - první trénink
-12:30 - 14:30        - druhý trénink
-15:00 - 17:00        - třetí trénink
+- 8:30 - 9:00   - registrace
+- 9:00 - 11:30  - první trénink
+- 12:30 - 14:30 - druhý trénink
+- 15:00 - 17:00 - třetí trénink
 
 ### 2. den:
 
 Druhý den bude zaměřen na mistrovské technické stupně – předpokládáme účast držitelů 1Kup a mistrovských stupňů.
 Náplň - základní techniky a jejich aplikace, sestavy, sparringy (program může být upraven po dohodě s účastníky a mistrem Jedutem). 
  
-  9:00 - 11:30       - první trénink
-12:30 - 14:30        - druhý trénink
-15:00 - 17:00        - třetí trénink
+- 9:00 - 11:30  - první trénink
+- 12:30 - 14:30 - druhý trénink
+- 15:00 - 17:00 - třetí trénink
 
 ## Cena semináře
 
