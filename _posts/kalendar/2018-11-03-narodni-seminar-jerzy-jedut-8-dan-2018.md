@@ -19,10 +19,10 @@ Seminář je oficiálně schválen generálním sekretářem ITF a technickou ko
 Seminář bude dvoudenní - koná se ve dnech {{page.dateFrom | date: "%d.%m.%Y"}} a {{page.dateTo | date: "%d.%m.%Y"}}. Seminář bude dvoudenní, první den je určen je určen všem technickým skupinám a druhý den držitelům prvního Kupu a mistrovských stupňů.
 Seminář je oficiálně schválen technickou komisí ITF.
 
-Organizátor: [Národní asociace,Česká národní unie Taekwon Do ITF]()
-Tel: +420 737 973 557, +420 732 759 451
-Datum konání:  {{page.dateFrom | date: "%d."}}. – {{page.dateTo | date: "%d.%m.%Y"}}
-Místo konání: [Tělocvična ZŠ Strančice, Revoluční 170, 251 63]({{page.map}})
+- Organizátor: [Národní asociace,Česká národní unie Taekwon Do ITF](https://www.taekwondocz.com/)
+- Tel: +420 737 973 557, +420 732 759 451
+- Datum konání:  {{page.dateFrom | date: "%d."}}. – {{page.dateTo | date: "%d.%m.%Y"}}
+- Místo konání: [Tělocvična ZŠ Strančice, Revoluční 170, 251 63]({{page.map}})
 
 ## Program semináře
 
@@ -59,7 +59,7 @@ Poplatek za seminář 1. a 2. den: 1600 Kč
 Pro přihlášení postupujte dle instrukcí v e-mailu do 31.10 2018 do 24:00, nejpozději do pátku 2.11. 17:00 na:    
 skola@taekwondo-strancice.cz nebo blahova.petra@taekwondo-strancice.cz.
 
-## Oběd:
+## Oběd
 
 V rámci úspory času proběhne oběd v prostoru haly - objednávky budou přijímány při registraci před začátkem semináře
 
