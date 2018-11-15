@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zkoušky na žákovské technické stupně 9. - 1. kup (ZŠ Strančice)
+title: Zkoušky na žákovské technické stupně 9. - 1. kup
 tagline: červen 2018
 group : calendar
 categories: [novinky, zkousky]
