@@ -21,9 +21,9 @@ V tomto termínu se budou konat žákovské zkoušky na technické stupně 9. &m
 
 **KDE:**
 
-Základní škola Strančice   
-Revoluční 170   
-25163 Strančice   
+TJ Sokol Stránčice
+Sokolská 38
+25163 Stránčice  
 
 **CO S SEBOU:**
 
