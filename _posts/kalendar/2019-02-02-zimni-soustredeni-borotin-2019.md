@@ -15,4 +15,6 @@ registration: ""
 
 Rádi bychom Vás všechny pozvali na víkendové soustředění školy Taekwon-Do ITF Strančice, které se koná {{page.date | date: "%d.%m.%Y"}} v Borotíně.
 
+Fotografie z posledního zimního soustředění, které bylo zaměřeno na přerážení a výskok jsou k vidění [zde](https://www.facebook.com/pg/taekwondo.strancice/photos/?tab=album&album_id=1825072607504494).
+
 Těšíme se na Vás, [Vaši trenéři](/treneri)
