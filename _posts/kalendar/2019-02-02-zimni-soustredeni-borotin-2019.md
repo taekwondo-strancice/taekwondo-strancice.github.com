@@ -8,8 +8,8 @@ tags : [soustředění]
 date: 2019-02-02 08:30:00 CET
 dateFrom: 2019-02-02 08:30:00 CET
 dateTo:  2019-02-03 18:30:00 CET
-proposition: ""
-registration: ""
+proposition: "https://www.dropbox.com/s/l5hgckc8cr7nz88/PROPOZICEunor19.pdf?dl=0"
+registration: "https://www.dropbox.com/s/xzzept7sajkclx3/prihlaska2_2019.pdf?dl=0"
 ---
 {% include JB/setup %}
 
