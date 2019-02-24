@@ -5,7 +5,7 @@ tagline:
 group : news
 categories: [novinky]
 tags : [trénink, změna]
-date: 2019-11-09 18:00:00 CET
+date: 2019-02-26 18:00:00 CET
 ---
 {% include JB/setup %}
 
