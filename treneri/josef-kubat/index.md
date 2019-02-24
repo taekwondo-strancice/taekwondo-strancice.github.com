@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Josef Kubát
-tagline: II. Dan
+tagline: IV. Dan
 menu : treneri
 weight: 3
 permalink: /treneri/josef-kubat/
@@ -13,7 +13,7 @@ photos:
 
 ## Bojová umění
 
-- Taekwon-Do ITF, III. Dan
+- Taekwon-Do ITF, IV. Dan
 - Kickbox, 1. kyu
 
 ## Certifikace
