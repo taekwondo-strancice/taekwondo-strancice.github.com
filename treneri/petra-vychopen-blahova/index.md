@@ -10,7 +10,7 @@ permalink: /treneri/petra-vychopen-blahova/
 
 ## Bojová umění
 
-- Taekwon-Do ITF, II. Dan
+- Taekwon-Do ITF, III. Dan
 
 ## Největší úspěchy
 
