@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Petra Výchopeň Bláhová
-tagline: II. Dan
+tagline: III. Dan
 menu : treneri
 weight: 2
 permalink: /treneri/petra-vychopen-blahova/
