@@ -13,7 +13,7 @@ permalink: /treneri/
 	  <li class="span5">
 		<div class="thumbnail">
 		  <div class="caption">
-			<h3>Petra Výchopeň Bláhová <small>II. Dan</small></h3>
+			<h3>Petra Výchopeň Bláhová <small>III. Dan</small></h3>
 			<address>
 				+420604344604<br>
 				<a href="mailto:blahova.petra@taekwondo-strancice.cz">blahova.petra@taekwondo-strancice.cz</a>
@@ -25,7 +25,7 @@ permalink: /treneri/
 	  <li class="span5">
 		<div class="thumbnail">
 		  <div class="caption">
-			<h3>Josef Kubát <small>III. Dan</small></h3>
+			<h3>Josef Kubát <small>IV. Dan</small></h3>
 			<address>
 				+420607667343<br>
 				<a href="mailto:kubat.josef@taekwondo-strancice.cz">kubat.josef@taekwondo-strancice.cz</a>
