@@ -19,3 +19,6 @@ Na mezinárodní seminář držitelů četrných pásků do Maďarska odjíždí
 - Místo konání: Budapešť, Maďarsko
 
 Vaši [trenéři](/treneri)
+
+
+![IIC Budapešť, Maďarsko 2019]({{ site.url }}/files/iic-2019-Budapest.jpeg 'IIC Budapešť, Maďarsko 2019')
