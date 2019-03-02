@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oslava 100 let TJ Sokol Strančice (ukázka)
+title: Ukázka Taekwon-Do ITF (100 let TJ Sokol Strančice)
 tagline: 
 group : news
 categories: [novinky]
