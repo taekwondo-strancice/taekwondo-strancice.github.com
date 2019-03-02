@@ -20,5 +20,4 @@ Na mezinárodní seminář držitelů četrných pásků do Maďarska odjíždí
 
 Vaši [trenéři](/treneri)
 
-![Tričko 2018]({{ site.url }}/files/img/tricko-2018-01.png 'Tričko 2018')
-![IIC Budapešť, Maďarsko 2019]({{ site.url }}/files/iic-2019-Budapest.jpeg 'IIC Budapešť, Maďarsko 2019')
+![IIC Budapešť, Maďarsko 2019]({{ site.url }}/files/img/iic-2019-Budapest.jpeg 'IIC Budapešť, Maďarsko 2019')
