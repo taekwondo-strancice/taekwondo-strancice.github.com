@@ -15,7 +15,7 @@ proposition: "https://itfeurope.org/storage/photos/GnOCcniYNqgQMypdm5IjWVWgJO1uQ
 
 Na mezinárodní seminář držitelů četrných pásků do Maďarska odjíždí výprava všech trenérů školy Taekwon-Do ITF Strančice spolu s držiteli 1. Danů.
 
-- Datum konání: {{page.dateFrom | date: "%d."}}. – {{page.dateTo | date: "%d.%m.%Y"}}
+- Datum konání: {{page.dateFrom | date: "%d."}} – {{page.dateTo | date: "%d.%m.%Y"}}
 - Místo konání: Budapešť, Maďarsko
 
 Vaši [trenéři](/treneri)
