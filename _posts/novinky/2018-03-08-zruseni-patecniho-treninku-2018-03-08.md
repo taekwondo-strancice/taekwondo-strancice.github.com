@@ -5,7 +5,7 @@ tagline:
 group : news
 categories: [novinky]
 tags : [trénink, zrušení]
-date: 2019-08-03 18:00:00 CET
+date: 2019-03-08 18:00:00 CET
 ---
 {% include JB/setup %}
 
