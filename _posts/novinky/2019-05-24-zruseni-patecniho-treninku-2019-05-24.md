@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zrušení pátečního tréninku 24.5.
-tagline: Velikonoce
+tagline: 
 group : news
 categories: [novinky]
 tags : [trénink, zrušení]
