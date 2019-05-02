@@ -18,7 +18,7 @@ registration: "http://bit.ly/tkds-mcr-2019"
 - **KDY:** Sobota 11.května 2019, 8:30 hod
 - **KDE:** Sportovní hala ZŠ Benátky n/J, 5.května 746 (GPS: 50°17´12.733 N, 14°49´45.082 E)
 
-Více na webech organizátora - [ČNUT](https://www.taekwondocz.com/index.php/194-mistrovstvi-cr-taekwon-do-itf-2017) a nebo v [propozicích]({{ page.proposition }}).
+Více na webech organizátora - [ČNUT](https://www.taekwondocz.com/index.php/244-mistrovstvi-cr-taekwon-do-itf-2019) a nebo v [propozicích]({{ page.proposition }}).
 
 - **STARTOVNÉ:** 400 Kč (Prosíme o připravte si přesnou částku ráno před závody. Vaši trenéři ji vyberou a všechny závodníky nahlásí hromadně).
 - **TERMÍN PŘIHLÁŠEK:** do 7.května 2019 do 20:00
