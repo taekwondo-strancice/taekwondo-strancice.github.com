@@ -9,6 +9,7 @@ date: 2019-05-17 09:30:00 CEST
 dateFrom: 2019-05-17 09:30:00 CEST
 dateTo: 2019-05-17 18:00:00 CEST
 proposition: ""
+registration: "http://bit.ly/tkds-best-2019"
 ---
 {% include JB/setup %}
 
