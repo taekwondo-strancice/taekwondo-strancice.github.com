@@ -8,8 +8,8 @@ tags : [soustředění, letní, 2019]
 date: 2019-07-15 08:30:00 CEST
 dateFrom: 2019-07-15 08:30:00 CEST
 dateTo: 2019-07-21 18:00:00 CEST
-proposition: "https://goo.gl/BssKW7"
-registration: "https://goo.gl/urPiLu"
+proposition: "https://www.dropbox.com/s/va25ym3vn0kff1a/Borot%C3%ADn%20l%C3%A9to2019%20_%20propozice.pdf?dl=0"
+registration: "https://www.dropbox.com/s/ptsw62fewqafk81/Borot%C3%ADn%20l%C3%A9to%202019%20_%20p%C5%99ihl%C3%A1%C5%A1ka.pdf?dl=0"
 ---
 {% include JB/setup %}
 
