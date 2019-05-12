@@ -72,3 +72,5 @@ A nejhorší moment byl, když jsem prohrál moje individuální zápasy hned v 
 Děkujeme reprezentantům za jejch odpovědi a přejeme jim, aby si splnili své cíle!
 
 Vaši [trenéři](/treneri)
+
+![Fotografie z rozhovoru](/files/img/reprezentanti-na-WCH-2019-Inzell.JPG)
