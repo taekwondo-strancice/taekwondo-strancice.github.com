@@ -38,7 +38,7 @@ Velmi zajímavé je i zaposlouchat se do jeho zážitků a životního příběh
 součást historie korejského umění sebeobrany Taekwon-Do.
 Bylo nám potěšením setkat se s jedním z jeho posledních žijících průkopníků.
 
-Tomáš Mácha
+Tomáš Mácha   
 Vaši [trenéři](/treneri)
 
 ![Fotografie z rozhovoru](/files/img/2019-05-seminar-kim-bok-man.jpg)
