@@ -8,8 +8,6 @@ tags : [trénink, změna]
 date: 2019-06-11 17:30:00 CEST
 dateFrom: 2019-06-11 17:30:00 CEST
 dateTo: 2019-06-11 19:30:00 CEST
-proposition: ""
-registration: ""
 ---
 {% include JB/setup %}
 
