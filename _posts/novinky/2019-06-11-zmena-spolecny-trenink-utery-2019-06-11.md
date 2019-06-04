@@ -2,7 +2,7 @@
 layout: post
 title: Společný trénink pro obě skupiny v ZŠ Strančice
 tagline: 
-group : calendar
+group : news
 categories: [novinky, trenink, zmena]
 tags : [trénink, změna]
 date: 2019-06-11 17:30:00 CEST
