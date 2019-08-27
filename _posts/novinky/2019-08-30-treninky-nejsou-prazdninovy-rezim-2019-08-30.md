@@ -5,7 +5,7 @@ tagline: pátek
 group : news
 categories: [novinky, trenink]
 tags : [trénink]
-date: 2018-08-30 18:30:00+01:00 CEST
+date: 2019-08-30 18:30:00+01:00 CEST
 ---
 {% include JB/setup %}
 
