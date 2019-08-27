@@ -1,6 +1,6 @@
 ---
 layout: post
-title: První trénink sezóny v úterý 3.9.
+title: 1. trénink sezóny 2019/2020 v úterý 3.9.
 tagline: 2019/2020
 group : news
 categories: [novinky, trenink]
