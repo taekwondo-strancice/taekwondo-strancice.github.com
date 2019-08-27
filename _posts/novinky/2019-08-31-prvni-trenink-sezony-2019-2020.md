@@ -1,15 +1,15 @@
 ---
 layout: post
-title: První trénink sezóny
-tagline: 2018/2019
+title: První trénink sezóny v úterý 3.9.
+tagline: 2019/2020
 group : news
 categories: [novinky, trenink]
 tags : [trénink]
-date: 2018-08-31 18:30:00+01:00 CEST
+date: 2019-08-31 18:30:00+01:00 CEST
 ---
 {% include JB/setup %}
 
-První trénink sezóny 2018/2019 bude v úterý 4.9.2018 v obvyklých časech.
+První trénink sezóny 2019/2020 bude v úterý 3.9.2019 v obvyklých časech.
 
 ## Strančice
 
