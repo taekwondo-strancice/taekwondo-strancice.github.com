@@ -6,7 +6,7 @@ group : news
 categories: [novinky]
 tags : [nábor]
 date: 2019-09-03 18:00:00+01:00 CEST
-document: ""
+document: "https://www.facebook.com/events/669645730178761/"
 ---
 {% include JB/setup %}
 
