@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Výzva pro každého: 5 minut planku každý den celé září!
-tagline: 
+title: Výzva pro každého: 5 minut planku k
+tagline: 2019/2020
 group : news
-categories: [novinky, trenink]
-tags : [trénink]
+categories: [novinky]
+tags : [nábor]
 date: 2019-09-01 18:30:00+01:00 CEST
+document: "https://www.facebook.com/events/669645730178761/"
 ---
+
 {% include JB/setup %}
 
 Září s 5min plankem!
