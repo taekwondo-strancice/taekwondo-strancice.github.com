@@ -18,7 +18,7 @@ Večer, po deváté hodině, se nejen prvňáčci těšili do postelí. Ale zat�
 
 Ani pak však trenéři nešli spát - každý den kolem půlnoci sčítali body do týmové soutěže.  Ano, i tohle léto na děti čekala dobrodružná hra. Opět území Koreje, letos však 4. století a cesta k setkání s králem Gwanggaeto! Každý den zaznamenán v kronikách království Kogurjo, Kaja, Silla a Pekče. 
 
-K tomu přidejme středeční táborskou hvězdárnu, čtvrteční večerní únikovku, sobotní bojovku. To vše a mnohem víc můžete vidět na bezmála 600 fotkách na [FB/taekwondo-strancice](page.document).
+K tomu přidejme středeční táborskou hvězdárnu, čtvrteční večerní únikovku, sobotní bojovku. To vše a mnohem víc můžete vidět na bezmála 600 fotkách na [FB/taekwondo-strancice]({{ page.document }}).
 
 Asi Vám je jasné, že toto soustředění nebylo jen o cvičení, ale hlavně o skvělém duchu strančického oddílu Taekwon-Do!
 
