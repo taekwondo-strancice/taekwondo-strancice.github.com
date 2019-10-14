@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vzpomínky na týdenní soustředění školy Taekwon-Do ITF Strančice
+title: Vzpomínky na týdenní soustředění školy
 tagline: 2019
 group : news
 categories: [soustredeni]
