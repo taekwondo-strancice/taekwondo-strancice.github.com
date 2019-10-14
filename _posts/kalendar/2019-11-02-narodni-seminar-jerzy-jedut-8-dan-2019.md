@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Národní seminář s GM Jerzy Jedut, VIII. Dan 
-tagline: 2018
+tagline: 2019
 group : calendar
 categories: [novinky, seminar]
 tags : [seminář, "Národní seminář", 2018, "Jerzy Jedut"]
