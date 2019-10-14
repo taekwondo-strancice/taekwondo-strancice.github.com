@@ -5,7 +5,7 @@ tagline: 1.-5.10.
 group : news
 categories: [novinky, zavody]
 tags : [příprava, tréninky, ME, 2019, Sarajevo]
-date: 2019-09-03 18:00:00+01:00 CEST
+date: 2019-10-01 18:00:00+01:00 CEST
 document: "https://www.facebook.com/pg/taekwondo.strancice/photos/?tab=album&album_id=2705476826130730&ref=page_internal"
 ---
 {% include JB/setup %}
