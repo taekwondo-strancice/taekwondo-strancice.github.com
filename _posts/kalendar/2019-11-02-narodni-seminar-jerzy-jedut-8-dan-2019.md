@@ -5,9 +5,9 @@ tagline: 2019
 group : calendar
 categories: [novinky, seminar]
 tags : [seminář, "Národní seminář", 2019, "Jerzy Jedut"]
-date: 2018-11-02 08:30:00+01:00 CET
-dateFrom: 2018-11-02 08:30:00+01:00 CET
-dateTo: 2018-11-03 17:00:00+01:00 CET
+date: 2019-11-02 08:30:00+01:00 CET
+dateFrom: 2019-11-02 08:30:00+01:00 CET
+dateTo: 2019-11-03 17:00:00+01:00 CET
 proposition: "https://www.dropbox.com/s/6olpqrn0x6a3uj6/N%C3%A1rodn%C3%AD_semin%C3%A1%C5%99_2019.pdf?dl=0"
 map: "https://goo.gl/maps/P4EVhgsiU432"
 ---
