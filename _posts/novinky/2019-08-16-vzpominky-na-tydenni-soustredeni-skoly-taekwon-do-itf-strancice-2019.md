@@ -33,6 +33,16 @@ Vaši trenéři.
 Těšíme se na Vás!
 [Trenéři][1] školy Taekwon-Do ITF Strančice Petra, Tomáš, Pepa a Jarda
 
+<a href="{{ page.document }}" title="Letní soustředění - foto 1">
+  <img src="/files/img/01_2019.JPG" alt="[Letní soustředění,foto 1]">
+</a>
+<a href="{{ page.document }}" title="Letní soustředění - foto 2">
+  <img src="/files/img/02_2019.JPG" alt="[Letní soustředění,foto 2]">
+</a>
+<a href="{{ page.document }}" title="Letní soustředění - foto 3">
+  <img src="/files/img/03_2019.JPG" alt="[Letní soustředění,foto 3]">
+</a>
+
 [1]: http://taekwondo-strancice.cz/treneri/
 
 
