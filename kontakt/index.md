@@ -13,7 +13,7 @@ permalink: /kontakt/
 
 		<address>
 			<strong>Taekwon-Do ITF Strančice</strong><br>
-			Všechromy 57<br>
+			Lomená 393<br>
 			251 63 Strančice<br><br>
 			<abbr title="IČ">IČ:</abbr> 22709860<br>
 			<abbr title="Bankovní spojení">Bankovní spojení:</abbr> 2600317334/2010<br><br>
