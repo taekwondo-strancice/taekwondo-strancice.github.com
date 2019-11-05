@@ -16,7 +16,7 @@ v Holandsku těšili: tulipány, dřeváky, pitoreskní domky a dokonce i malou 
 
 Osmičlenná výprava ve složení žákyně Rozálie Pačesové, juniorů Adama Rojka, Alexe Vištala, Davida Pačesa a Kláry Klečkové a koučů Tomáše Máchy (IV.dan), Petry Bláhové (III.dan) a Hany Máchové (I.dan) se tak postarala o malou senzaci, když po sobotním klání držitelů vyšších technických stupňů zaujala Česká republika 3. místo z 16 účastnických států, a to hned po Nizozemsku s několika stovkami závodníků a po Britech, kterých přijelo více než 50. Po nedělních soubojích začátečníků, kterých už jsme se neúčastnili, se před Čechy v pořadí národů vklínila ještě německá výprava, ale to už měli naši sportovci jiné starosti. Koupali si kotníky v Severním moři, prošli si malebná zákoutí hostitelského Delftu a ochutnali místní speciality. A pak už nastal čas na devítihodinou cestu domů a trávení dojmů z velké mezinárodní soutěže, kde si naši junioři David s Alexem poprvé vyzkoušeli v zahraniční konkurenci modelový sparing a kde Adam, dosud úspěšný sběratel medailí v technických sestavách (tulech), poprvé zakusil vítězství také ve sportovním boji.
 
-Tímto děkujeme půjčovně Minoda s.r.o. za půjčení auta, dále našim sponzorům Portě s.r.o., obci Strančice a všem, kteří doma drželi palce a fandili na dálku. Už se těšíme na další soutěže a společné sportovní tréninky. 
+Tímto děkujeme půjčovně Minoda s.r.o. za půjčení auta, dále našim sponzorům Portě s.r.o., obci Strančice a všem, kteří doma drželi palce a fandili na dálku. Už se těšíme na další soutěže a společné sportovní tréninky.
 
 Výsledky Taekwon-Do ITF Strančice – Holland Cup 2019, Delft 25.-26.5.2019
 
