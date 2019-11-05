@@ -25,35 +25,35 @@ Výsledky Taekwon-Do ITF Strančice – Holland Cup 2019, Delft 25.-26.5.2019
 - Klára Klečková: zlato tul Alexej Vištal: bronz modelový sparring, bronz boj
 - David Pačes: bronz modelový sparring
 
-<a href="{{ page.document }}" title="">
+<a href="{{ page.document }}" title=" ">
   <img src="/files/img/HollandCup-modelovy_sparring.JPG" alt="[Holland Cup, 2019]">
 </a>
 
-<a href="{{ page.document }}" title="">
+<a href="{{ page.document }}" title=" ">
   <img src="/files/img/HollandCup-skolaTKDStranc_ice.jpg" alt="[Holland Cup, 2019]">
 </a>
 
-<a href="{{ page.document }}" title="">
+<a href="{{ page.document }}" title=" ">
   <img src="/files/img/HollandCup-Adamvbojiozlato.JPG" alt="[Holland Cup, 2019]">
 </a>
 
-<a href="{{ page.document }}" title="">
+<a href="{{ page.document }}" title=" ">
   <img src="/files/img/HollandCup-Adama2zlata.JPG" alt="[Holland Cup, 2019]">
 </a>
 
-<a href="{{ page.document }}" title="">
+<a href="{{ page.document }}" title=" ">
   <img src="/files/img/HollandCup-sourozenciDavidaRozka.JPG" alt="[Holland Cup, 2019]">
 </a>
 
-<a href="{{ page.document }}" title="">
+<a href="{{ page.document }}" title=" ">
   <img src="/files/img/HollandCup-Klarkasezlatemzatul.jpg" alt="[Holland Cup, 2019]">
 </a>
 
-<a href="{{ page.document }}" title="">
+<a href="{{ page.document }}" title=" ">
   <img src="/files/img/HollandCup-Alexboj.JPG" alt="[Holland Cup, 2019]">
 </a>
 
-<a href="{{ page.document }}" title="">
+<a href="{{ page.document }}" title=" ">
   <img src="/files/img/_HollandCup-Rozkaajeji_str_i_brozboje.JPG" alt="[Holland Cup, 2019]">
 </a>
 
