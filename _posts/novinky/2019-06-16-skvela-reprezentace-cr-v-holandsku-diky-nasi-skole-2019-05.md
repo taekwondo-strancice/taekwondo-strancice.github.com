@@ -11,7 +11,7 @@ document: "https://www.facebook.com/pg/taekwondo.strancice/photos/"
 
 {% include JB/setup %}
 
-„Jsou to nejkrásnější medaile, jaké jsme kdy získaly!“ prohlásily naše závodnice Rózka s Klárkou, když se každé na krku zhoupla ohromná zlatá plaketa vyobrazující snad všechno, na co jsme se
+"Jsou to nejkrásnější medaile, jaké jsme kdy získaly!" prohlásily naše závodnice Rózka s Klárkou, když se každé na krku zhoupla ohromná zlatá plaketa vyobrazující snad všechno, na co jsme se
 v Holandsku těšili: tulipány, dřeváky, pitoreskní domky a dokonce i malou vykukující krávu. Nejvíce si ale ceníme zlaté barvy, která naši výpravu na desátém výročí Holland Cupu ozdobila hned čtyřikrát. K tomu přibylo jedno stříbro a dvojí bronz.
 
 Osmičlenná výprava ve složení žákyně Rozálie Pačesové, juniorů Adama Rojka, Alexe Vištala, Davida Pačesa a Kláry Klečkové a koučů Tomáše Máchy (IV.dan), Petry Bláhové (III.dan) a Hany Máchové (I.dan) se tak postarala o malou senzaci, když po sobotním klání držitelů vyšších technických stupňů zaujala Česká republika 3. místo z 16 účastnických států, a to hned po Nizozemsku s několika stovkami závodníků a po Britech, kterých přijelo více než 50. Po nedělních soubojích začátečníků, kterých už jsme se neúčastnili, se před Čechy v pořadí národů vklínila ještě německá výprava, ale to už měli naši sportovci jiné starosti. Koupali si kotníky v Severním moři, prošli si malebná zákoutí hostitelského Delftu a ochutnali místní speciality. A pak už nastal čas na devítihodinou cestu domů a trávení dojmů z velké mezinárodní soutěže, kde si naši junioři David s Alexem poprvé vyzkoušeli v zahraniční konkurenci modelový sparing a kde Adam, dosud úspěšný sběratel medailí v technických sestavách (tulech), poprvé zakusil vítězství také ve sportovním boji.
