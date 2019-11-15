@@ -3,7 +3,7 @@ layout: post
 title: Seminář Taekwon-Do ITF s mistrem Jerzym Jedutem 8. dan
 tagline: 2019
 group : news
-categories: [clanky]
+categories: [novinky]
 tags : [ohlednutí, 2019]
 date: 2019-11-03 18:00:00+01:00 CET
 document: "https://www.facebook.com/pg/taekwondo.strancice/photos/"
