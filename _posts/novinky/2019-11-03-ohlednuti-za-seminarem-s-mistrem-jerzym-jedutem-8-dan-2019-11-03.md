@@ -24,7 +24,7 @@ Děkujeme mistru Jedutovi za skvělý zážitek a také pořadatelům za uskute�
 Již se těšíme na další setkání.
 
 <a href="{{ page.document }}" title="foto 1 - Mr. Jedut s členy TKD Strančice">
-  <img src="/files/img/20191105-jedut-1.JPG" alt="[foto 1 - Mr. Jedut s členy TKD Strančice]">
+  <img src="/files/img/20191105-jedut-1.jpg" alt="[foto 1 - Mr. Jedut s členy TKD Strančice]">
 </a>
 <a href="{{ page.document }}" title="foto 2 - 11.5.19_Rózka Pačesová - nejúspěšnější žákyně MČR 2019">
   <img src="/files/img/20191105-jedut-2.jpg" alt="[foto 2 - Tomáš Mácha, trenér, zkoušky, 5. Dan]">
