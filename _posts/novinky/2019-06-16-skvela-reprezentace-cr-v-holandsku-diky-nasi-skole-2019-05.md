@@ -3,7 +3,7 @@ layout: post
 title: Skvělá reprezentace ČR v Holandsku
 tagline: 2019
 group : news
-categories: [clanky]
+categories: [novinky]
 tags : [ohlednutí, 2019]
 date: 2019-06-16 18:00:00+01:00 CEST
 document: "https://www.facebook.com/pg/taekwondo.strancice/photos/"
