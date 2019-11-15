@@ -3,7 +3,7 @@ layout: post
 title: Všechny květnové víkendy byly ve znamení závodů a seminářů
 tagline: 2019
 group : news
-categories: [clanky]
+categories: [novinky]
 tags : [ohlednutí, 2019]
 date: 2019-10-01 18:00:00+01:00 CEST
 document: "https://www.facebook.com/pg/taekwondo.strancice/photos/"
