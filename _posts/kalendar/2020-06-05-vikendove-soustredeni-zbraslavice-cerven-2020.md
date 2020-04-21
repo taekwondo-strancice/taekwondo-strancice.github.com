@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Víkendové soustředění školy Taekwon-Do ITF Strančice
+title: Víkendové soustředění školy Taekwon-Do ITF Strančice (zrušeno)
 tagline: červen 2020
 group : calendar
 categories: [novinky, soustredeni]
@@ -12,6 +12,8 @@ proposition: "https://www.dropbox.com/s/m9rtwm2nx8bbw14/propoziceZbraslavice2020
 registration: "https://www.dropbox.com/s/08jxmpiwbclyk9i/prihlaskaZbraslavice2020.pdf?dl=0"
 ---
 {% include JB/setup %}
+
+****ZRUŠENO****
 
 Rádi bychom Vás všechny pozvali na víkendové soustředění školy Taekwon-Do ITF Strančice, které se koná {{page.date | date: "%d.%m.%Y"}} ve Zbraslavicích.
 Kompletní informace o soustředění najdete v [propozicích]({{ page.proposition }}).
