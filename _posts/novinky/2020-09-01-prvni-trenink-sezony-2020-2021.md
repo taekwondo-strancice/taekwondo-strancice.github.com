@@ -5,7 +5,7 @@ tagline: 2020/2021
 group : news
 categories: [novinky, trenink]
 tags : [trénink]
-date: 2019-09-01 18:30:00+01:00 CEST
+date: 2020-09-01 17:30:00+01:00 CEST
 ---
 
 {% include JB/setup %}
