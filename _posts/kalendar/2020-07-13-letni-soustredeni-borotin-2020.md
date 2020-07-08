@@ -48,8 +48,8 @@ Odkazy na jednotlivé dokumenty:
 
 Odkazy na vzory zde:
 
-http://www.khsstc.cz/dokumenty/vzor-prohlaseni-rodicu---bezinfekcnost-3507_3507_84_1.html
-https://www.cuscz.cz/sluzby-servis/sport-a-pravni-praxe/vyhlaska-o-zdravotni-zpusobilosti-k-telesne-vychove-a-sportu.html
+- [vzor prohlášení rodičů - bezinfekčnost](http://www.khsstc.cz/dokumenty/vzor-prohlaseni-rodicu---bezinfekcnost-3507_3507_84_1.html)
+- [Vyhláška č. 391/2013Sb. o zdravotní způsobilosti k tělesné výchově a sportu - lékařské prohlídky](https://www.cuscz.cz/sluzby-servis/sport-a-pravni-praxe/vyhlaska-o-zdravotni-zpusobilosti-k-telesne-vychove-a-sportu.html)
 
 **Kromě všech věcí, které máte v propozicích (znovu viz. příloha), prosím přibalte:**
 
