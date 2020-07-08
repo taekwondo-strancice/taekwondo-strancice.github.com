@@ -7,6 +7,7 @@ categories: [novinky, trenink]
 tags : [trénink]
 date: 2019-09-01 18:30:00+01:00 CEST
 ---
+
 {% include JB/setup %}
 
 První trénink sezóny 2020/2021 bude v úterý 1.9.2020 v obvyklých časech.
